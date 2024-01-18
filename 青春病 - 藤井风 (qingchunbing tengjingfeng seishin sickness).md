@@ -181,8 +181,8 @@ l1:   どこ へ 向かって 走り    続けんだっ  け
 l7:   Doko e  mukatte  hashiri tsudzukenda kke
 
 c1: |Db△7    Dm7b5     |Eb7(b9)     |Eb7(b9)
-l1:   気付けば  また 明 ける 空   __
-l7:   Kidzukeba mata a  keru sora __
+l1:   気付けば  また 明 ける   空
+l7:   Kidzukeba mata a  keru   sora
 
 ## E
 
