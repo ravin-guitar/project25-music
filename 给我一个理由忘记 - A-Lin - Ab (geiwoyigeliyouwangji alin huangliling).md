@@ -10,17 +10,17 @@ Singer:Julie BPM=62 1=Ab
 
 (Kb only)
 
-c: |Fm    Eo/F |Fm    Eo/F   |
-l:  _____ _____ _____ _____
+c: |Fm    Eo/F  |Fm    Eo/F
+l:  _____ ______ _____ _____
 
-c: |Fm    Eo/F |Fm    Eo/F   |
-l:  _____ _____ _____ _____
+c: |Fm    Eo/F  |Fm    Eo/F
+l:  _____ ______ _____ _____
 
-c: |Fm    Eo/F |Fm    Eo/F   |
-l:  _____ _____ _____ _____
+c: |Fm    Eo/F  |Fm    Eo/F
+l:  _____ ______ _____ _____
 
-c: |Fm    Eo/F |Fm    Eo/F   |
-l:  _____ _____ _____ _____
+c: |Fm    Eo/F  |Fm    Eo/F
+l:  _____ ______ _____ _____
 
 ## A
 
@@ -128,7 +128,8 @@ c: |Fm　      Db  |Eb
 l:  在身邊 卻 在我 的心
 
 c: |Ab  -  Ab      Bbm     Cm
-l:  裡     (前两个 共1拍半 接半拍Cm)
+l:  裡
+l2:        (前两个 共1拍半 接半拍Cm)
 
 ## E
 
