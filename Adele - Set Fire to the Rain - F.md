@@ -4,8 +4,7 @@ youTubeId: yrxq6XA_qcE
 
 # Set Fire to the Rain
 
-Singer:Julie BPM=108 1=F
-
+BPM=108 1=F
 
 ## Intro
 
@@ -19,7 +18,7 @@ c: |Dm        |F
 l:  fall,   my heart  And as it
       ^(gt/bass in)
 
-c: |C                   |Gm
+c: |C                |Gm
 l:  fell, you rose to claim it It was 
 
 c: |Dm             |F
@@ -30,7 +29,7 @@ l:  kissed my lips and you saved me
 
 ## A2
 c:   |Dm              |F
-l: My hands, they're strong But my
+l: My hands, they're   strong But my
          ^(drums in)
 
 c: |C                 |Gm
@@ -80,7 +79,7 @@ l:  lay with you I could
 c: |C          |Gm
 l:  stay there  Close my eyes
 
-c:         |Dm     |F
+c:         |Dm          |F
 l: Feel you here forever  You and
 
 c: |C                       |Csus4
@@ -136,8 +135,8 @@ l:  I wake up by the door That heart
 c:    |Am                        |C
 l: you caught must be waiting for you
 
-c:       |Bb                  |F/A
-l: Even now when we're already over
+c:       |Bb                    |F/A
+l: Even   now when we're already over
 
 c:        |Am                          |C
 l: I can't help myself from looking for you
@@ -172,15 +171,15 @@ l:  time, the last time  Oh
 
 ## Outro
 
-c: |Dm    |Dm    |C     |C     |
-l:            Oh  No~    Let it
+c: |Dm    |Dm    |C     |C
+l:  ______ __ Oh  No~ __ Let it
 
-c: |Gm    |Gm    |Bb    |C     |
-l:  Burn       Oh Oh     Let it
+c: |Gm    |Gm    |Bb    |C
+l:  Burn _ __  Oh Oh ___ Let it
 
-c: |Dm    |Dm    |C     |C     |
-l:  Burn~~~~~~~~~~~~     Let it
+c: |Dm    |Dm    |C    |C
+l:  Burn~~ ~~~~~~ ~ ___ Let it
 
-c: |Gm    |Gm    |Bb    |C     |
-l:  Burn   Let it Burn
+c: |Gm    |Gm    |Bb    |C
+l:  Burn _ Let it Burn _
             (stops at the end)^
