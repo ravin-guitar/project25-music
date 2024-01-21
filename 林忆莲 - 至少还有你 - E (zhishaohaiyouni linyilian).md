@@ -6,7 +6,7 @@ youTubeId: kXLN0bPfq6o
 
 ## Intro
 
-l2: (Kb free style)
+l3: (Kb free style)
 
 c1: (E)  |E      |C#m    |E      |C#m
 l1: _____ _______ _______ _______ _______
@@ -87,11 +87,11 @@ l1: 你掌 心的痣 我總 記得在那
 
 c1: |E    E7
 l1:  裡 _ ___
-l2:          Gt Solo starts
+l3:          Gt Solo starts
 
 ## C
 
-l2: Gt Solo
+l3: Gt Solo
 
 c1: |A    B    |G#m  C#m   |A      |B
 l1:  ____ _____  ____ _____ _______ _______
@@ -131,4 +131,4 @@ c1: |E      |A     |E      |A
 l1:  裡 ____ ______ _______
 
 c1: |E
-l2:  ends
+l3:  ends

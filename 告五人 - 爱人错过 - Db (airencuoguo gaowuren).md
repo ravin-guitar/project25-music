@@ -8,7 +8,7 @@ BPM=140 1=Db
 
 这首歌忒简单，两小节换次和弦，下面所有内容一个小节当俩
 
-(Kb音色 Shadow / Into the Krome EX)
+l5: (Kb音色 Shadow / Into the Krome EX)
 
 ## Intro
 
@@ -96,7 +96,7 @@ l1:  本来今天好好的 爱人 就错过 爱人就错过
 
 ## D
 
-l2: Gt Solo
+l3: Gt Solo
 
 c1: |Gb   |Db   |Ab   |Bbm
 l1:  _____ _____ _____
@@ -133,4 +133,4 @@ l1:  本来今天好好的 爱人 就错过 爱人就错过
 ## Outro
 
 c1: |Bbm
-l2:  直接结束
+l3:  直接结束

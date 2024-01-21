@@ -131,7 +131,7 @@ l1:  we  found love right  where we are _
 
 ## E
 
-l2: Gt solo
+l3: Gt solo
 
 c1: |D    D/F#  |G     A
 l1:  ____ ______ _____ ____
