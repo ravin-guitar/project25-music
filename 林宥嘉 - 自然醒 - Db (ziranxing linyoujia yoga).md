@@ -4,7 +4,7 @@ youTubeId: jUb1XQzNiCI
 
 # 自然醒
 
-Singer:Tony BPM=120 1=Db
+c1: BPM: 120 Key: Db
 
 ## Intro
 

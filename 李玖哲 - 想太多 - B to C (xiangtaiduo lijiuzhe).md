@@ -4,7 +4,7 @@ youTubeId: fVtmLnmkrp4
 
 # 想太多
 
-Singer:Alan BPM=77 1=B/C
+c1: BPM: 77 Key: B C
 
 ## Intro
 

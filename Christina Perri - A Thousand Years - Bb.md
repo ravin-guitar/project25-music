@@ -4,7 +4,7 @@ youTubeId: rtOvBOTyX00
 
 # A Thousand Years - Christina Perri
 
-Singer=Julie BPM=70 1=Bb Capo=3
+c1: BPM: 70 Key: Bb Capo=3
 
 ## Intro
 

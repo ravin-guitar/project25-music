@@ -4,8 +4,7 @@ youTubeId: qnDlH_S4Fak
 
 # 王妃
 
-Singer:Tony BPM=127 1=A
-
+c1: BPM: 127 Key: A
 
 ## Intro
 

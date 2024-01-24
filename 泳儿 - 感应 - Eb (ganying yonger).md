@@ -133,7 +133,7 @@ l2:  多年以来 听 起来还是    美丽 _
 
 :::abcc1
 X: 1
-K: C none style=rhythm
+K: Eb style=rhythm
 |"Eb"zBBBBz3|"Dm7b5"B3 "G7"B2 "G7/B"B3|
 :::
 l1: _ 我 吻 著 你 同 步 呼 _____ 吸這 _ 一 _ 口
@@ -146,7 +146,7 @@ l2:  里 感应着你还爱着 我的气息
 
 :::abcc1
 X: 1
-K: C none style=rhythm
+K: Eb style=rhythm
 |"Ab"B0 B0 B0 B0|"Fm"B3 "Db"B2 "Bb"B3|
 :::
 l1: _ 只 知 不 親 你 必 會 _ 冰凍 _ 至   死
@@ -166,7 +166,7 @@ l2: 就  怕  太清醒 失去了感
 
 :::abcc1
 X: 1
-K: C none style=rhythm
+K: Eb style=rhythm
 |"Bmaj7"B3 B2 B3|z"Bb"B3 B0 B0|
 :::
 l1: _ 己 _______ Ah ______ Ah
@@ -176,7 +176,7 @@ l2: _ 应 _______ Ah ______ Ah
 
 :::abcc1
 X: 1
-K: C none style=rhythm
+K: Eb style=rhythm
 |"Eb"zBBz4 "G7"B|"G7"B0 B0 B0 B0|
 :::
 l1: _ 我 吻 著 你 如 像 消失 最後天地
@@ -184,7 +184,7 @@ l2: _ 如 果 我 可 以 让 别人 来取代你
 
 :::abcc1
 X: 1
-K: C none style=rhythm
+K: Eb style=rhythm
 |"Cm"BBBz1z4 |"Gm"B0 B0 B0 B0|
 :::
 l1: _______ 直 到 瓦 解 也 未肯捨棄

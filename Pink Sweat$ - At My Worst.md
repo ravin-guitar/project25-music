@@ -4,7 +4,7 @@ youTubeId: CFTZSSJyy7A
 
 # At My Worst - Pink Sweat$
 
-BPM=92 1=C
+c1: BPM: 92 Key: C
 
 ## Intro
 

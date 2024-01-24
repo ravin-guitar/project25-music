@@ -1,6 +1,6 @@
 # Fly Me to the Moon
 
-BPM=108 1=C
+c1: BPM: 108 Key: C
 
 ## C (Solos)
 

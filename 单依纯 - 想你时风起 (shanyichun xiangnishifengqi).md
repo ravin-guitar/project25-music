@@ -4,7 +4,7 @@ youTubeId: X-YJGikyd4Q
 
 # 想你时风起 - 单依纯
 
-BPM=85 1=F#
+c1: BPM: 85 Key: F#
 
 ## Intro
 

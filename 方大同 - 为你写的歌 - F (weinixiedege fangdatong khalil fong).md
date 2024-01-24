@@ -4,7 +4,7 @@ youTubeId: -IAhp5VrSmI
 
 # 为你写的歌
 
-Singer=Jue BPM=121 1=F
+c1: BPM: 121 Key: F
 
 ## A
 

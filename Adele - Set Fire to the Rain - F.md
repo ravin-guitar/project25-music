@@ -4,7 +4,7 @@ youTubeId: yrxq6XA_qcE
 
 # Set Fire to the Rain
 
-BPM=108 1=F
+c1: BPM: 108 Key: F
 
 ## Intro
 

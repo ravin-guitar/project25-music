@@ -4,7 +4,7 @@ youTubeId: CFTZSSJyy7A
 
 # 小幸运 - 田馥甄
 
-BPM=79 1=F
+c1: BPM: 79 Key: F
 
 ## Intro
 
@@ -149,11 +149,11 @@ l1:  與你相遇 好幸運  可我已失去為你
 
 
 :::abcc1
-K: C none style=rhythm
+K: F style=rhythm
 |"Dm7" B0 B0 B0 B0 | "Am" B0 B0 B0 !>!B<!>!B
 :::
 
-l1: _ 淚流滿面 _ 的權力 ___ 但願 在 我 看 _ 不 到
+l1: ______ 淚流滿面 _ 的權力 ___ 但願 在 我 看 _ 不 到
 
 c1: |Bb             |F
 l1:  的天際   你張開 了雙翼

@@ -4,7 +4,7 @@ youTubeId: 6D79CYTxvOM
 
 # 爱人错过 - 告五人
 
-BPM=140 1=Db
+c1: BPM: 140 Key: Db
 
 这首歌忒简单，两小节换次和弦，下面所有内容一个小节当俩
 

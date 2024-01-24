@@ -4,7 +4,7 @@ youTubeId: j44lilQ-l9M
 
 # 鲜花 - 回春丹
 
-BPM=85 1=E
+c1: BPM: 85 Key: E
 
 ## Intro
 

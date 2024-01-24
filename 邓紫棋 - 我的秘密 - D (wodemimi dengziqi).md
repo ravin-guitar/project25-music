@@ -4,7 +4,7 @@ youTubeId: 8XcmT8-ZByA
 
 # 我的秘密 - 邓紫棋
 
-1=D
+c1: Key: D
 
 ## Intro
 

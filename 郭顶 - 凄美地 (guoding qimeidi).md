@@ -4,7 +4,7 @@ youTubeId: 52erdj2worE
 
 # 凄美地 - 郭顶
 
-BPM=125 1=Ab
+c1: BPM: 125 Key: Ab
 
 l5: (Kb音色 Vintage Old)
 
@@ -50,22 +50,22 @@ l3: 间奏，注意节奏
 
 :::abcc1
 X: 1
-K: C none style=rhythm
+K: Ab style=rhythm
 |"Fm"B2 B2 B "Eb" B2 "Db" B- | B2 B2 B "Cm"B2 "Bbm" B-
 :::
 :::abcc1
 X: 1
-K: C none style=rhythm
+K: Ab style=rhythm
 |"Bbm" B2 B2 B "Ab" B2 "Bbm" B- | B2 B2 B "Cm"B3
 :::
 :::abcc1
 X: 1
-K: C none style=rhythm
+K: Ab style=rhythm
 |"Fm"B2 B2 B "Eb" B2 "Db" B- | B2 B2 B "Cm"B2 "Bbm" B-
 :::
 :::abcc1
 X: 1
-K: C none style=rhythm
+K: Ab style=rhythm
 |"Bbm" B2 B2 B "Ab" B2 "Bbm" B- | B3 "Cm"B5|
 :::
 
@@ -140,21 +140,21 @@ l1:    讓我墜落 在這淒美 地
 
 :::abcc1
 X: 1
-K: C none style=rhythm
+K: Ab style=rhythm
 |"Fm"B2 B2 B "Eb" B2 "Db" B- | B2 B2 B "Cm"B2 "Bbm" B-
 :::
 :::abcc1
 X: 1
-K: C none style=rhythm
+K: Ab style=rhythm
 |"Bbm" B2 B2 B "Ab" B2 "Bbm" B- | B2 B2 B "Cm"B3
 :::
 :::abcc1
 X: 1
-K: C none style=rhythm
+K: Ab style=rhythm
 |"Fm"B2 B2 B "Eb" B2 "Db" B- | B2 B2 B "Cm"B2 "Bbm" B-
 :::
 :::abcc1
 X: 1
-K: C none style=rhythm
+K: Ab style=rhythm
 |"Bbm" B2 B2 B "Ab" B2 "Bbm" B- | B3 "Cm"B5|
 :::

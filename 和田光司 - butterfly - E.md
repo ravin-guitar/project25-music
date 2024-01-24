@@ -4,7 +4,7 @@ youTubeId: MuhkUzGAeHA
 
 # ButterFly - 和田光司
 
-Singer: Tony BPM=167 1=E
+c1: BPM: 167 Key: E
 
 ## Intro
 
