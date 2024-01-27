@@ -39,8 +39,8 @@ l1:  _____ ______  I'm thinking 'bout how
 
 ## C
 
-c1: |Em                         |A       D
-l1:  People fall in love in _ mysterious ways
+c1: |Em                           |A       D
+l1:  People fall in love in _ mys- terious ways
 
 c1: |Em                       |A
 l1:  Maybe just the touch of a hand __ Well
@@ -86,7 +86,7 @@ l1:     I know you will still love me the same      Cause honey
 ## B2
 
 c1: |D    D/F#                 |G     A
-l1:  your soul could never grow       old, it's evergreen
+l1:  your soul could never grow _____ old, it's evergreen
 
 c1: |D     D/F#  |G    A
 l1:  _____ ______ _____  And baby your
@@ -99,8 +99,8 @@ l1:  _____ ______  I'm thinking 'bout how
 
 ## C2
 
-c1: |Em                         |A       D
-l1:  People fall in love in _ mysterious ways And
+c1: |Em                           |A       D
+l1:  People fall in love in _ mys- terious ways And
 
 c1: |Em                      |A
 l1:  Maybe it's all part of a plan __ Well

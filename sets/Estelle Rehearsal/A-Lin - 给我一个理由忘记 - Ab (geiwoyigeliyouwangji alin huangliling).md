@@ -70,11 +70,11 @@ l:  在身邊 卻 在我 的心
 
 ## D
 
-c: |Fm Dbm(maj7)   |Cm     Bø7      |
+c: |Fm Dbm(maj7)   |Cm     Bø7
 l:  裡 ____________ ______ ________
 
-c: |Eb              |Eb             |
-l:  (All in, Gt Solo) ______________
+c: |Eb              |Eb    Eb/Db
+l3:  All in, Gt Solo  ______
 
 
 ## A2
