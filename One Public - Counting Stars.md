@@ -8,6 +8,8 @@ c1: BPM: 122 Key: E
 
 ## C
 
+l5: (Kb: Whistle sound)
+
 c1: |C#m               |E
 l1:  Lately, I've been, I've been losing sleep
 
@@ -34,7 +36,7 @@ l1:  _____ _____ _____
 
 ## A
 
-c1:          |C#m
+c1:           |C#m
 l1: I see this life, like a swinging vine
 
 c1: |E
