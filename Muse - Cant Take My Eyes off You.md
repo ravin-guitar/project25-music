@@ -185,7 +185,7 @@ l1:  Let me love you _
 c1: |Cmaj7  |Cmaj7  |C7     |C7
 l1:  _______ _______ _______
 
-c1: |Cmaj6  |Cmaj6  |Caug   |Caug
+c1: |C6     |C6     |Caug   |Caug
 l1:  _______ _______ _______
 
 c1: |C
