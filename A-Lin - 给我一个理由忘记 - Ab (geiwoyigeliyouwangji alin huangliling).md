@@ -38,6 +38,14 @@ l:   深夜裡 的腳步 聲總是刺 耳
 c:       |Db      Cm      |Bbm  -    Eb  Ebsus4 C/E
 l: 害怕寂 寞就讓  狂歡的城 市陪 我關 燈
 
+:::abcl6
+U:n=!style=normal!
+K: Ab bass style=rhythm
+|D,0 D,0 D,0 D,0 | D,0 D,0
+[K: style=normal]
+E,>E,=E,2
+:::
+
 ## B
 
 l4: (Gt每小节扫一下clean）
@@ -70,11 +78,16 @@ l:  在身邊 卻 在我 的心
 
 ## D
 
-c: |Fm Dbm(maj7)   |Cm     Bø7
-l:  裡 ____________ ______ ________
+c: |Fm    Dbmmaj7  |Cm     Bø7
+l:  裡 __ _________ ______ ________
 
 c: |Eb              |Eb    Eb/Db
 l3:  All in, Gt Solo  ______
+
+:::abcl4
+K: Ab
+|E>F -FD/2F/2 A/2D/2F/2A/2 {B}c3/4d3/4e/2|{B}c2d<{B}c {BA}B3/2D/4E/4 {E}F/2-E/2D|~C8
+:::
 
 
 ## A2
