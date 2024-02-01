@@ -10,13 +10,15 @@ l5: (Kb音色 Vintage Old)
 
 ## A
 
-c1: |Fm         |Fm      |Bbm7       |Bbm7
+l4: 主歌部分扫高把位的和弦琶音
+
+c1: |Fm         |Fm      |Db△7       |Db△7
 l1:   曾經我是不 安河水 _  穿過森林誤 入你心
 
 c1: |Ab           |Ab      |C7      |C7
 l1:  沒計劃紮營 擱 下了是非 一去不回
 
-c1: |Fm           |Fm      |Bbm7       |Bbm7
+c1: |Fm           |Fm      |Db△7       |Db△7
 l1:   如今我是造夢 的人吶 _  悵然若失流 連忘返啊
 
 c1: |Ab        |Ab        |C7      |C7
@@ -48,6 +50,8 @@ l1:  因  在這淒美 地
 
 l3: 间奏，注意节奏
 
+l4: 音主要是3~3~32~ 1~1~17~ 1~1~17~ 1~1~22~
+
 :::abcc1
 X: 1
 K: Ab style=rhythm
@@ -71,13 +75,13 @@ K: Ab style=rhythm
 
 ## A2
 
-c1: |Fm         |Fm      |Bbm7       |Bbm7
+c1: |Fm         |Fm      |Db△7       |Db△7
 l1:   曾經這裡是 無人之地  為何沒留下 有效地址
 
 c1: |Ab           |Ab      |C7      |C7
 l1:  肆意的消息 迷 失在十月 沒有音訊
 
-c1: |Fm           |Fm      |Bbm7       |Bbm7
+c1: |Fm           |Fm      |Db△7       |Db△7
 l1:   如今這裡是風 和日麗 _  等你再回來 雨過遷徙
 
 c1: |Ab        |Ab        |C7      |C7
