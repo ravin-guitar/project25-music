@@ -2,6 +2,8 @@
 youTubeId: zYH2Vgc-K54
 ---
 
+c1: Key: C
+
 # Cant Take My Eyes off You - Muse
 
 ## Intro
