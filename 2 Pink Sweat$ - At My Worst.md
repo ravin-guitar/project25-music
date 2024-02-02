@@ -43,7 +43,7 @@ l1: world is caving in, yeah
 
 ## B
 
-l3: (GT/KB/Bass)
+l3: (GT/KB tinkle bell/Bass)
 
 c1:            |C
 l1: Oh, oh, oh, don't,
@@ -85,7 +85,9 @@ l1: I swear I'd do the worst
 
 ## D
 
-l3: (All, KB something)
+l3: (All)
+
+l5: KB tremolo
 
 c1: |C           |Am
 l1:  Ooh, ooh-ooh
@@ -124,7 +126,7 @@ l1: you know it's sink or swim
 
 ## B2
 
-l3: (GT/KB/Bass)
+l3: (GT/KB tinkle bell/Bass)
 
 c1:            |C
 l1: Oh, oh, oh, don't,
@@ -165,7 +167,7 @@ l1: I swear I'd do the worst
 
 ## D2
 
-l3: (All, KB something)
+l3: (All, KB tremolo)
 
 c1: |C           |Am
 l1:  Ooh, ooh-ooh
@@ -178,3 +180,33 @@ l1: Ooh-ooh-ooh Ooh, ooh-ooh
 
 c1:        |Dm                  |G
 l1: Ooh-ooh ooh, ooh-ooh-ooh-ooh
+
+## C3
+
+l3: (KB/GT)
+
+l5: KB: Steel strings guitr
+
+c1:            |C
+l1: I need some body who can love me
+
+c1:      |Am
+l1: at my worst
+
+c1:             |Dm
+l1: Know I'm not perfect, but I hope
+
+c1:           |G
+l1: you see my worth, yeah
+
+c1:                 |C
+l1: 'Cause it's only you, nobody new,
+
+c1:          |Am
+l1: I put you first
+
+c1:        |Dm
+l1: And for you, girl,
+
+c1:                   |G
+l1: I swear I'd do the worst
