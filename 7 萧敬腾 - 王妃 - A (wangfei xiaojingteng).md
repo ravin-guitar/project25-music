@@ -109,6 +109,12 @@ l:  美
 
 c: |F#m   |F#m   |F#m   |F#m
 
+## D (Solos)
+
+l3: 不断重复～顺序是吉他 > 鼓 > Bass，每人16小节
+
+c: |F#m   |F#m   |F#m   |F#m
+
 ## B3
 
 c:     |F#m        |D        |E           |A

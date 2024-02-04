@@ -181,6 +181,15 @@ l1: Ooh-ooh-ooh Ooh, ooh-ooh
 c1:        |Dm                  |G
 l1: Ooh-ooh ooh, ooh-ooh-ooh-ooh
 
+## E (Solos)
+
+l3: 一个乐器solo大概16个或者32个小节
+
+l3: 咱眼神交流 (这里4个小节为一组一直循环)
+
+c1: |C      |Am     |Dm     |G
+l1:  _______ _______ _______
+
 ## C3
 
 l3: (KB/GT)

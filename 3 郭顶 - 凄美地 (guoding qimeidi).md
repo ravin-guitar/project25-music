@@ -4,9 +4,15 @@ youTubeId: 52erdj2worE
 
 # 凄美地 - 郭顶
 
+l3: 先确认下面的调应该调到了C
+
 c1: BPM: 125 Key: Ab
 
 l5: (Kb音色 Vintage Old)
+
+l3: 鼓先solo一阵，等到了主歌节奏了以后4个小节进
+
+l3: (Gt会给眼神)
 
 ## A
 
