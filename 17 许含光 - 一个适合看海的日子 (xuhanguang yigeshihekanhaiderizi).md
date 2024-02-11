@@ -8,6 +8,8 @@ c1: BPM: 85 Key: E
 
 ## Chords
 
+l5: Presets B018 Sub division B021 Soft pluck F069 reed pad
+
 ### Intro
 
 c1: |E    |Am   |E    |Am
@@ -21,7 +23,7 @@ l1:  _____ _____ _____ _____
 c1: |E      |E      |C#m    |C#m
 l1:  _______ _______ _______
 
-c1: |A      |A      |A/B    |Bo7 E/B
+c1: |A      |A      |F#m    |Bo  E
 l1:  _______ _______ _______ ____
 
 ### B / C / D
