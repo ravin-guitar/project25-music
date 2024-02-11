@@ -23,7 +23,7 @@ l1: Every- time you are near
 c1: |C         Cadd9    |C            Cadd9
 l1:  Just like me,  ___  they long to be
 
-c1: |C        G      |C
+c1: |G               |G
 l1:  Close to you ___
 
 ## A2
@@ -37,7 +37,7 @@ l1: Every- time you walk by
 c1: |C         Cadd9    |C            Cadd9
 l1:  Just like me,  ___  they long to be
 
-c1: |C        G      |C
+c1: |G               |G
 l1:  Close to you ___
 
 ## B
@@ -65,7 +65,7 @@ l1: Follow you, all a- round
 c1: |C         Cadd9    |C            Cadd9
 l1:  Just like me,  ___  they long to be
 
-c1: |C        G      |C
+c1: |G               |G
 l1:  Close to you ___
 
 ## D
@@ -73,8 +73,8 @@ l1:  Close to you ___
 c1: |Dbadd9    |C7        |Cm        |Fm
 l1:  __________ __________ __________
 
-c1: |Db Dbadd9 |Db Dbadd9 |Db   Ab   |Ab
-l1:  __ _______ __ _______ ____ _____
+c1: |Dbadd9 Db |Dbadd9 Db |Ab        |Ab
+l1:  ______ ___ ______ ___ __________
 
 ## B2
 
@@ -107,7 +107,7 @@ l1:  Close to you ___
 c1: |Db        Dbadd9   |Db           Dbadd9
 l1:  Just like me,  ___  they long to be
 
-c1: |Db       Ab     |Db
+c1: |Ab              |Ab
 l1:  Close to you ___
 
 ## Outro
