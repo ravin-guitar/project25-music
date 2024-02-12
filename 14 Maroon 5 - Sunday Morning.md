@@ -6,7 +6,7 @@ youTubeId: to5Sg2KeEnU
 
 ## Chords
 
-c1: |Dm7     |G7      |C       |C
+c1: |Dm7     |Em7     |Am7     |Am7
 l1:  ________ ________ ________
 
 
@@ -26,25 +26,34 @@ c1: > Outro (improv.) x 4
 
 ### A
 
-l1: Sunday morning, rain is falling
+c1: |Dm7      |Em7             |Am7      |Am7
+l1:     Sunday morning, rain is falling _
 
-l1: Steal some covers, share some skin (I like that)
+c1: |Dm7          |Em7               |Am7     |Am7
+l1:     Steal some covers, share some skin ___
 
-l1: Clouds are shrouding us in moments unforgettable
+c1: |Dm7          |Em7            |Am7           |Am7
+l1:     Clouds are shrouding us in moments unfor- gettable
 
-l1: You twist to fit the mold that I am in
+c1:    |Dm7             |Em7           |Am7     |Am7
+l1: You twist to fit the mold that I am in _____
 
 ### B
 
+c1:    |Dm7               |Em7
 l1: But things just get so crazy
 
-l1: Living life gets hard to do
+c1:       |Am7              |Am7
+l1: Living life gets hard to do And I would
 
-l1: And I would gladly hit the road, get up and go if I knew
+c1: |Dm7           |Em7             |Am7           |Am7
+l1:  gladly hit the road, get up and go if I knew
 
-l1: That someday it would lead me back to you
+c1:     |Dm7             |Em7            |Am7     |Am7
+l1: That someday it would lead me back to you ____
 
-l1: That someday it would lead me back to you (oh, someday)
+c1:     |Dm7             |Em7            |Am7     |Am7
+l1: That someday it would lead me back to you ____
 
 ### C
 
