@@ -6,6 +6,8 @@ youTubeId: e8R6KvWCTRQ
 
 c1: BPM: 120 Key: Eb
 
+l3: 女生key: G
+
 ## Structures
 
 c1: Intro > A > B > C > D > E
