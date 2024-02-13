@@ -9,6 +9,8 @@ youTubeId: lp-EO5I60KA
 c1: |D    D/F#  |G     A
 l1:  ____ ______ _____ ____
 
+l3: 前奏可以稍微建立下气氛，不用马上唱
+
 ## A
 
 c1: |D           D/F#                     |G             A
@@ -39,8 +41,8 @@ l1:  _____ ______  I'm thinking 'bout how
 
 ## C
 
-c1: |Em                           |A       D
-l1:  People fall in love in _ mys- terious ways
+c1: |Em                         |A       D
+l1:  People fall in love in mys- terious ways
 
 c1: |Em                       |A
 l1:  Maybe just the touch of a hand __ Well
@@ -71,22 +73,22 @@ l1:  we  found love right  where we are _
 
 ## A2
 
-c1: |D           D/F#                     |G             A
+c1: |D             D/F#                      |G             A
 l1:    And when my hair's all but gone and my memory fades
 
-c1: |D        D/F#                       |G             A
-l1:     And the crowds don't remember my  name
+c1: |D          D/F#                    |G             A
+l1:     And the crowds don't remember my name
 
-c1: |D           D/F#                      |G               A
+c1: |D         D/F#                |G                A
 l1:    When my hands don't play the strings the same way
 
-c1: |D            D/F#            |G               A
+c1: |D             D/F#           |G                A
 l1:     I know you will still love me the same      Cause honey
 
 ## B2
 
-c1: |D    D/F#                 |G     A
-l1:  your soul could never grow _____ old, it's evergreen
+c1: |D    D/F#            |G    A
+l1:  your soul could never grow old, it's evergreen
 
 c1: |D     D/F#  |G    A
 l1:  _____ ______ _____  And baby your
@@ -94,13 +96,13 @@ l1:  _____ ______ _____  And baby your
 c1: |D    D/F#              |G   A
 l1:  ___  smile's forever in  my mind and memory
 
-c1: |D     D/F#  |G            A
+c1: |D     D/F#  |G             A
 l1:  _____ ______  I'm thinking 'bout how
 
 ## C2
 
-c1: |Em                           |A       D
-l1:  People fall in love in _ mys- terious ways And
+c1: |Em                         |A       D
+l1:  People fall in love in mys- terious ways And
 
 c1: |Em                      |A
 l1:  Maybe it's all part of a plan __ Well

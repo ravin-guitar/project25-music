@@ -12,17 +12,21 @@ l1:  ________ ________ ________
 
 ## Structures (16 bars as a section)
 
-c1: Intro (improv.) x 4
+l3: Intro (improv.) x 4
 
-c1: > A > B > C > A2 > C2
+l3: > A > B > C > A2 > C2
 
-c1: > improv. x n
+l3: > improv. x n
 
-c1: > B2 > C2 x 2
+l3: > B2 > C2 x 2
 
-c1: > Outro (improv.) x 4
+l3: > Outro (improv.) x 4
 
 ## Lyrics
+
+## Intro
+
+l3: 眼神交流，可以等一下
 
 ### A
 
@@ -89,56 +93,76 @@ l1: Driving slow on Sunday morning
 
 l1: And I never want to leave
 
+### Improv.
+
+l3: Gt and Kb solos, 等一会儿假装在享受音乐
+
+l3: 快结束的时候提前准备好进
+
 ### B2
 
-l1: But things just get so crazy living
+l1: But things just get so crazy
 
-l1: Life gets hard to do (life gets hard)
+l1: Living life gets hard to do
 
-l1: Sunday morning rain is falling and I'm calling out to you
+l1: And I would gladly hit the road, get up and go if I knew
 
-l1: Singing, someday it'll bring me back to you
+l1: That someday it would lead me back to you
 
-l1: Yeah (someday oh, someday oh)
+l1: That someday it would lead me back to you
 
-l1: Find a way to bring myself back home to you
+### C2
 
-l1: You may not know
+l1: That may be all I need (all I need)
 
-### C3 (这个暂时不唱)
-
-l1: That may be all I need
-
-l1: In darkness, she is all I see (you are all I see)
+l1: In darkness, she is all I see
 
 l1: Come and rest your bones with me
 
-l1: Driving slow on Sunday morning, driving slow
+l1: Driving slow on Sunday morning
 
-l1: Yeah, yeah
+l1: And I never want to leave
 
-l1: Ah, yeah, yeah
+### D (Inst., break)
 
-l1: Ah, yeah, yeah
+l3: 和原曲一样的break
 
-l1: Ah, yeah, yeah
+:::abcc1
+|!^!C2 z/2^D z/2E z2 z/2 B,/2_B,/2A,/2|z2 z/2 B,/2C/2G,/2 z/2 B,/2C/2^F,/2 z/2 B,/2C/2=F,/2|
+:::
 
-l1: Ah, yeah, yeah
+:::abcc1
+|z2 z/2 F,/2 z/2 G,/2 z3/2 G,/2 A,/2CA,/2|!^!C2 z/2^D z/2E z2 z/2 B,/2_B,/2A,/2|
+:::
 
-l1: Ah, yeah, yeah
+:::abcc1
+|z2 z/2 B,/2C/2G,/2 z/2 B,/2C/2^F,/2 z/2 B,/2C/2=F,/2|z2 z/2 F,/2 z/2 G,/2 z2 z3/2 "C"C/2|-C2-C3/2"C#dim"^C/2-C4|
+:::
 
-l1: There's a flower in your hair
+### C3
 
-l1: I'm a flower in your hair
+l1: That may be all I need (all I need)
 
-l1: Oh, yeah, yeah
+l1: In darkness, she is all I see
 
-l1: Yeah, yeah, oh
+l1: Come and rest your bones with me
 
-l1: Woah, oh, yeah
+l1: Driving slow on Sunday morning
 
-l1: Yeah, yeah, yeah, yeah, yeah
+l1: And I never want to leave
 
-l1: (All I need)
+### C4
 
-l1: (All I see)
+l1: That may be all I need (all I need)
+
+l1: In darkness, she is all I see
+
+l1: Come and rest your bones with me
+
+l1: Driving slow on Sunday morning
+
+l1: And I never want to leave
+
+### Outro
+
+l3: 随便一点Outro结束，大概8-16个小节，鼓会渐弱
