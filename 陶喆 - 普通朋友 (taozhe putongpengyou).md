@@ -55,92 +55,131 @@ l3: Intro > A > A2 > B > C > D
 
 l3: > A3 > B2 > C2 > Outro x ?
 
-## Lyrics
+## Intro (看眼神)
 
-### Intro (看眼神)
+## A
+c1:   |F    |Bbm           |F
+l1: 等 待 我 隨時隨地在等待
 
-### A
+c1:   |Bbm           |F
+l1: 做 妳感情上的依賴
 
-l1: 等待 我隨時隨地在等待
+c1:   |Bbm         |Gm7    |Csus4 C7
+l1: 我 沒有任何的疑 問 這是 愛
 
-l1: 做妳感情上的依賴
+## A2
 
-l1: 我沒有任何的疑問 這是愛
+c1:   |F    |Bbm           |F
+l1: 我 猜 妳 早就想要說明白
 
-### A2
+c1:   |Bbm           |F
+l1: 我 覺得自己好失敗
 
-l1: 我猜 妳早就想要說明白
+c1:   |Bbm         |Gm7    |Csus4 C7
+l1: 從 天堂掉落到深 淵 多無 奈
 
-l1: 我覺得自己好失敗
+## B
 
-l1: 從天堂掉落到深淵 多無奈
+c1:   |Bbm7  |F
+l1: 我 願意改 變 (what can I do?)
 
-### B
+c1:   |Bbm7      |F
+l1: 重 新再來一遍 (just give me a chance)
 
-l1: 我願意改變 (what can I do?)
+c1:   |Bbm7    |Am7     |Dm7
+l1: 我 無法只是 普通朋友
 
-l1: 重新再來一遍 (just give me a chance)
+c1:   |Gm7    |Am7    |C7sus4    |C7
+l1: 感 情已那麼深 叫我 怎麼能放手
 
-l1: 我無法只是普通朋友
+## C
 
-l1: 感情已那麼深 叫我怎麼能放手
+c1:       |F     |Am                |Gm
+l1: 但妳說 I __ I only wanna be your friend
 
-### C
+c1:     |C7sus4 C7
+l1: 做個 朋友
 
-l1: 但妳說 I only wanna be your friend
+c1:   |F      |Am            Abm |Gm
+l1: 我 在 _ 妳 心中只是 just a    friend
 
-l1: 做個朋友
-
-l1: 我在妳心中只是 just a friend
-
+c1:     |C7sus4 C7
 l1: 不是情人
 
-l1: 我感激妳對我這樣的坦白
+c1:   |Em7b5       |A7
+l1: 我 感激妳對我這 樣的坦白
 
-l1: 但我給妳的愛暫時收不回來
+c1:   |Dm7         |G7
+l1: 但 我給妳的愛暫 時收不回來
 
-l1: So I 我不能只是 be your friend
+c1:   |Gm       |C7
+l1: So I ____ 我 不能只是 be your friend
 
-### D (Inst.)
+## D (Inst.)
 
-l1: I just can't be your friend
+c1: |F         |Bbm
+l1:  __________ I just can't be your friend
 
-### A3
+c1: |F         |Cm
+l1:  __________
 
-l1: 我猜 妳早就想要說明白
+## A3
 
-l1: 我覺得自己好失敗
+c1:   |F    |Bbm           |F
+l1: 我 猜 妳 早就想要說明白
 
-l1: 從天堂掉落到深淵 多無奈
+c1:   |Bbm           |F
+l1: 我 覺得自己好失敗
 
-### B2
+c1:   |Bbm         |Gm7    |Csus4 C7
+l1: 從 天堂掉落到深 淵 多無 奈
 
-l1: 我願意改變 (what can I do?)
+## B2
 
-l1: 重新再來一遍 (just give me a chance)
+c1:   |Bbm7  |F
+l1: 我 願意改 變 (what can I do?)
 
-l1: 我無法只是普通朋友
+c1:   |Bbm7      |F
+l1: 重 新再來一遍 (just give me a chance)
 
-l1: 感情已那麼深 叫我怎麼能放手
+c1:   |Bbm7    |Am7     |Dm7
+l1: 我 無法只是 普通朋友
+
+c1:   |Gm7    |Am7    |C7sus4    |C7
+l1: 感 情已那麼深 叫我 怎麼能放手
 
 ### C2
 
-l1: 但妳說 I only wanna be your friend
+c1:       |F     |Am                |Gm
+l1: 但妳說 I __ I only wanna be your friend
 
-l1: 做個朋友
+c1:     |C7sus4 C7
+l1: 做個 朋友
 
-l1: 我在妳心中只是 just a friend
+c1:   |F      |Am            Abm |Gm
+l1: 我 在 _ 妳 心中只是 just a    friend
 
+c1:     |C7sus4 C7
 l1: 不是情人
 
-l1: 我感激妳對我這樣的坦白
+c1:   |Em7b5       |A7
+l1: 我 感激妳對我這 樣的坦白
 
-l1: 但我給妳的愛暫時收不回來
+c1:   |Dm7         |G7
+l1: 但 我給妳的愛暫 時收不回來
 
-l1: So I 我不能只是 be
+c1:   |Gm       |C7
+l1: So I ____ 我 不能只是 be
 
+c1:
 l1: 我不能做妳的朋友
+l3: 清唱，拉长
 
 ### Outro (Inst.)
 
-l1: 我不能做普通朋友
+c1: |F         |Bbm
+l3:  大概弹9次
+
+c1:
+l1:             我不能做普通朋友
+l3: (solo结束后)
