@@ -4,6 +4,8 @@ youTubeId: _0gebE4r3sk
 
 # Close to You - Carpenters
 
+c1: Key: C to Db
+
 ## Intro
 
 c1: |Cadd9   C     |Cadd9   C
