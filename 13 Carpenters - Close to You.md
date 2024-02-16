@@ -114,26 +114,26 @@ l1:  Close to you ___
 
 ## Outro
 
-c1: |Dbadd9      |Db
-l1:  Wa-ah-ah-ah- ah
+c1: |Dbmaj9      |Bbm9  Edim/Eb
+l1:  Wa-ah-ah-ah- ah   _
 
-c1: |Ab          |Ab
+c1: |Abmaj7      |Abmaj7
 l1:  Close to you
 
-c1: |Dbadd9      |Db
-l1:  Wa-ah-ah-ah- ah
+c1: |Dbmaj9      |Bbm9  Edim/Eb
+l1:  Wa-ah-ah-ah- ah   _
 
-c1: |Ab          |Ab
+c1: |Abmaj7      |Abmaj7
 l1:  Close to you
 
-c1: |Dbadd9      |Db
-l1:  Wa-ah-ah-ah- ah
+c1: |Dbmaj9      |Bbm9  Edim/Eb
+l1:  Wa-ah-ah-ah- ah   _
 
-c1: |Ab          |Ab
+c1: |Abmaj7      |Abmaj7
 l1:  Close to you
 
-c1: |Dbadd9      |Db
-l1:  Wa-ah-ah-ah- ah
+c1: |Dbmaj9      |Bbm9  Edim/Eb
+l1:  Wa-ah-ah-ah- ah   _
 
-c1: |Ab          |Ab
+c1: |Abmaj7      |Abmaj7
 l1:  Close to you
