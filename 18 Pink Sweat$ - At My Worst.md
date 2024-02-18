@@ -6,6 +6,8 @@ youTubeId: CFTZSSJyy7A
 
 c1: BPM: 92 Key: C
 
+l3: 女生key: D
+
 ## Intro
 
 l3: (Gt/Ba)
