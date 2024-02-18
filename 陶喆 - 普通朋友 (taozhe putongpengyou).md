@@ -6,6 +6,8 @@ youTubeId: gJj5Mswbz5c
 
 c1: Key: F
 
+l3: 女生key: G
+
 ## Intro
 
 c1: Fadd9     Em7b5  A7     Dm7b5 Dbm7b5 Cm7b5

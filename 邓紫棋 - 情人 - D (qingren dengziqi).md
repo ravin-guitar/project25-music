@@ -4,6 +4,8 @@ youTubeId: iw1T-Q96fvs
 
 # 情人 - 邓紫棋
 
+c1: Key: D
+
 ## Intro
 
 l3: (Kb Only)

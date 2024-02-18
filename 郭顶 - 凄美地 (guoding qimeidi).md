@@ -6,6 +6,8 @@ youTubeId: 52erdj2worE
 
 c1: BPM: 125 Key: Ab
 
+l3: 女生key: C
+
 l5: (Kb音色 Vintage Old)
 
 ## A

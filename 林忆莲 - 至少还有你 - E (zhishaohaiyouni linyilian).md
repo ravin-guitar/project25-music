@@ -4,6 +4,8 @@ youTubeId: kXLN0bPfq6o
 
 # 至少还有你 - 林忆莲
 
+c1: Key: E
+
 ## Intro
 
 l3: (Kb free style)

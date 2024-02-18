@@ -6,6 +6,8 @@ youTubeId: 3K6kiSL3jR4
 
 c1: BPM: 85 Key: E
 
+l3: 女生key: F
+
 ## Chords
 
 l5: Presets B018 Sub division B021 Soft pluck F069 reed pad
