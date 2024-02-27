@@ -2,16 +2,16 @@
 youTubeId: Hroq64h65Os
 ---
 
-# 阿波罗 - Rubber Band
+# 未来见 - Rubber Band
 
 c1: Key: D
 
 ## Intro
 
-c1: |D      |A/C#   |Bm    |Gm
+c1: |D      |A/C#   |Bm    |Bb aug
 l1:  _______ _______ ______
 
-c1: |D      |A/C#   |Bm    |Gm
+c1: |D      |A/C#   |Bm    |Bb aug
 l1:  _______ _______ ______
 
 ## Verse
@@ -25,8 +25,8 @@ l1:   再次去 放逐那輕 狂
 c1: |D     A/C#     |C   B7
 l1:   說說 笑 年月在 播
 
-c1: |G        F#m     |Em   F#
-l1:    窩心得 使我拒絕 淡 _ 忘
+c1: |Em       D       |C#dim   F#
+l1:    窩心得 使我拒絕 淡    _ 忘
 
 ## Pre Chours
 
@@ -80,7 +80,7 @@ l1: 明日氣候 沒法去預 計
 c1:   |A
 l1: 能 否都珍 惜一世
 
-## Chorus 1
+## Chorus 2
 
 c1: |D    A     |Bm   F#m
 l1:    幾 張臉略 過 _ 未留
@@ -91,16 +91,16 @@ l1:  座只得 你 始終也 明白最初
 c1: |D     A     |C     B       |G
 l1:   是誰 能讓我 可 在 寬廣的未 來
 
-c1:   |Bb      C
-l1: 未 怕 去做 我想的我
+c1:   |Bb  -   Gm   A
+l1: 未 怕 去做 我想 的我
 
 ## Bridge
 
-c1: |G              |D/F#
-l1:   高峰的風景多美 好
+c1: |G              |D/F# Bm
+l1:   高峰的風景多美 好  _
 
-c1: |G            |D
-l1:   也共遍踏塵跟 土
+c1: |Em        C   |D
+l1:   也共遍踏 塵跟 土
 
 c1:       |G     A     |F#m    B
 l1: 在這秒 鐘 仍 一起看 夕陽 _ 約定
@@ -120,24 +120,24 @@ c1: |D     A     |C     B       |G
 l1:   是誰 能讓我 可 在 寬廣的未 來
 
 
-c1:     |Gm   A     |D
-l1: 無懼 的 _ 去唱著 歌
+c1:     |Gm   A     |Bm  A
+l1: 無懼 的 _ 去唱著 歌 _
 
 c1:     |Gm   A
 l1: 無憾 的 _ 可做
 
 ## Outro
 
-c1: |D      |A/C#   |Bm    |Gm
+c1: |D      |A/C#   |Bm    |Bb aug
 l1:  我 ____ _______ ______
 
-c1: |D      |A/C#   |Bm    |Gm
+c1: |D      |A/C#   |Bm    |Bb aug
 l1:  _______ _______ ______
 
-c1: |D      |A/C#   |Bm    |Gm
+c1: |D      |A/C#   |Bm    |Bb aug
 l1:  _______ _______ ______
 
-c1: |D      |A/C#   |Bm    |Gm
+c1: |D      |A/C#   |Bm    |Bb aug
 l1:  _______ _______ ______
 
 c1: |D
