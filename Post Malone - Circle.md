@@ -35,109 +35,176 @@ l1:  'Til we were upside down
 c1: |G/B                   |F△7
 l1:     I'll be the bad guy now
 
-c1: |F△7           G               |C△7
+c1: |F△7           G
 l1:     But, no, I ain't too proud
 
 ## Pre Chorus
 
-l1: I couldn't be there
+c1: |C△7   |G/B
+l1:  ______    I couldn't be there
 
-l1: Even when I tried
+c1: |F△7   |F△7          G
+l1:  ______    Even when I tried
 
-l1: You don't believe it
+c1: |C△7   |G/B
+l1:  ______    You don't believe it
 
-l1: We do this every time
+c1: |F△7   |F△7           G
+l1:  ______    We do this every time
 
 ## Chorus
 
-l1: Seasons change and our love went cold
+c1: |C△7                      |G/B
+l1:     Seasons change and our love went cold
 
-l1: Feed the flame 'cause we can't let it go
+c1: |F△7                        |F△7          G
+l1:     Feed the flame 'cause we can't let it go
 
-l1: Run away, but we're running in circles
+c1: |C△7                   |G/B
+l1:     Run away, but we're running in circles
 
-l1: Run away, run away
+c1: |F△7             |F△7     G
+l1:     Run away, run away ___
 
-l1: I dare you to do something
+c1:              |C△7       |G/B
+l1: I dare you to do _ some- thing
 
-l1: I'm waiting on you again
+c1:               |F△7     |F△7
+l1: I'm waiting on you _ a- gain
 
+c1:            G
 l1: So I don't take the blame
 
-l1: Run away, but we're running in circles
+c1: |C△7                   |G/B
+l1:     Run away, but we're running in circles
 
-l1: Run away, run away, run away
+c1: |F△7             |F△7    G
+l1:     Run away, run away _ run away
 
 ## Verse 2
 
-Let go
+c1: |C△7      |G/B
+l1:  Let go _  I got a feeling that it's
 
-I got a feeling that it's time to let go
+c1: |F△7            |F△7   G
+l1:  time to let go     __
 
-I say so
+c1:  |C△7      |G/B
+l1: I say so __   I knew that this was doomed
 
-I knew that this was doomed from the get-go
+c1: |F△7            |F△7      G
+l1:  from the get-go    _ You thought that it was
 
-You thought that it was special, special
+c1:  |C△7          |G/B
+l1:   special, spe- cial _ But it was just the
 
-But it was just the sex though, the sex though
+c1: |F△7                |F△7          G
+l1:  sex though, the sex though _ And I still hear the
 
-And I still hear the echoes (the echoes)
+c1:  |C△7           |G/B
+l1:   echoes (the e- choes) I got a feeling that it's
 
-I got a feeling that it's time to let it go, let it go
+c1: |F△7                |F△7          G
+l1:  time to let it go,  let it go
+l3:                      切死         鼓加花
 
 ## Chorus 2
 
-Seasons change and our love went cold
+c1: |C△7                      |G/B
+l1:     Seasons change and our love went cold
 
-Feed the flame 'cause we can't let it go
+c1: |F△7                        |F△7          G
+l1:     Feed the flame 'cause we can't let it go
 
-Run away, but we're running in circles
+c1: |C△7                   |G/B
+l1:     Run away, but we're running in circles
 
-Run away, run away
+c1: |F△7             |F△7     G
+l1:     Run away, run away ___
 
-I dare you to do something
+c1:              |C△7       |G/B
+l1: I dare you to do _ some- thing
 
-I'm waiting on you again
+c1:               |F△7     |F△7
+l1: I'm waiting on you _ a- gain
 
-So I don't take the blame
+c1:            G
+l1: So I don't take the blame
 
-Run away, but we're running in circles
+c1: |C△7                   |G/B
+l1:     Run away, but we're running in circles
 
-Run away, run away, run away
+c1: |F△7             |F△7    G
+l1:     Run away, run away _ run away
 
 ## Bridge
 
-Maybe you don't understand what I'm going through
+l3: 安静，Kb only
 
-It's only me
+c1: |C△7                        |G/B
+l1:      Maybe you don't unders- tand what I'm
 
-What you got to lose?
+c1:              |F△7             |F△7
+l1: going through    It's only me   What you got to lose?
 
-Make up your mind, tell me
+c1: |C△7                       |G/B
+l1:  Make up your mind, tell me What are you gonna do?
 
-What are you gonna do?
-
-It's only me
-
-Let it go
+c1: |F△7             |F△7
+l1:     It's only me     Let it go
 
 ## Chorus 3
 
-Seasons change and our love went cold
+c1: |C△7                      |G/B
+l1:     Seasons change and our love went cold
 
-Feed the flame 'cause we can't let it go
+c1: |F△7                        |F△7          G
+l1:     Feed the flame 'cause we can't let it go
 
-Run away, but we're running in circles
+c1: |C△7                   |G/B
+l1:     Run away, but we're running in circles
 
-Run away, run away
+c1: |F△7             |F△7     G
+l1:     Run away, run away ___
 
-I dare you to do something
+c1:              |C△7       |G/B
+l1: I dare you to do _ some- thing
 
-I'm waiting on you again
+c1:               |F△7     |F△7
+l1: I'm waiting on you _ a- gain
 
-So I don't take the blame
+c1:            G
+l1: So I don't take the blame
 
-Run away, but we're running in circles
+c1: |C△7                   |G/B
+l1:     Run away, but we're running in circles
 
-Run away, run away, run away
+c1: |F△7             |F△7    G
+l1:     Run away, run away _ run away
+
+c1: |C△7                      |G/B
+l1:     Seasons change and our love went cold
+
+c1: |F△7                        |F△7          G
+l1:     Feed the flame 'cause we can't let it go
+
+c1: |C△7                   |G/B
+l1:     Run away, but we're running in circles
+
+c1: |F△7             |F△7     G
+l1:     Run away, run away ___
+
+c1:              |C△7       |G/B
+l1: I dare you to do _ some- thing
+
+c1:               |F△7     |F△7
+l1: I'm waiting on you _ a- gain
+
+c1:            G
+l1: So I don't take the blame
+
+c1: |C△7                   |G/B
+l1:     Run away, but we're running in circles
+
+c1: |F△7             |F△7    G
+l1:     Run away, run away _ run away
