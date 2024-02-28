@@ -77,6 +77,13 @@ l3:  _____ _____ _____ _____ ba进
 
 c1: |Dsus4
 
+l4: _ 吉他加花
+:::abcl4
+K: G
+L: 1/16
+|"Dsus4" z4 z3 a bac'b agfe dcBA|"Gmaj7"B8
+:::
+
 ## A3
 
 c1:   |Gmaj7          |Gmaj7
@@ -112,6 +119,13 @@ l1: 我夠不 著還 _ 微笑忍 _ 耐         唔
 c1: |D
 l1:    等你回過頭來
 
+l4: _____________ 吉他准备solo
+:::abcl4
+K: G
+L: 1/16
+|"D"z4 z4 z4 (6defga{_b}b|"C"d'4
+:::
+
 ## D
 
 l3: (Guitar solo)
@@ -119,17 +133,15 @@ l3: (Guitar solo)
 c1: |C      G/B   |Am   G/B
 l1:  ______ ______ _ 你 會回過頭來
 
-c1: |bEmaj7 Em7   |G/A
+c1: |Ebmaj7 Em7   |G/A
 l1:  ______ ______    你會回過頭
 
 c1: |C      G/B   |Am   G/B
 l1:  來 ___ ______ _ 你 會回過頭
 
-c1: |bEmaj7 Em7   |G/A
-l1:  來 ___ _____
-l3:  __ ___ _____  (放轻)
-
-
+c1: |Ebmaj7 Em7   |G/A
+l1:  來     _____
+l3:  ______ _____  (放轻)
 
 ## B3
 
