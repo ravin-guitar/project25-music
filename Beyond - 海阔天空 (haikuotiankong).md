@@ -4,6 +4,8 @@ youTubeId: qu_FSptjRic
 
 # 海阔天空 - Beyond
 
+c1: BPM: 76 Key: F
+
 ## Intro
 
 l3: (Kb only)
