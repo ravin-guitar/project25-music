@@ -66,10 +66,10 @@ l1:     Run away, but we're running in circles
 c1: |F△7             |F△7     G
 l1:     Run away, run away ___
 
-c1:              |C△7       |G/B
+c1:              |C△7       |Gm7
 l1: I dare you to do _ some- thing
 
-c1:               |F△7     |F△7
+c1:               |F△7     |Fmmaj7
 l1: I'm waiting on you _ a- gain
 
 c1:            G
@@ -122,10 +122,10 @@ l1:     Run away, but we're running in circles
 c1: |F△7             |F△7     G
 l1:     Run away, run away ___
 
-c1:              |C△7       |G/B
+c1:              |C△7       |Gm7
 l1: I dare you to do _ some- thing
 
-c1:               |F△7     |F△7
+c1:               |F△7     |Fmmaj7
 l1: I'm waiting on you _ a- gain
 
 c1:            G
@@ -167,10 +167,10 @@ l1:     Run away, but we're running in circles
 c1: |F△7             |F△7     G
 l1:     Run away, run away ___
 
-c1:              |C△7       |G/B
+c1:              |C△7       |Gm7
 l1: I dare you to do _ some- thing
 
-c1:               |F△7     |F△7
+c1:               |F△7     |Fmmaj7
 l1: I'm waiting on you _ a- gain
 
 c1:            G
@@ -194,10 +194,10 @@ l1:     Run away, but we're running in circles
 c1: |F△7             |F△7     G
 l1:     Run away, run away ___
 
-c1:              |C△7       |G/B
+c1:              |C△7       |Gm7
 l1: I dare you to do _ some- thing
 
-c1:               |F△7     |F△7
+c1:               |F△7     |Fmmaj7
 l1: I'm waiting on you _ a- gain
 
 c1:            G
