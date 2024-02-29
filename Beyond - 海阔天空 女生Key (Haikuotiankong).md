@@ -176,6 +176,8 @@ l1:    那會怕有 一天只你共
 
 ## Outro (Inst.)
 
+l3: (Gt solo starts)
+
 c1: |Db    Eb   |Fm         |Db    Eb   |Ab
 l1:  我 __ _____ _____ _____ _____ _____
 
