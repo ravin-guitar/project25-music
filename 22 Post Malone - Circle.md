@@ -72,10 +72,7 @@ c1:              |C△7       |Gm7
 l1: I dare you to do _ some- thing
 
 c1:               |F△7     |Fmmaj7
-l1: I'm waiting on you _ a- gain
-
-c1:            G
-l1: So I don't take the blame
+l1: I'm waiting on you _ a- gain  So I don't take the blame
 
 c1: |C△7                   |G/B
 l1:     Run away, but we're running in circles
@@ -173,10 +170,7 @@ c1:              |C△7       |Gm7
 l1: I dare you to do _ some- thing
 
 c1:               |F△7     |Fmmaj7
-l1: I'm waiting on you _ a- gain
-
-c1:            G
-l1: So I don't take the blame
+l1: I'm waiting on you _ a- gain  So I don't take the blame
 
 c1: |C△7                   |G/B
 l1:     Run away, but we're running in circles
@@ -200,10 +194,7 @@ c1:              |C△7       |Gm7
 l1: I dare you to do _ some- thing
 
 c1:               |F△7     |Fmmaj7
-l1: I'm waiting on you _ a- gain
-
-c1:            G
-l1: So I don't take the blame
+l1: I'm waiting on you _ a- gain  So I don't take the blame
 
 c1: |C△7                   |G/B
 l1:     Run away, but we're running in circles
