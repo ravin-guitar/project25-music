@@ -6,6 +6,8 @@ youTubeId: wXhTHyIgQ_U
 
 c1: Key: C
 
+l3: 女生Key: E
+
 ## Intro
 
 l3: Gt扫弦 Kb点缀
