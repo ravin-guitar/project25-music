@@ -96,7 +96,7 @@ l1: And golden starlight in your eyes of blue ____
 
 ## A4
 
-c1:        |Dbmaj9               |Gbm13   Fm7/C
+c1:        |Dbmaj9               |Gm13   Fm7/C
 l1: That is why, all the girls in town  __
 
 c1:       |Cm7        |Fm7   -  Fm7/Eb Fm7/D
