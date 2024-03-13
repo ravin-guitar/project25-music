@@ -79,6 +79,11 @@ V:R  clef=treble
 V:L  clef=bass
 [V:R] | [GBf]/2_e/2B/2G/2 -G[B,_E] -[B,E]2 G,2          | [F,B,D]3 [FBcd] -[FBcd]2 B,<F,
 [V:L] | [_E,,_E,]>B,, E,<G, -G,/2E,,/2B,,/2E,/2 -E,-E, | [B,,,B,,]B,,/2F,/2 B,/2F,/2B,, -B,,B,,/2F,/2 -F,B,,/2=B,,/2
+:::
+:::abcl5
+K: F
+V:R  clef=treble
+V:L  clef=bass
 [V:R] | [B,D]2 [B,DF]2 -[B,DF][DFc] BF | [CDEG]3 F G4  |
 [V:L] | [C,,C,] G,2 G,2 -G,/2C,/2 CG,  | [C,,C,]8      |
 :::
@@ -128,18 +133,41 @@ l3:  再加一次花
 l3: Kb solo
 
 l5: 钢琴直接看这里～
+
 :::abcl5
 K: F
 V:R  clef=treble
 V:L  clef=bass
 [V:R] | [Bdfa]3 g/2a/2 [egc']>d' -d'[dfa]-|[dfa]2 [CDFA]2 [CDFA]2 [CDFA]2
 [V:L] | [B,,,B,,]F,/2B,/2 D/2B,/2F, [C,,C,]G,/2C/2 E/2C/2G, | [D,,D,]D,/2F,/2 A,D, A,D, A,/2G,/2F,/2C,/2
+:::
+:::abcl5
+K: F
+V:R  clef=treble
+V:L  clef=bass
 [V:R] | [Bdfa]3 g/2a/2 [egc']>d' -d'[ac'f'a']-|[ac'f'a']2 [CFA]2 [CF]G Ac
 [V:L] | [B,,,B,,]F,/2B,/2 D/2B,/2F, [C,,C,]G,/2C/2 E/2C/2G, | [F,,F,]C,/2F,/2 A,C, F,,>C, F,F,,
+:::
+
+:::abcl5
+K: F
+V:R  clef=treble
+V:L  clef=bass
 [V:R] | [Bdfa]3 g/2a/2 [egc']>d' -d'[Adfa]-|[Adfa]2 [CE]2 [DF]2 G/2A/2d/2a/2
 [V:L] | [B,,,B,,]F,/2B,/2 D/2B,/2F, [C,,C,]G,/2C/2 E/2C/2G, | [D,,D,]D,/2A,/2- A,A,- A,A, [D,D][C,C]
+:::
+:::abcl5
+K: F
+V:R  clef=treble
+V:L  clef=bass
 [V:R] | [Bda]>g- gd- d2 cd | a>g- gd- d2 c2
 [V:L] | [G,,G,]D,/2G,/2 B,D, G,,D,/2G,/2- G,G,, | [A,,A,]E,/2A,/2 CE, A,,E,/2A,/2- A,A,,
+:::
+
+:::abcl5
+K: F
+V:R  clef=treble
+V:L  clef=bass
 [V:R] | [DGA]2- [DGA]/2D/2G/2A/2 g/2^f/2d/2A/2 G/2^F/2D/2A,/2-| A,>G, A,/2G,/2^F,/2G,/2 D>A, C2
 [V:L] | [D,,D,]D,/2G,/2 A,D,/2A,,/2 D,,>A,, D,A,, | D,,/2A,,/2D,- D,2 D,,/2A,,/2D, [C,,C,]C,/2A,,/2
 :::
