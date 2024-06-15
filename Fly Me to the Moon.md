@@ -2,6 +2,8 @@
 
 c1: BPM: 108 Key: C
 
+l3: 女生Key: F
+
 ## Chords
 
 ### A
