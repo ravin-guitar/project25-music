@@ -49,7 +49,7 @@ l1:  Let me see what _ spring is like on
 c1: |E7               |Am7    A7
 l1:  Jupiter _ and ___ Mars, _  In
 
-## B
+### B
 
 c1: |Dm7         |G7        |Cmaj7   |Fmaj7
 l1:  other words,    hold my hand! __   In
@@ -57,7 +57,7 @@ l1:  other words,    hold my hand! __   In
 c1: |Bø          |E7     |Am7       |Bø  E7
 l1:  other words,    baby kiss me!     __
 
-## A2
+### A2
 
 c1: |Am7               |Dm7
 l1:  Fill my heart with song, and let me
@@ -71,7 +71,7 @@ l1:  you are all I long for all I
 c1: |E7             |Am7  A7
 l1:  worship & adore    _   In
 
-## B2
+### B2
 
 c1: |Dm7         |G7          |Eø     |A7
 l1:  other words,    please be true _     In
@@ -79,7 +79,9 @@ l1:  other words,    please be true _     In
 c1: |Dm7        |G7      |Cmaj7  |Bø  E7
 l1:  other words   I love you ___   __
 
-## A3
+### Solo x N
+
+### A3
 
 c1: |Am7               |Dm7
 l1:  Fill my heart with song, and let me
@@ -93,7 +95,7 @@ l1:  you are all I long for all I
 c1: |E7             |Am7  A7
 l1:  worship & adore    _   In
 
-## Outro
+### Outro
 
 c1: |Dm7         |G7          |Eø     |A7
 l1:  other words,    please be true _     In
