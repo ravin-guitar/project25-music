@@ -1,113 +1,216 @@
 
-# Fishin' In The Dark - Nitty Gritty Dirt Band
+### Fishin' In The Dark - Nitty Gritty Dirt Band
 
 c1: Key: Db
 
-## Intro
+### Intro
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___ 1 2~3 1`
+c1: |Db _ Db __|Db _ Db
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___ 1 2~2#~2 1
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
-## Verse
+```
+e|--------------|--------------
+B|--------------|--------------
+G|--------------|------------6-
+D|--------------|--------------
+A|--------------|-------4-6s8--
+E|--------------|--------------
+```
+</span>
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+c1: |Db _ Db __|Db _ Db
 
-c1: |Gb |Gb |Gb |Gb
-l1:  ___ ___ ___
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+```
+e|--------------|--------------
+B|--------------|--------------
+G|--------------|--------------
+D|--------------|--------------
+A|--------------|------4-6br-4-
+E|--------------|--------------
+```
+</span>
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+### Verse
 
-c1: |Gb |Gb |Gb |Gb
-l1:  ___ ___ ___
+c1: |Db _ Db __|Db _ Db
 
-c1: |Db |Db |Ab |Ab
-l1:  ___ ___ ___ 切死
+c1: |Gb _ Gb __|Gb _ Gb
 
-## Chorus
+c1: |Db _ Db __|Db _ Db
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
-c1: |Gb |Gb |Gb |Gb
-l1:  ___ ___ ___
+```
+e|--------------|--------------
+B|--------------|--------------
+G|------------6-|--------------
+D|--------------|--------------
+A|-------4-6s8--|--------------
+E|--------------|--------------
+```
+</span>
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+c1: |Db _ Db __|Db _ Db
 
-c1: |Gb |Gb |Gb |Gb
-l1:  ___ ___ ___
+c1: |Gb _ Gb __|Gb _ Gb
 
-c1: |Eb |Ab |Eb |Ab
-l1:  ___ ___ ___
+c1: |Db _ Db __|Ab _ Ab
+                     切死
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+### Chorus
 
-## Verse 2
+c1: |Db _ Db __|Db _ Db
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+c1: |Gb _ Gb __|Gb _ Gb
 
-c1: |Gb |Gb |Gb |Gb
-l1:  ___ ___ ___
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+```
+e|--------------|--------------
+B|--------------|--------------
+G|------------6-|--------------
+D|--------------|--------------
+A|-----4-4-6s8--|------4-6br-4-
+E|--------------|--------------
+```
+</span>
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+c1: |Db _ Db __|Db _ Db
 
-c1: |Gb |Gb |Gb |Gb
-l1:  ___ ___ ___
+c1: |Gb _ Gb __|Gb _ Gb
 
-c1: |Db |Db |Ab |Ab
-l1:  ___ ___ ___ 切死
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
-## Chorus 2
+```
+e|--------------|--------------
+B|--------------|--------------
+G|------------6-|--------------
+D|--------------|--------------
+A|-----4-4-6s8--|--------------
+E|--------------|--------------
+```
+</span>
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+c1: |Eb _ Ab __|Eb _ Ab
 
-c1: |Gb |Gb |Gb |Gb
-l1:  ___ ___ ___
+c1: |Db _ Db __|Db _ Db
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
-c1: |Gb |Gb |Gb |Gb
-l1:  ___ ___ ___
+```
+e|--------------|--------------
+B|--------------|--------------
+G|------------6-|--------------
+D|--------------|--------------
+A|-----4-4-6s8--|--------------
+E|--------------|--------------
+```
+</span>
 
-c1: |Eb |Ab |Eb |Ab
-l1:  ___ ___ ___
+### Verse 2
 
-## Chorus 3
+c1: |Db _ Db __|Db _ Db
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+c1: |Gb _ Gb __|Gb _ Gb
 
-c1: |Gb |Gb |Gb |Gb
-l1:  ___ ___ ___
+c1: |Db _ Db __|Db _ Db
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
-c1: |Gb |Gb |Gb |Gb
-l1:  ___ ___ ___
+```
+e|--------------|--------------
+B|--------------|--------------
+G|------------6-|--------------
+D|--------------|--------------
+A|-------4-6s8--|--------------
+E|--------------|--------------
+```
+</span>
 
-c1: |Eb |Ab |Eb |Ab
-l1:  ___ ___ ___
+c1: |Db _ Db __|Db _ Db
 
-## Outro
+c1: |Gb _ Gb __|Gb _ Gb
 
-c1: |Db |Db |Db |Db
-l1:  ___ ___ ___
+c1: |Db _ Db __|Ab _ Ab
+                     切死
+
+### Chorus 2
+
+c1: |Db _ Db __|Db _ Db
+
+c1: |Gb _ Gb __|Gb _ Gb
+
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
+
+```
+e|--------------|--------------
+B|--------------|--------------
+G|------------6-|--------------
+D|--------------|--------------
+A|-----4-4-6s8--|------4-6br-4-
+E|--------------|--------------
+```
+</span>
+
+c1: |Db _ Db __|Db _ Db
+
+c1: |Gb _ Gb __|Gb _ Gb
+
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
+
+```
+e|--------------|--------------
+B|--------------|--------------
+G|------------6-|--------------
+D|--------------|--------------
+A|-----4-4-6s8--|--------------
+E|--------------|--------------
+```
+</span>
+
+c1: |Eb _ Ab __|Eb _ Ab
+
+### Chorus 3
+
+c1: |Db _ Db __|Db _ Db
+
+c1: |Gb _ Gb __|Gb _ Gb
+
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
+
+```
+e|--------------|--------------
+B|--------------|--------------
+G|------------6-|--------------
+D|--------------|--------------
+A|-----4-4-6s8--|------4-6br-4-
+E|--------------|--------------
+```
+</span>
+
+c1: |Db _ Db __|Db _ Db
+
+c1: |Gb _ Gb __|Gb _ Gb
+
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
+
+```
+e|--------------|--------------
+B|--------------|--------------
+G|------------6-|--------------
+D|--------------|--------------
+A|-----4-4-6s8--|--------------
+E|--------------|--------------
+```
+</span>
+
+c1: |Eb _ Ab __|Eb _ Ab
+
+### Outro
+
+c1: |Db _ Db __|Db _ Db
 
 c1: |Db

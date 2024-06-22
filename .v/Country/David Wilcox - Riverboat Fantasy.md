@@ -2,7 +2,7 @@
 youTubeId: 7_WzkwH1L9w
 ---
 
-# Riverboat Fantasy - David Wilcox
+### Riverboat Fantasy
 
 c1: Key: Ab
 

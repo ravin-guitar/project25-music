@@ -2,7 +2,7 @@
 youTubeId: rv8agst9o_0
 ---
 
-# Big Green Tractor - Jason Aldean
+#### Big Green Tractor
 
 c1: Key: E
 
@@ -10,7 +10,7 @@ c1: Key: E
 
 ### Intro
 
-<span style="font-size:0.7em;">
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
 ```
  E                           B
@@ -31,21 +31,21 @@ c1: Key: E
 ```
 </span>
 
-### A1
+### Verse 1
 
 c1: |E ______ |B ______ |C#m7 ___ |A _ B (Driven Lick starts)
 
 c1: |E ______ |B ______ |C#m7 ___ |A _ B
 
-### B1
+### Chorus 1
 
 c1: |E ______ |B ______ |F#m7 ___ |A _ B
 
 c1: |E ______ |B ______ |F#m7 ___ |A _ B
 
-### C1
+### Bridge 1
 
-<span style="font-size:0.7em;">
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
 ```
  E                           B                       E
@@ -58,24 +58,24 @@ c1: |E ______ |B ______ |F#m7 ___ |A _ B
 ```
 </span>
 
-### A2
+### Verse 2
 
 c1: |E ______ |B ______ |C#m7 ___ |A   B
 l4:                                Lick
 
-### B2
+### Chorus 2
 
 c1: |E ______ |B ______ |F#m7 ___ |A _ B
 
 c1: |E ______ |B ______ |F#m7 ___ |A _ B
 
-### D1
+### Bridge 2
 
 c1: |C#m7 ___ |A ______ |C#m7 ___ |B
 
 ### Solo
 
-<span style="font-size:0.7em;">
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
 ```
  E                           B
@@ -107,3 +107,24 @@ c1: |E
 c1: |E ______ |B ______ |C#m7 ___ |A _ B
 
 c1: |E ______ |B ______ |C#m7 ___ |A _ B
+
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
+
+```
+ E                           B
+|---------------------------|-----------------------
+|-----------------12--------|-----------------------
+|---11b-11b----------11br-9-|11----11p9--11b--11p9--
+|-9-------------------------|-----------------------
+|---------------------------|-----------------------
+|---------------------------|-----------------------
+
+ F#m                         G
+|---------------------------|-----------------------
+|---------------------------|-----------------------
+|11p9--------------9--------|-----------------------
+|-----11------9h11---11/14--|---11------------------
+|---------------------------|-----------------------
+|---------------------------|-----------------------
+```
+</span>

@@ -158,8 +158,8 @@ l1:  ______ ______ ______
 c1: |D - - Dsus4 | - D Dsus2 D | Em7      | Cadd9
 l1:                                 ______
 
-c1: |D - - Dsus4 | - D Dsus2 D | Em7      | Cadd9
-l1:                                 ______
+c1: |D - - Dsus4 | - D Dsus2 D
+l1:  _
 
 c1: |Em7       |Cadd9   G/B   |D
 l1:     _______      _     ___
