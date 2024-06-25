@@ -2,18 +2,17 @@
 youTubeId: T4bvrywf0xg
 ---
 
-# Mr. Lonely - Midland
+### Mr. Lonely - Midland
 
 c1: Key: E
 
-## Structures
+### Intro
 
-### Riffs
+l4: 第一次program弹，弹两遍lick
 
-<span style="font-size:0.7em;">
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
 ```
- [Intro]
 e|----------------------------|
 B|----------------------------|
 G|----------------------------|
@@ -33,12 +32,15 @@ c1: |E _____ |E _____ |A ______ |E
 
 l4: 第二次加花
 
-<span style="font-size:0.7em;">
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
 ```
- [Intro]
 e|-12-12----------------------|
 B|-12-12----------------------|
+G|----------------------------|
+D|----------------------------|
+A|----------------------------|
+E|----------------------------|
 ```
 </span>
 
@@ -56,7 +58,34 @@ c1: |E _____ |E _____ |E ______ |E (first chorus)
 
 c1: |E _____ |E _____ |B ______ |B (second chorus)
 
-### Solo same as intro
+### Solo (8 bars)
+
+l4: chorus + delay
+
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
+
+```
+e|--12-12-12----------------------|
+B|--------------10bbr-------------|
+G|-4/9--9--9---9-----11bbr-9---4--|
+D|---------------------------9----|
+A|--------------------------------|
+E|--------------------------------|
+```
+</span>
+
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
+
+```
+e|--12-12-12----------------15-x-14-12-|
+B|--------------12--10-----------------|
+G|-4/9--9--9----------11bbr-12-x-11--9-|
+D|------------11--11-------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+```
+</span>
+
 
 ### Bridge (after solo)
 
@@ -81,7 +110,6 @@ c1: |B _____ |B _____ |A ______ |A
 <span style="font-size:0.7em;">
 
 ```
- [Intro]
 e|------------------------|
 B|-15---------------------|
 G|----12------------------|
