@@ -8,7 +8,7 @@ c1: Key: G
 
 ### Intro
 l3: Light drive, chorus
-<span style="font-size:0.7em;">
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
 ```
 |---------------------------------
@@ -32,7 +32,7 @@ remember to solo / jam
 
 ### Solo (end of second chorus)
 l3: overdriven, chorus
-<span style="font-size:0.7em;">
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
 ```
               |G                 |F
@@ -43,6 +43,9 @@ l3: overdriven, chorus
 |----------------------------------------
 |----------------------------------------
 ```
+</span>
+
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
 ```
                            |G
@@ -53,5 +56,4 @@ l3: overdriven, chorus
 |----------------------------------------
 |----------------------------------------
 ```
-
 </span>
