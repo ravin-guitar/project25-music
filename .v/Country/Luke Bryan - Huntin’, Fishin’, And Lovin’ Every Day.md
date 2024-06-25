@@ -2,7 +2,7 @@
 youTubeId: 6l3ukWqRU4s
 ---
 
-### Huntin’, Fishin’, And Lovin’ Every Day - Luke Bryan
+### Huntin’, Fishin’, And ...
 
 c1: Key: G
 
