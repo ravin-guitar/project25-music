@@ -2,7 +2,7 @@
 youTubeId: 7Lb9dq-JZFI
 ---
 
-## Beer Never Broke My Heart - Luke Combs
+### Beer Never Broke My Heart
 
 c1: Key: Db
 
