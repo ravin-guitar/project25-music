@@ -12,7 +12,7 @@ l3: Original Key: Bb
 
 c1: |B ______ |B ______ |B ______ |B
 
-<span style="font-size:0.7em;">
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
 ```
  Last B (Lick)
@@ -99,7 +99,7 @@ c1: |B ______ |F# _____ |B ______ |F#
 
 c1: |B ______ |B ______ |B ______ |B
 
-<span style="font-size:0.7em;">
+<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
 ```
  Last B (Lick)
