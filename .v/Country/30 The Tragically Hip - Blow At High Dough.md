@@ -6,22 +6,6 @@ youTubeId: cmCpGGXa6Ms
 
 c1: Key: D
 
-### Structures
-
-### Riffs
-
-<span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
-
-```
-e|----------------------------|
-B|----------------------------|
-G|----------------------------|
-D|-----------------23---------|
-A|-412x4-412-1-x12x--42-------|
-E|------------4---------0240--|
-```
-</span>
-
 ### Intro
 
 l4: no need to play
