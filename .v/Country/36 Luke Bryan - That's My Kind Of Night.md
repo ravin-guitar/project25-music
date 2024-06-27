@@ -41,13 +41,13 @@ c1: |G ______ |Am _____ (Power chords)
 
 c1: |Em _____ |Am _____ |Em _____ |Am
 
-c1: |G ______ |Am _____
+c1: |G ______ |Am _____ (Power chords)
 
 ### B
 
 c1: |C _ G __ |D _ Em _ |C _ G __ |D _ Em _
 
-c1: |C _ G __ |D ______ |C ______ |D
+c1: |C _ G __ |D _ Em _ |C ______ |D
 
 c1: |C ______ |D ______ |C _ D __
 
@@ -63,17 +63,17 @@ l4: play riff
 
 c1: |Em _____ |Am _____ |Em _____ |Am
 
-c1: |G ______ |Am _____ (play 16th e)
+c1: |G ______ |Am _____ (Power chords)
 
 c1: |Em _____ |Am _____ |Em _____ |Am
 
-c1: |G ______ |Am _____
+c1: |G ______ |Am _____ (Power chords)
 
 ### B2
 
 c1: |C _ G __ |D _ Em _ |C _ G __ |D _ Em _
 
-c1: |C _ G __ |D ______ |C ______ |D
+c1: |C _ G __ |D _ Em _ |C ______ |D
 
 c1: |C ______ |D ______ |C _ D __
 
@@ -86,12 +86,13 @@ c1: |Em _____ |Am _____ |Em _____ |Am
 ### D (Bridge)
 
 c1: |Em x 8
+l3:  静
 
 ### B3
 
 c1: |C _ G __ |D - Em D |C _ G __ |D _ Em _
 
-c1: |C _ G __ |D ______ |C ______ |D
+c1: |C _ G __ |D _ Em _ |C ______ |D
 
 c1: |C ______ |D ______ |C _ D __
 
