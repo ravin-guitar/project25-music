@@ -4,9 +4,11 @@ youTubeId: 35W_FWCT9Q
 
 ### Sweet Home Alabama
 
-c1: Key: B
+c1: Key: G
 
 ### Intro
+
+l3: 四下进
 
 <span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
