@@ -8,6 +8,8 @@ c1: Key: B
 
 ### Intro
 
+l3: 4下进
+
 clean, palm muted, each chord two strokes
 
 c1: |B   F#  |E   B   |G#m F#  |E

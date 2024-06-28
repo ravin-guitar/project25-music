@@ -7,10 +7,15 @@ youTubeId: 6l3ukWqRU4s
 c1: Key: G
 
 ### Intro
+
+l3: 四下预拍
+
 l3: Light drive, chorus
+
 <span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
 ```
+        |G
 |---------------------------------
 |-3-5-3-----3-3s1-----------------
 |------2h4-4-------2p0---------0--
@@ -57,3 +62,7 @@ l3: overdriven, chorus
 |----------------------------------------
 ```
 </span>
+
+### Solo (Outro)
+
+l4: dont forget
