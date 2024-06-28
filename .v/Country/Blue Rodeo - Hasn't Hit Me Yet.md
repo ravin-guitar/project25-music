@@ -7,6 +7,8 @@ l1: Capo: 2 (Play as G)
 
 ## Intro
 
+l3: 8下进
+
 c1: |D - - Dsus4 | - D Dsus2 D | Em7      | Cadd9
 l1:                                 ______
 
