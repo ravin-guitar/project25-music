@@ -5,6 +5,12 @@ c1: Key: G
 
 ### Intro
 
+l3: 8下进音效,再16下进另外一种音效
+
+l3: 4下后弹和弦，不用加花
+
+l4: H0 + Neck Split
+
 c1: |G _ C __|G _ C
 
 <span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
