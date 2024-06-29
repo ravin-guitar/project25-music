@@ -7,6 +7,8 @@ c1: Key: G
 
 ### Riff
 
+l4: 这首歌能弹riff弹riff，开始不用刷chords
+
 <span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
 ```
