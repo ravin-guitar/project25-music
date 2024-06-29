@@ -5,6 +5,8 @@ c1: Key: G
 
 ### Intro (8 bars)
 
+l3: 八下进
+
 l4: clean on Neck PU
 
 l4: 2 bars pattern

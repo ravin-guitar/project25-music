@@ -8,6 +8,8 @@ c1: Key: F#
 
 ### Intro (4 bars)
 
+l4: 一直到chorus不弹
+
 c1: |:F# _____ |Badd9 __ :|
 
 ### Verse 1
@@ -22,7 +24,7 @@ c1: |F# Badd9 |F# Badd9 |C# _____ |B
 c1: |F# _____ |Badd9 __ |F# _____ |Badd9 __
 l3:  _
 
-c1: |F#  C# _ |B  F# _ |F# _____ |C
+c1: |F#  C# _ |B  F# _ |F# _____ |B
 l4:  ___       ___                过载扫一下进solo
 
 ### Solo 1
@@ -67,7 +69,7 @@ l4: __________________ clean_chorus starts
 c1: |F# _____ |Badd9 __ |F# _____ |Badd9 __
 l3:  _
 
-c1: |F#  C# _ |B  F# _ |F# _____ |C
+c1: |F#  C# _ |B  F# _ |F# _____ |B
 l4:  ___       ___
 
 ### Bridge

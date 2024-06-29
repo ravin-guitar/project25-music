@@ -10,6 +10,8 @@ l3: Capo: 3 play as C
 
 #### Intro:
 
+l3: 四下进
+
 c1: [ _ |Am __ |C ___ |G ___ |Dm _ ] x 2
 
 <span style="font-size:0.7em;">

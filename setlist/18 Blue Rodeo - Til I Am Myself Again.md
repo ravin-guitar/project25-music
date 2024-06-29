@@ -5,7 +5,7 @@ youTubeId: CKcZsBLS17U
 ### Til I Am Myself Again
 
 c1: Key: G
-l1: 演出key Gb
+l1: 演出key Gb (谱变调)
 
 ### Intro
 
