@@ -8,6 +8,10 @@ c1: Key: Eb
 
 ### All the way thru
 
+l3: 四下进
+
+l4: H0 + coil split
+
 c1: |Cm   Eb   |Ab   Eb
 l1:  ____ _____ ____ _____
 
