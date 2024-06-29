@@ -3,7 +3,7 @@
 
 c1: Key: A
 
-l3: Intro played by program?
+l3: Intro played by program
 
 ## Structures
 
@@ -24,6 +24,8 @@ c1: |E ______ |E ______ |E ______ |E
 ### Chorus 1
 
 c1: |A ______ |A ______ |A ______ |A
+
+l4: 差不多这里开始弹
 
 c1: |Bm7 ____ |Bm7 ____ |E ______ |E
 
