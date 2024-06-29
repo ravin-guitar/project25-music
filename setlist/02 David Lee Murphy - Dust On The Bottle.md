@@ -4,7 +4,7 @@ youTubeId: uNkF_ZpQ4eg
 
 ### Dust On The Bottle
 
-c1: Key: C
+c1: Key: B
 
 ### Intro
 
