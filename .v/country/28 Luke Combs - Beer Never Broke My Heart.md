@@ -6,9 +6,15 @@ youTubeId: 7Lb9dq-JZFI
 
 c1: Key: Db
 
-### Structures
+### Intro
 
-### Riffs
+l3: program先弹，准备进
+
+c1: |Db _____ (Banjo, distortion fade-in
+l3:  _
+
+c1: |Db _______ |Db _______
+l3:  _
 
 <span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
@@ -21,14 +27,6 @@ A|-412x4-412-1-x12x--42-------|
 E|------------4---------0240--|
 ```
 </span>
-
-### Intro
-
-c1: |Db _____ (Banjo, distortion fade-in
-l3:  _
-
-c1: |Db _______ |Db _______
-l3:  _
 
 c1: |Db _______ |Db _______
 

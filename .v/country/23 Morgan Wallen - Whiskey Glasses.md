@@ -13,7 +13,7 @@ l1:  _______ _______ _______
 
 l4: from repeat: play chords at "and"s
 
-### Bridge (before verse 2 and turnaround)
+### Bridge (before verse 2, turnaround and when outro (2 times))
 
 l4: driven, Bridge PU
 

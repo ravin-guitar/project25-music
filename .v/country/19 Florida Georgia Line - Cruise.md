@@ -2,13 +2,17 @@
 youTubeId: 8PvebsWcpto
 ---
 
-# Cruise - Florida Georgia Line
+### Cruise
 
 c1: Key: Bb
 
-## Structures
+#### Vocal fist 4 bars
 
-### Riffs
+#### Intro 8 bars
+
+l4: play intro
+
+c1: |Bb _____ |F _____ |Gm7 ___ |Eb9
 
 <span style="font-size:0.7em; scroll-snap-stop: always; scroll-snap-align: start;">
 
@@ -22,14 +26,6 @@ A||--------------------------------------:||
 E||--------------------------------------:||
 ```
 </span>
-
-#### Vocal fist 4 bars
-
-#### Intro 8 bars
-
-l4: play intro
-
-c1: |Bb _____ |F _____ |Gm7 ___ |Eb9
 
 c1: |Bb _____ |F _____ |Gm7 ___ |Eb9
 
