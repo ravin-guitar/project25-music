@@ -220,9 +220,9 @@ c1: |Bb         C
 l1:    那會怕有 一天只你共 
 
 c1: |Eb ______  Eb
-l1:  我
+l1:  我 refrain
 
-## Pre Chorus 2
+## Last Time
 
 l3: (Kb only)
 
