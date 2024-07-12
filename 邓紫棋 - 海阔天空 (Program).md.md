@@ -219,8 +219,8 @@ l1:    背棄了理 想 誰人 都 可  以
 c1: |Bb         C
 l1:    那會怕有 一天只你共 
 
-c1: |Eb ______  Eb
-l1:  我 refrain
+c1: |Eb          |Eb
+l1:  我 (refrain)
 
 ## Last Time
 
