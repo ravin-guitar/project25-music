@@ -205,17 +205,6 @@ l1:    背棄了理 想 誰人 都 可  以
 c1: |Bb         C         |F
 l1:    那會怕有 一天只你共 我
 
-## Pre Chorus 2
-
-l3: (Kb only)
-
-c1: |Bb         C      |F  C/E Dm -
-l1:    背棄了理 想 誰人 都 可  以
-
-c1: |Bb         C         |F
-l1:    那會怕有 一天只你共 我
-l3:                        All加花进
-
 ## Chorus 4
 
 c1:     |Bb       C       |F
@@ -228,7 +217,21 @@ c1: |Bb         C      |F  C/E Dm -
 l1:    背棄了理 想 誰人 都 可  以
 
 c1: |Bb         C
-l1:    那會怕有 一天只你共
+l1:    那會怕有 一天只你共 
+
+c1: |Eb          |Eb
+l1:  我 (refrain)
+
+## Last Time
+
+l3: (Kb only)
+
+c1: |Bb         C      |F  C/E Dm -
+l1:    背棄了理 想 誰人 都 可  以
+
+c1: |Bb         C         |F
+l1:    那會怕有 一天只你共 我
+l3:                        All加花进
 
 ## Outro (Inst.)
 
