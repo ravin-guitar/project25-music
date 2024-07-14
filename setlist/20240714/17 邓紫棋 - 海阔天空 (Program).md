@@ -6,6 +6,8 @@ youTubeId: qu_FSptjRic
 
 c1: BPM: 76 Key: F
 
+l3: 女生Key: Ab
+
 ## Intro
 
 l3: (Kb only)
@@ -24,7 +26,7 @@ V:L  clef=bass
 [V:L]     [F,,F,,,]8-|[F,,F,,,]3 D- DB, CF| _E,, B,,2 _E,-E,4 | B,,, F,,2 B,,-B,,4 | C,,G,, C,2-C,C, F,B,,|C,,G,,C,G, c,4
 :::
 
-## Verse
+## Verse 1
 
 c1:     |F      |C
 l1: 今天 我 寒夜 裡看雪飄過
@@ -39,6 +41,8 @@ l1: 風雨 裏 追趕 霧裡 分不清影蹤
 c1:     |Bb             |F
 l1: 天空 海闊你與我 可會 變 (誰沒在變)
 
+## Verse 2
+
 c1:     |F      |C
 l1: 多少 次 迎著 冷眼與嘲笑
 
@@ -52,7 +56,7 @@ l1: 一剎 那 恍惚 若有 所失的感覺
 c1:     |Bb             |F
 l1: 不知 不覺已變淡 心裡 愛 (誰明白我)
 
-## Chorus
+## Chorus 1
 
 l3: Bass in
 
@@ -68,7 +72,7 @@ l1:    背棄了理 想 誰人 都 可  以
 c1: |Bb         C
 l1:    那會怕有 一天只你共
 
-## Bridge
+## Instrumental
 
 l3: Kb only
 
@@ -92,7 +96,7 @@ c1: |E      |Bb     |C      |C
 l1:  我 ____ _______ ____ __
 l3:                       镲
 
-## Verse 2
+## Verse 3
 
 l3: Gt/Drums in
 
@@ -120,19 +124,12 @@ l1:    也會怕有 一天會跌 倒 __
 c1: |Bb         C      |F  C/E Dm -
 l1:    背棄了理 想 誰人 都 可  以
 
-c1: |Bb         C         |F
-l1:    那會怕有 一天只你共 我    Oh yeah
+c1: |Bb         C
+l1:    那會怕有 一天只你共
 
-l3:  _____________________ 加花  Energy up
+## Keys Solo
 
-c1: |F
-l3:  再加一次花
-
-## Interlude (Inst.)
-
-l3: Kb solo
-
-l5: 钢琴直接看这里～
+l5: 钢琴直接看这里，弹完了到 Turnaround
 
 :::abcl5
 K: F
@@ -173,7 +170,7 @@ V:L  clef=bass
 :::
 
 c1: |Bb    C    |Dm         |Bb    C    |F
-l1:  _____ _____ _____ _____ _____ _____
+l1:  我 __ _____ _____ _____ _____ _____
 
 c1: |Bb    C    |Dm         |Bb         |C
 l1:  _____ _____ _____ _____ _____ _____
@@ -181,7 +178,7 @@ l1:  _____ _____ _____ _____ _____ _____
 c1: |D          |D
 l1:  _____ _____
 
-## Pre Chorus
+## Turnaround
 
 l5: Gt失真节奏
 
@@ -237,17 +234,19 @@ l3:                        All加花进
 
 l3: (Gt solo starts)
 
-c1: |Db    Eb   |Fm         |Db    Eb   |Ab
+c1: |Bb    C    |Dm         |Bb    C    |F
 l1:  我 __ _____ _____ _____ _____ _____
 
-c1: |Db    Eb   |Fm         |Db    Eb   |Ab
+c1: |Bb    C    |Dm         |Bb    C    |F
 l1:  _____ _____ _____ _____ _____ _____
 
-c1: |Db    Eb   |Fm         |Db    Eb   |Ab
+c1: |Bb    C    |Dm         |Bb    C    |F
 l1:  _____ _____ _____ _____ _____ _____
 
-c1: |Db    Eb   |Fm         |Db    Eb   |Ab
+c1: |Bb    C    |Dm         |Bb    C    |F
 l1:  _____ _____ _____ _____ _____ _____
 
-c1: |Db    Eb   |Fm         |Db    Eb   |Ab
+## Solo Last Time
+
+c1: |Bb    C    |Dm         |Bb    C    |F
 l3:  _____ _____ _____ _____ 渐 慢  ____ 结束
