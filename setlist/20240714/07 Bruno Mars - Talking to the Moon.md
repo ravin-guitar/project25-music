@@ -36,7 +36,7 @@ l1: You're all I had You're all I had
 c1: |F#m                       
 l1:    At night when the stars
 
-c1: |A                  
+c1: |B
 l1:     light up my room
 
 c1: |F#m               |B
@@ -95,7 +95,7 @@ l1:  talkin' back, ohhh
 c1: |F#m                       
 l1:    At night when the stars
 
-c1: |A                  
+c1: |B
 l1:     light up my room
 
 c1: |F#m               |B
