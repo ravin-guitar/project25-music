@@ -10,8 +10,11 @@ c1: Key: Eb
 
 :::abcc1
 K: Eb style=rhythm
-|"Bdim"B0 B0 B0 B0|"Cm"B0 B0 B0 B0|"Fm7"B0 B0 B0 B0|"Dm7"B0 B0 B0 B0
 |"Bdim"B0 B0 B0 B0|"Cm"B0 B0 B0 B0|"Fm7"B0 B0 B0 B0|"Dm7"B0 B0 B0 B0|
+:::
+:::abcc1
+K: Eb style=rhythm
+"Bdim"B0 B0 B0 B0|"Cm"B0 B0 B0 B0|"Fm7"B0 B0 B0 B0|"Dm7"B0 B0 B0 B0|
 :::
 
 ### Verse 1
