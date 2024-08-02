@@ -6,6 +6,10 @@ youTubeId: Qh3mdwaI-XM
 
 c1: Key: Eb
 
+### Drums in
+
+l3: cue倒数四下以后鼓打四下预拍
+
 ### Intro
 
 :::abcc1
