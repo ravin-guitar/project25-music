@@ -232,17 +232,17 @@ l3:                        All加花进
 
 l3: (Gt solo starts)
 
-c1: |Db    Eb   |Fm         |Db    Eb   |Ab
+c1: |Bb    C    |Dm         |Bb    C    |F
 l1:  我 __ _____ _____ _____ _____ _____
 
-c1: |Db    Eb   |Fm         |Db    Eb   |Ab
+c1: |Bb    C    |Dm         |Bb    C    |F
 l1:  _____ _____ _____ _____ _____ _____
 
-c1: |Db    Eb   |Fm         |Db    Eb   |Ab
+c1: |Bb    C    |Dm         |Bb    C    |F
 l1:  _____ _____ _____ _____ _____ _____
 
-c1: |Db    Eb   |Fm         |Db    Eb   |Ab
+c1: |Bb    C    |Dm         |Bb    C    |F
 l1:  _____ _____ _____ _____ _____ _____
 
-c1: |Db    Eb   |Fm         |Db    Eb   |Ab
+c1: |Bb    C    |Dm         |Bb    C    |F
 l3:  _____ _____ _____ _____ 渐 慢  ____ 结束
