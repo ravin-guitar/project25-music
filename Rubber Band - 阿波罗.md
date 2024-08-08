@@ -34,7 +34,7 @@ l1: 如若 太記掛我等不到 白天 _ 花 瓣 藏一  片
 
 ## Pre Chorus
 
-c1:     |Am          |E/G    |Gm7      C   |F       |Fm
+c1:     |Am          |E/G#   |Gm7      C   |F       |Fm
 l1: 延續 了四季像首舊 調 ____ 愛煞你看 我會 不經意的 笑
 
 c1:   |C/E       |Bbmaj7 |Bbmaj7    |G      |G
