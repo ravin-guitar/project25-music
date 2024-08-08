@@ -57,7 +57,7 @@ l1: 世 界沒有光 火花如驟 降   靠我 掌心給你釋
 
 ## Interlude
 
-c1: |Cmaj7  |Fmaj7  |Abmaj7 |Gsus4
+c1: |Cmaj7  |Fmaj7  |Bbmaj7 |Gsus4
 l1:  放   __ _______ _______
 
 ## Verse + Bridge 2
@@ -65,7 +65,7 @@ l1:  放   __ _______ _______
 c1: |C             |Cmaj7      |C7     C/E   |F
 l1:  日蝕下在為你寫   字 期待你 再看見 我的 _ 那時
 
-c1:     |Fm      |C/E       |Bb     |Bb        |G       |G
+c1:     |Fm      |C/E       |Bbmaj7 |Bbmaj7    |G       |G
 l1: 還是 很新鮮如 一天剛再開 始 ____     再送予 你這首新 詩
 
 ## Chorus 2
