@@ -33,7 +33,7 @@ l1:  烈日慢慢盛放海 面 還為 你暖透了 冬天那花 蕊
 c1:     |Fm            |C/E      |Dm7     |G7
 l1: 如若 太記掛我等不到 白天 _ 花 瓣 藏一  片
 
-## Pre Chourus
+## Pre Chorus
 
 c1:     |Am          |E    |Gm7      C   |F       |Fm
 l1: 延續 了四季像首舊  調 _ 愛煞你看 我會 不經意的 笑
@@ -94,7 +94,7 @@ l1:  看守一世 即使一律千 篇 ____   這節奏
 c1: |G     |G
 l1:    歷遍 萬年
 
-## Interlude (Inst.)
+## Solo (Keys)
 
 c1: |Cmaj7  |Cmaj7  |Fmaj7  |Fm7
 l1:  _______ _______ ______
@@ -116,7 +116,7 @@ l1:  幾千攝氏陽 光 _ 這 溫暖不趕 不 _ 慌
 c1:   |Am      |D7/F#   |Fmaj7    |G
 l1: 世 界沒有光 火花如驟 降   靠我 掌心給你釋
 
-## Interlude 2
+## Outro
 
 c1: |Cmaj7  |Em     |F     |Abmaj7
 l1:  放~  __ _______ ______
