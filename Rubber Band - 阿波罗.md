@@ -17,7 +17,6 @@ c1: |Cmaj7   |Fmaj7  |Abmaj7 |Gsus4
 l3:  鼓贝斯进 _______ _______
 
 c1: |G
-l1:
 
 ## Verse
 
