@@ -10,10 +10,10 @@ l3: 女生Key: F
 
 ## Intro
 
-c1: |Cmaj7  |Fmaj7  |Abmaj7 |Gsus4
+c1: |Cmaj7  |Fmaj7  |Bbmaj7 |Gsus4
 l1:  _______ _______ _______
 
-c1: |Cmaj7   |Fmaj7  |Abmaj7 |Gsus4
+c1: |Cmaj7   |Fmaj7  |Bbmaj7 |Gsus4
 l3:  鼓贝斯进 _______ _______
 
 c1: |G
@@ -34,10 +34,10 @@ l1: 如若 太記掛我等不到 白天 _ 花 瓣 藏一  片
 
 ## Pre Chorus
 
-c1:     |Am          |E    |Gm7      C   |F       |Fm
-l1: 延續 了四季像首舊  調 _ 愛煞你看 我會 不經意的 笑
+c1:     |Am          |E/G    |Gm7      C   |F       |Fm
+l1: 延續 了四季像首舊 調 ____ 愛煞你看 我會 不經意的 笑
 
-c1:   |C/E       |Bb     |Bb        |G      |G
+c1:   |C/E       |Bbmaj7 |Bbmaj7    |G      |G
 l1: 地 球哪天不破 曉 ____   以你笑臉 普照 __
 
 ## Chorus
@@ -45,13 +45,13 @@ l1: 地 球哪天不破 曉 ____   以你笑臉 普照 __
 c1:       |Cmaj7     |Em     |F         |C   G/B
 l1: 抱起了 幾千攝氏陽 光 來讓 相戀近乎熱 燙 _
 
-c1:     |Am         |D7/F#      |Dm7     |Abmaj7
+c1:     |Am         |D7         |Dm7     |Bbmaj7
 l1: 如淚 要落下 待我 瞬間走訪 能 在光速間 蒸發絕望
 
 c1:       |Cmaj7     |Em     |F       |C    G/B
 l1: 抱起了 幾千攝氏陽 光 _ 這 溫暖不趕 不 _ 慌
 
-c1:   |Am      |D7/F#   |Fmaj7    |G
+c1:   |Am      |D7      |Fmaj7    |G
 l1: 世 界沒有光 火花如驟 降   靠我 掌心給你釋
 
 
@@ -73,13 +73,13 @@ l1: 還是 很新鮮如 一天剛再開 始 ____     再送予 你這首新 詩
 c1:       |Cmaj7     |Em     |F         |C   G/B
 l1: 抱起了 幾千攝氏陽 光 來讓 相戀近乎熱 燙 _
 
-c1:     |Am         |D7/F#      |Dm7     |Abmaj7
+c1:     |Am         |D7         |Dm7     |Bbmaj7
 l1: 如淚 要落下 待我 瞬間走訪 能 在光速間 蒸發絕望
 
 c1:       |Cmaj7     |Em     |F       |C    G/B
 l1: 抱起了 幾千攝氏陽 光 _ 這 溫暖不趕 不 _ 慌
 
-c1:   |Am      |D7/F#   |Fmaj7    |G
+c1:   |Am      |D7      |Fmaj7    |G
 l1: 世 界若怕黑 火花全驟 降   有我 送出一抹金
 
 ## Pre Chorus 2
@@ -95,10 +95,10 @@ l1:    歷遍 萬年
 
 ## Solo (Keys)
 
-c1: |Cmaj7  |Cmaj7  |Fmaj7  |Fm7
+c1: |Cmaj7  |Cmaj7  |Fmaj7  |- Bbmaj7 - -
 l1:  _______ _______ ______
 
-c1: |Cmaj7  |Cmaj7  |Fmaj7  |Fm7
+c1: |Cmaj7  |Cmaj7  |Fmaj7  |- Bbmaj7 - -
 l1:  _______ _______ ______
 
 ## Chorus 3
@@ -106,28 +106,29 @@ l1:  _______ _______ ______
 c1:       |Cmaj7     |Em     |F         |C   G/B
 l1: 抱起了 幾千攝氏陽 光 來讓 相戀近乎熱 燙 _
 
-c1:     |Am         |D7/F#      |Dm7     |Abmaj7
+c1:     |Am         |D7         |Dm7     |Abmaj7
 l1: 如淚 要落下 待我 瞬間走訪 能 在光速間 蒸發絕望
 
 c1: |Cmaj7     |Em     |F       |C    G/B
 l1:  幾千攝氏陽 光 _ 這 溫暖不趕 不 _ 慌
 
-c1:   |Am      |D7/F#   |Fmaj7    |G
+c1:   |Am      |D7      |Fmaj7    |G
 l1: 世 界沒有光 火花如驟 降   靠我 掌心給你釋
 
 ## Outro
 
-c1: |Cmaj7  |Em     |F     |Abmaj7
+c1: |Cmaj7  |Em     |F     |Bbmaj7
 l1:  放~  __ _______ ______
 
-c1: |Cmaj7  |Em     |F     |Abmaj7
+c1: |Cmaj7  |Em     |F     |Bbmaj7
 l1:  喔~ ___ _______ ______
 
-c1: |Cmaj7     |Em        |F       |Abmaj7
+c1: |Cmaj7     |Em        |F       |Bbmaj7
 l1:  Is all I.. is all I.. is all I can...
 
-c1: |Cmaj7  |Em     |F     |Abmaj7
+c1: |Cmaj7  |Em     |F     |Bbmaj7
 l1:  (can~~) _______ ______
+l3:                         (click停)
 
 c1:         |Cmaj7
 l1: I always shine for you
