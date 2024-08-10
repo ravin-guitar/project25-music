@@ -6,13 +6,15 @@ youTubeId: to5Sg2KeEnU
 
 ## Intro
 
-c1: |Dm7 _ G7 __ |Cmaj7
-
-l3: _ 鼓先打两个小节
+l3: ⬇️鼓先打两个小节
 
 c1: |Dm7 _ G7 __ |Cmaj7
 
-l3: _ Kb进
+l3: ⬇️Kb进
+
+c1: |Dm7 _ G7 __ |Cmaj7
+
+l3: _
 
 c1: |Dm7 _ G7 __ |Cmaj7
 
