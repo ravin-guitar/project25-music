@@ -13,10 +13,7 @@ l3: 女生key: F
 c1: |D    D/F#  |G     A
 l1:  ____ ______ _____ ____
 
-c1: |D    D/F#  |G     A
-l1:  ____ ______ _____ ____
-
-l3: 前奏可以稍微建立下气氛，不用马上唱
+c1: |D __ D/F# __ |G __ A
 
 ## Verse
 
@@ -169,8 +166,11 @@ l1:  we  found love right  where we are _ Baby
 c1: |Bm  A     G    D/F#  |Em    A  D   -
 l1:  we  found love right  where we are _ And
 
+l3: ⬇️鼓和贝斯停
+
 c1: |Bm  A     G    D/F#  |Em    A  D   -
 l1:  we  found love right  where we are _
 
+l3: ⬇️结束
+
 c1: |D
-l3:  结束
