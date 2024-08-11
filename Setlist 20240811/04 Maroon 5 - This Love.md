@@ -271,12 +271,13 @@ K: Eb style=rhythm
 [K: style=normal]
 "G7" G z/2F3/2|
 :::
-l4: ______ 失真
 
 :::abcc1
 K: Eb style=rhythm
 |"Cm"BB z2 "Fm7" BB z2|"Bb"BB z2 z"Eb"B z/2 B3/2|
 :::
+
+l4: _________ 👆 失真
 
 :::abcc1
 K: Eb style=rhythm
