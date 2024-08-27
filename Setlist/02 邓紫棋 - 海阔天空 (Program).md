@@ -88,7 +88,7 @@ V:L  clef=bass
 [V:L] | [C,,C,] G,2 G,2 -G,/2C,/2 CG,  | [C,,C,]8      |
 :::
 
-c1: |E      |Bb     |C      |C
+c1: |Eb     |Bb     |C      |C
 l1:  我 ____ _______ ____ __
 l3:                       镲
 
