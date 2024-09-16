@@ -22,17 +22,17 @@ K: Db style=rhythm
 
 :::abcc1
 K: Db style=rhythm
-|"Db/F" B0 B0 B0 B0|"Gb" B0 B0 B0 B0|"Db"B0 B0 B0 B0|"Db"B0 B0 B0 B0
+|"Db/F" B0 B0 |"Gb" B0 B0 |"Db"B0 B0 |"Db"B0 B0
 :::
 
 :::abcc1
 K: Db style=rhythm
-|"Db/F" B0 B0 B0 B0|"Gb" B0 B0 B0 B0|"Db"B0 B0 B0 B0|"Db"B0 B0 B0 B0
+|"Db/F" B0 B0 |"Gb" B0 B0 |"Db"B0 B0 |"Db"B0 B0
 :::
 
 :::abcc1
 K: Db style=rhythm
-|"Gb" B0 B0 B0 B0|"Ab" B0 B0 B0 B0|"Bbm"B0 B0 "Ab"B0 B0|"Gb"B0 B0 B0 B0
+|"Gb" B0 B0 |"Ab" B0 B0|"Bbm"B0 "Ab"B0|"Gb"B0 B0
 :::
 
 :::abcc1
