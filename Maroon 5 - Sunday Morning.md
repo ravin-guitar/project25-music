@@ -98,7 +98,7 @@ l1: Come and rest your bones with me
 c1:                       |Dm7
 l1: Driving slow on Sunday morning
 
-c1:       G7          
+c1:       G7
 l1: And I never want to leave
 
 ## Interlude (7个小节)
