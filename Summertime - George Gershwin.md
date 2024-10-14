@@ -1,16 +1,14 @@
 
-# Summertime - George Gershwin
-
 ## Chords
 
-c: |Am7     |Bm7b5 E7  |Am7     |Am7
-l:  ________       ____ ________
+c: |Am7 ________ |Bm7b5  E7 ___ |Am7 ________ |Am7
+l:  _
 
-c: |Dm7     |Dm7     |Bm7b5   |E7
-l:  ________ ________ ________ ________
+c: |Dm7 ________ |Dm7 ________ |Bm7b5 ______ |E7
+l:  _
 
-c: |Am7     |Bm7b5 E7  |Am7     |Dm7 G7
-l:  ________       ____ ________ ____
+c: |Am7 ________ |Bm7b5 E7 ___  |Am7 ________ |Dm7 _ G7
+l:  _
 
-c: |Cmaj7 Fmaj7 |Bm7b5 E7  |Am7     |Bm7b5 E7  
-l:        ______       ____ ________
+c: |Cmaj7 Fmaj7 |Bm7b5 E7 ___  |Am7 ________ |Bm7b5 E7
+l:  _         __
