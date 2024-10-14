@@ -2,8 +2,6 @@
 youTubeId: namFjcOgHSE
 ---
 
-### Intro
-
 ### Verse
 
 c1: |Eb ____ |Eb ____ |Fm ____ |Fm ____
