@@ -4,7 +4,7 @@ youTubeId: OfQ1U7MvleA
 
 ### Intro
 
-<span style="transform:0.7">
+<span style="transform: scale(0.5)">
 
 :::abcc1
 K: D style=rhythm
