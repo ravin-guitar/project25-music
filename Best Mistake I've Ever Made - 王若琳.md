@@ -1,4 +1,11 @@
 ---
+youTubeId: 4Km786yl15U
 ---
 
-# Best Mistake I've Ever Made - 王若琳
+### Intro
+
+### Verse
+
+c1: |Em _____ |Bm7 ____ |C/G ____ |G _ D
+
+c1: |Em _____ |Bm7 ____ |C/G ____ |G _ D
