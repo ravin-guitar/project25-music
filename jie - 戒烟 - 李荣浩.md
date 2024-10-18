@@ -4,6 +4,11 @@ youTubeId: 4odeawiRtTk
 
 ### Intro
 
+:::abcl4
+K: G
+|z4 z {^A}B ^A>A|"G" G6
+:::
+
 c1: |G _ G/F# _ |G/F _ Em __ |Cm _ C/D __ |G
 l1:  _
 
