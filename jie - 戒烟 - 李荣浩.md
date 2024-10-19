@@ -78,7 +78,7 @@ l1:  誰也不想
 
 c1: |Eb
 
-### Chorus 2
+### Chorus 3
 
 c1: |Db△ _ Eb/Db _ |Cm _ Fm __ |Bbm _ Eb ___ |Ab _ Ab7
 
