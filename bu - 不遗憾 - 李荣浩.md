@@ -2,6 +2,10 @@
 youTubeId: n_KHQk1w7Gs
 ---
 
+c1: 1 = C
+
+l3: 女生Key: G
+
 ### Intro
 
 c1: |F△7 _ E7 __ |Am - Gm7 C _ |F△7 _ E7 __ |Am - Gm7 F#m7
