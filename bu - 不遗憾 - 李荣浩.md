@@ -88,7 +88,7 @@ l1:  _
 
 :::abcc1
 K: C style=rhythm
-|"G" zB BB z4
+|"G" zB BB B z3
 :::
 
 ### Chorus 3
@@ -104,7 +104,7 @@ c1: |Dm7 - G G/F |Em _ Am ___ |Dm7 _ D/F# _ |Gsus4 _ G
 
 l1: 這一輩子我欠你 如果來生還能夠繼續 再用盡一生找尋 你在哪裡
 
-c1: |C
+c1: |C (乐器停一小节)
 
 ### Outro
 
