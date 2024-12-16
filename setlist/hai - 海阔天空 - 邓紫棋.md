@@ -10,17 +10,14 @@ c1: BPM: 76 Key: Ab
 
 l3: (Kb Piano with Pad)
 
-c1: |Ab△7    |Cm7/G   |Fm      |Db△9
-l1:  ________ ________ ________
-
-:::abcl5
+:::abcc1
 K: Ab
 |"Ab△7" G3/2A/2- AE- E2 A,E
 [K: style=rhythm]
-|"Cm7/G" B0 B0 B0 B0
+|"Eb/G" B0 B0 B0 B0
 :::
 
-:::abcl5
+:::abcc1
 K: Ab
 |"Fm" G3/2A/2- AE- E2 A,B,
 [K: style=rhythm]
@@ -45,197 +42,146 @@ l1: 一剎 那 恍惚 若有 所失的感覺 不知 不覺已變淡 心裡 愛
 
 ## Chorus
 
-l3: Acoustic Gt in
+l4: Acoustic Gt in
 
-c1:     |Bb       C       |F     |Bb         C       |F    F7
-l1: 原諒 我這一生 不羈放縱 愛自由   也會怕有 一天會跌 倒
+c1:     |Db       Eb      |Ab
+l1: 原諒 我這一生 不羈放縱 愛自由
 
-c1: |Bb         C       |F    F7
+c1: |Db         Eb      |Ab    Ab7
 l1:    也會怕有 一天會跌 倒 __
 
-c1: |Bb         C      |F  C/E Dm -
-l1:    背棄了理 想 誰人 都 可  以
+c1: |Db         Eb     |Ab   Eb/G  Fm  -
+l1:    背棄了理 想 誰人 都 _ 可  _ 以 _
 
-c1: |Bb         C
+c1: |Db         Eb
 l1:    那會怕有 一天只你共
 
 ## Bridge
 
-l3: Kb only
+l4: Light driven Gt
 
-l5: 钢琴直接看这里～
-:::abcl5
-K: F
-V:R  clef=treble
-V:L  clef=bass
-[V:R] | [GBf]/2_e/2B/2G/2 -G[B,_E] -[B,E]2 G,2          | [F,B,D]3 [FBcd] -[FBcd]2 B,<F,
-[V:L] | [_E,,_E,]>B,, E,<G, -G,/2E,,/2B,,/2E,/2 -E,-E, | [B,,,B,,]B,,/2F,/2 B,/2F,/2B,, -B,,B,,/2F,/2 -F,B,,/2=B,,/2
-:::
-:::abcl5
-K: F
-V:R  clef=treble
-V:L  clef=bass
-[V:R] | [B,D]2 [B,DF]2 -[B,DF][DFc] BF | [CDEG]3 F G4  |
-[V:L] | [C,,C,] G,2 G,2 -G,/2C,/2 CG,  | [C,,C,]8      |
-:::
+c1: |Gb      |Db△9    |Eb      |Eb
+l1:  我 _____ ________ ________
 
-c1: |Eb     |Bb     |C      |C
-l1:  我 ____ _______ ____ __
-l3:                       镲
 
 ## Verse 2
 
-l3: Gt/Drums in
+l3: Bass/Drums in
 
-c1:     |F      |C
-l1: 今天 我 寒夜 裡看雪飄過
-
-c1:     |Dm              |Bb
-l1: 懷著 冷卻了的心窩漂遠 方
+c1:     |Ab     |Eb             |Fm              |Db
+l1: 今天 我 寒夜 裡看雪飄過 懷著 冷卻了的心窩漂遠 方
 
 
-c1:     |F           |C
-l1: 風雨 裏 追趕 霧裡 分不清影蹤
-
-c1:     |Bb             |F
-l1: 天空 海闊你與我 可會 變 (誰沒在變)
+c1:     |Ab          |Eb             |Db             |Ab
+l1: 風雨 裏 追趕 霧裡 分不清影蹤 天空 海闊你與我 可會 變
 
 ## Chorus 2
 
-c1:     |Bb       C       |F
+c1:     |Db       Eb      |Ab
 l1: 原諒 我這一生 不羈放縱 愛自由
 
-c1: |Bb         C       |F    F7
+c1: |Db         Eb      |Ab    Ab7
 l1:    也會怕有 一天會跌 倒 __
 
-c1: |Bb         C      |F  C/E Dm -
-l1:    背棄了理 想 誰人 都 可  以
+c1: |Db         Eb     |Ab   Eb/G  Fm  -
+l1:    背棄了理 想 誰人 都 _ 可  _ 以 _
 
-c1: |Bb         C
-l1:    那會怕有 一天只你共 
+c1: |Db         Eb
+l1:    那會怕有 一天只你共
 
 ## Interlude (Inst.)
 
-l3: Kb solo
-
-l5: 钢琴直接看这里～
-
-:::abcl5
-K: F
-V:R  clef=treble
-V:L  clef=bass
-[V:R] | [Bdfa]3 g/2a/2 [egc']>d' -d'[dfa]-|[dfa]2 [CDFA]2 [CDFA]2 [CDFA]2
-[V:L] | [B,,,B,,]F,/2B,/2 D/2B,/2F, [C,,C,]G,/2C/2 E/2C/2G, | [D,,D,]D,/2F,/2 A,D, A,D, A,/2G,/2F,/2C,/2
-:::
-:::abcl5
-K: F
-V:R  clef=treble
-V:L  clef=bass
-[V:R] | [Bdfa]3 g/2a/2 [egc']>d' -d'[ac'f'a']-|[ac'f'a']2 [CFA]2 [CF]G Ac
-[V:L] | [B,,,B,,]F,/2B,/2 D/2B,/2F, [C,,C,]G,/2C/2 E/2C/2G, | [F,,F,]C,/2F,/2 A,C, F,,>C, F,F,,
+:::abcc1
+K: Ab style=rhythm
+|"Db" B0 B0 "Eb" B0 B0 |"Fm" B0 B0 B0 B0
+w: 我
 :::
 
-:::abcl5
-K: F
-V:R  clef=treble
-V:L  clef=bass
-[V:R] | [Bdfa]3 g/2a/2 [egc']>d' -d'[Adfa]-|[Adfa]2 [CE]2 [DF]2 G/2A/2d/2a/2
-[V:L] | [B,,,B,,]F,/2B,/2 D/2B,/2F, [C,,C,]G,/2C/2 E/2C/2G, | [D,,D,]D,/2A,/2- A,A,- A,A, [D,D][C,C]
-:::
-:::abcl5
-K: F
-V:R  clef=treble
-V:L  clef=bass
-[V:R] | [Bda]>g- gd- d2 cd | a>g- gd- d2 c2
-[V:L] | [G,,G,]D,/2G,/2 B,D, G,,D,/2G,/2- G,G,, | [A,,A,]E,/2A,/2 CE, A,,E,/2A,/2- A,A,,
+:::abcc1
+K: Ab style=rhythm
+|"Db" B0 B0 "Eb" B0 B0 |"Fm" B0 B0 B0 B0
 :::
 
-:::abcl5
-K: F
-V:R  clef=treble
-V:L  clef=bass
-[V:R] | [DGA]2- [DGA]/2D/2G/2A/2 g/2^f/2d/2A/2 G/2^F/2D/2A,/2-| A,>G, A,/2G,/2^F,/2G,/2 D>A, C2
-[V:L] | [D,,D,]D,/2G,/2 A,D,/2A,,/2 D,,>A,, D,A,, | D,,/2A,,/2D,- D,2 D,,/2A,,/2D, [C,,C,]C,/2A,,/2
+:::abcc1
+K: Ab style=rhythm
+|"Fm" B "Bb" B3/2 B3/2 B3 B/2B/2|-B "Cm" B3/2 B3/2 B3 B0
 :::
 
-c1: |Bb    C    |Dm         |Bb    C    |F
-l1:  我 __ _____ _____ _____ _____ _____
-
-c1: |Bb    C    |Dm         |Bb         |C
-l1:  _____ _____ _____ _____ _____ _____
-
-c1: |D          |D
-l1:  _____ _____
+:::abcc1
+K: Ab style=rhythm
+|"F" B0 B0 B0 B0 |"F" B0 B0 B0 B0
+:::
 
 ## Pre Chorus
 
-l5: Gt失真节奏
+l4: Gt失真节奏
 
-c1: |Dm     C     |Bb      C
-l1:    仍然 自由自 我 永遠 高唱我
+:::abcc1
+K: Ab style=rhythm
+|"Fm" BB B0 "Eb" BB B0 |"Db" BB B0 "Eb" BB B0 
+w: _ _ 仍然 自 由 自我 _ _ 永遠 高 唱 我歌
+:::
 
-c1: |Dm       C     |F      F7
-l1:  歌 _ 走  遍 千  里 ___
+:::abcc1
+K: Ab style=rhythm
+|"Fm" BB B0 "Eb" BB B0 |"Ab" B0 B0 "Ab7" B0 B0 
+w: _ _ 走 遍 _ 千  里
+:::
 
 ## Chorus 3
 
-c1:     |Bb       C       |F
+c1:     |Db       Eb      |Ab
 l1: 原諒 我這一生 不羈放縱 愛自由
 
-c1: |Bb         C       |F    F7
+c1: |Db         Eb      |Ab    Ab7
 l1:    也會怕有 一天會跌 倒 __
 
-c1: |Bb         C      |F  C/E Dm -
-l1:    背棄了理 想 誰人 都 可  以
+c1: |Db         Eb     |Ab   Eb/G  Fm  -
+l1:    背棄了理 想 誰人 都 _ 可  _ 以 _
 
-c1: |Bb         C         |F
+c1: |Db         Eb        |Ab
 l1:    那會怕有 一天只你共 我
 
 ## Chorus 4
 
-c1:     |Bb       C       |F
+c1:     |Db       Eb      |Ab
 l1: 原諒 我這一生 不羈放縱 愛自由
 
-c1: |Bb         C       |F    F7
+c1: |Db         Eb      |Ab    Ab7
 l1:    也會怕有 一天會跌 倒 __
 
-c1: |Bb         C      |F  C/E Dm -
-l1:    背棄了理 想 誰人 都 可  以
+c1: |Db         Eb     |Ab   Eb/G  Fm  -
+l1:    背棄了理 想 誰人 都 _ 可  _ 以 _
 
-c1: |Bb         C
-l1:    那會怕有 一天只你共 
+c1: |Db         Eb        
+l1:    那會怕有 一天只你共
 
 c1: |Eb          |Eb
 l1:  我 (refrain)
 
-## Last Time
+## Chorus 5
 
-l3: (Kb only)
+l3: 安静
 
-c1: |Bb         C      |F  C/E Dm -
-l1:    背棄了理 想 誰人 都 可  以
+c1: |Db         Eb     |Ab   Eb/G  Fm  -
+l1:    背棄了理 想 誰人 都 _ 可  _ 以 _
 
-c1: |Bb         C         |F
+c1: |Db         Eb        |Ab
 l1:    那會怕有 一天只你共 我
-l3:                        All加花进
+l3:                        ⬆️起
 
 ## Outro (Inst.)
 
-l3: (Gt solo starts)
+:::abcc1
+K: Ab
+|"Ab△7" G3/2A/2- AE- E2 A,E
+[K: style=rhythm]
+|"Eb/G" B0 B0 B0 B0
+:::
 
-c1: |Bb    C    |Dm         |Bb    C    |F
-l1:  我 __ _____ _____ _____ _____ _____
-
-c1: |Bb    C    |Dm         |Bb    C    |F
-l1:  _____ _____ _____ _____ _____ _____
-
-c1: |Bb    C    |Dm         |Bb    C    |F
-l1:  _____ _____ _____ _____ _____ _____
-
-c1: |Bb    C    |Dm         |Bb    C    |F
-l1:  _____ _____ _____ _____ _____ _____
-
-l3: 👇Last Time
-
-c1: |Bb    C    |Dm         |Bb    C    |F
-l3:  _____ _____ _____ _____ 渐 慢  ____ 结束
+:::abcc1
+K: Ab
+|"Fm" G3/2A/2- AE- E2 A,"Db△9"B,
+[K: style=rhythm]
+|B0 B0 B0 B0
+:::
