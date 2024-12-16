@@ -1,43 +1,40 @@
 ---
-youTubeId: qu_FSptjRic
+youTubeId: OfIFA-V6Zec
 ---
 
-# 海阔天空 - Beyond
+# 海阔天空 - 邓紫棋
 
-c1: BPM: 76 Key: F
+c1: BPM: 76 Key: Ab
 
 ## Intro
 
-l3: (Kb only)
+l3: (Kb Piano with Pad)
 
-c1: |F     |C   Bb  |Bbsus4 |Bb
-l1:  ______ ___ ____ _______
-
-c1: |Cm Bb |C
-l1:  __ ___
+c1: |Ab△7    |Cm7/G   |Fm      |Db△9
+l1:  ________ ________ ________
 
 :::abcl5
-K: F
-V:R  clef=treble
-V:L  clef=bass
-[V:R] z2 [db]2 [ca]4 |  [Gcg][Ff] [Ee][Bcdf] -[Bcdf]4|z4 zB, CF-|F4 zB, CG|F3 B,-B,2 [G,B,F]2| [B,CE]4 [Gc]4
-[V:L]     [F,,F,,,]8-|[F,,F,,,]3 D- DB, CF| _E,, B,,2 _E,-E,4 | B,,, F,,2 B,,-B,,4 | C,,G,, C,2-C,C, F,B,,|C,,G,,C,G, c,4
+K: Ab
+|"Ab△7" G3/2A/2- AE- E2 A,E
+[K: style=rhythm]
+|"Cm7/G" B0 B0 B0 B0
+:::
+
+:::abcl5
+K: Ab
+|"Fm" G3/2A/2- AE- E2 A,B,
+[K: style=rhythm]
+|"Db△9" B0 B0 B0 B0
 :::
 
 ## Verse
 
-c1:     |F      |C
-l1: 今天 我 寒夜 裡看雪飄過
-
-c1:     |Dm              |Bb
-l1: 懷著 冷卻了的心窩漂遠 方
+c1:     |Ab     |Eb             |Fm              |Db
+l1: 今天 我 寒夜 裡看雪飄過 懷著 冷卻了的心窩漂遠 方
 
 
-c1:     |F           |C
-l1: 風雨 裏 追趕 霧裡 分不清影蹤
-
-c1:     |Bb             |F
-l1: 天空 海闊你與我 可會 變 (誰沒在變)
+c1:     |Ab          |Eb             |Db             |Ab
+l1: 風雨 裏 追趕 霧裡 分不清影蹤 天空 海闊你與我 可會 變
 
 c1:     |F      |C
 l1: 多少 次 迎著 冷眼與嘲笑
