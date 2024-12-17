@@ -13,7 +13,10 @@ K: C none style=rhythm
 |"C" B0 B0 B0 B0 |"G/B" B0 B "Am" B B0 B0 |"F" B0 B "Em" B B0 B0 |"F" B0 B "G" B B0 B0
 :::
 
-c1: |C _______ |C
+:::abcc1
+K: C none style=rhythm
+|"C" B0 B0 B0 B0 |"C" B0 B0 B0 B0 
+:::
 
 ### Verse 1
 
