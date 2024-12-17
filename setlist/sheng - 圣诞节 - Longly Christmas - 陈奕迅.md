@@ -119,7 +119,7 @@ c1: |F          G         |Em           Am
 l1:  的淚  溫熱 凍結  望著 電視裏的無聊 節目 癱在
 
 :::abcc1
-K: C style=rhythm
+K: C none style=rhythm
 M: 12/8
 |"F" B0 B0 "G" B0 B0 | "C" B3 "C" B2 "C7/E" B "F" B3 "G#" B3
 w: 沙發上 變成 沒知覺 的植 物
