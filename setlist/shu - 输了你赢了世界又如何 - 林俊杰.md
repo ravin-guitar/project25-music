@@ -40,14 +40,13 @@ l1: 无奈的 苦笑 不必找 牵强的理 由
 l4:            (GT空间清音点缀)
 
 c1:       |C#m7     C#m7/B  |A△7 _  E/G#
-l1: 就让它 日日夜夜 刺痛我 _ 胸口
+l1: 就让它 日日夜夜 刺痛我 _ 胸口   让我
 
 :::abcc1
-K: E style=rhythm
+K: C none style=rhythm
 |"F#m7" B0 B0 "E/G#" B0 B0 | "A" B0 B0 
+w: 眼神 没有 焦点 泪水 模糊 我的 
 :::
-
-l1: _______ 让我 眼神没有 焦点 泪水 __ 模糊我的 
 
 c1: |B   ___ |B
 l1:  视线      _ 输了
@@ -59,23 +58,19 @@ c1: |E _ E/D     |A    -    B  B/A
 l1:  妳      赢了 世界 又如 何 妳曾
 
 :::abcc1
-K: E style=rhythm
+K: C none style=rhythm
 |"G#m7" B0 B "C#m7" B B0 B0 |"F#m7" B0 B0 "A/B" B0 B0
+w: 渴望  的 梦 _ _ 我想我永远 不会懂 我 失去
 :::
-
-l1: ___ _____ __ 渴望  的 梦 _______ 我想我永远不会懂我 失去
-
 
 c1: |E _ E/D     |A    -    B  B/A
 l1:  妳      赢了 一切 却依 然 如此 冷
 
-
 :::abcc1
-K: E style=rhythm
+K: c none style=rhythm
 |"G#m7" B0 B "C#m7" B B0 B0 |"F#m7" B0 B0 "A/B" B0 B0
+w: 清 ___ 有 谁又能让 我倾心 _ 除了
 :::
-
-l1: ___________ 清 ___________ 有 _ 谁又能让我倾心   除了
 
 c1: |E Esus4 E -
 l1:  妳
@@ -102,14 +97,13 @@ l1: 一点 曾经刻骨铭心的 眷恋 让妳挂 念
 ### Pre Chorus 2
 
 c1:       |C#m7     C#m7/B    |A△7 _  E/G#
-l1: 我只能 说如今我 已无处可 _ 躲
+l1: 我只能 说如今我 已无处可 _ 躲     当我
 
 :::abcc1
-K: E style=rhythm
+K: C none style=rhythm
 |"F#m7" B0 B0 "E/G#" B0 B0 | "A" B0 B0 
+w: 默默 黯然 回首 当我 看尽 潮起潮
 :::
-
-l1: _______ 当我 默默黯然 回首 __ 当我 看尽潮起潮
 
 c1: |B
 l1:  落
@@ -120,49 +114,43 @@ c1:     |E _ E/D     |A    -    B  B/A
 l1: 输了 妳      赢了 世界 又如 何 妳曾
 
 :::abcc1
-K: E style=rhythm
+K: C none style=rhythm
 |"G#m7" B0 B "C#m7" B B0 B0 |"F#m7" B0 B0 "A/B" B0 B0
+w: 渴望  的 梦 _ _ 我想我永远 不会懂 我 失去
 :::
-
-l1: ___ _____ __ 渴望  的 梦 ________ 我想我永远不会懂我 失去
-
 
 c1: |E _ E/D     |A    -    B  B/A
 l1:  妳      赢了 一切 却依 然 如此 冷
 
-
 :::abcc1
-K: E style=rhythm
+K: c none style=rhythm
 |"G#m7" B0 B "C#m7" B B0 B0 |"F#m7" B0 B0 "A/B" B0 B0
+w: 清 ___ 有 谁又能让 我倾心 _ 除了
 :::
-
-l1: ___________ 清 ____________ 有 _ 谁又能让我倾心   除了
 
 ### Solo
 
 :::abcc1
-K: E style=rhythm
+K: C none style=rhythm
 |[M:7/8]"C" B0 B0 "A" B B B |[M:9/8]"E" B0 B0 B0 B0 B
+w: 妳 _____ 喔呜～
 :::
-l1: ___________ 妳 __________________  喔呜～
 
 :::abcc1
-K: E style=rhythm
+K: C none style=rhythm
 |[M:7/8]"C" B0 B0 "A" B B B |[M:4/4]"E" B0 B0 B0 B0
+w: 喔～ _____ 喔呜～
 :::
-l1: ___________ 喔～ ________________  喔呜～
-
-l3: _
 
 l3: ⬇️Gt Solo
 
 :::abcc1
-K: E style=rhythm
+K: C none style=rhythm
 |"F#m" B0 B0 B0 B0|[M:9/8] "E/G#" B0 B0 B0 B0 B
 :::
 
 :::abcc1
-K: E style=rhythm
+K: C none style=rhythm
 |[M:9/8]"C" BBB "A" BBBBBB |[M:7/8] "E" BBBB z3
 :::
 
@@ -180,15 +168,15 @@ l1:  妳      赢了 一切 却依 然 如此 冷
 
 
 :::abcc1
-K: E style=rhythm
+K: c none style=rhythm
 |"G#m7" B0 B "C#m7" B B0 B0 |"F#m7" B0 B0 "A/B" B0 B0
+w: 清 ___ 有 谁又能让 我倾心 _ 除了
 :::
 
-l1: ___________ 清 ___________ 有 _ 谁又能让我倾心
-l3:                                               ⬆️渐慢
+l3:                                               
 
 ### Outro
 
-c1:     |E  ____ |E/G# _ |D - C#m7  Bsus4 _ |E
-l1: 除了 妳
-l3:      ⬆️钢琴               ⬆️渐慢
+c1: |E  ____ |E/G# _ |D - C#m7  Bsus4 _ |E
+l1:  妳
+l3:  ⬆️钢琴               ⬆️渐慢
