@@ -36,7 +36,7 @@ c1:   |Am7            |Em7        |Am7           |Em7
 l1: 你 一天一口一個 親 愛的對方 多 麼不流行的模樣
 
 :::abcc1
-K: style=rhythm
+K: C none style=rhythm
 |"Am7" B0 B0 B0 B0 |"Em7" B0 B0 B0 B0 |"Dm7" B0 B0 B0 B0 |"E7" BB B z z4
 w: 應該 練練 書法 再 出門 闖蕩 _ 才 會 有人 熱情 買帳
 :::
@@ -77,7 +77,7 @@ c1:   |Am7            |Em7        |Am7           |Em7
 l1: 你 一天一口一個 親 愛的對方 多 麼不流行的模樣
 
 :::abcc1
-K: style=rhythm
+K: C none style=rhythm
 |"Am7" B0 B0 B0 B0 |"Em7" B0 B0 B0 B0 |"Dm7" B0 B0 B0 B0 |"E7" BB B z z4
 w: 應該 練練 書法 再 出門 闖蕩 _ 才 會 有人 熱情 買帳
 :::
