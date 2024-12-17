@@ -92,23 +92,23 @@ l1:    那會怕有 一天只你共
 ## Interlude (Inst.)
 
 :::abcc1
-K: Ab style=rhythm
+K: X none style=rhythm
 |"Db" B0 B0 "Eb" B0 B0 |"Fm" B0 B0 B0 B0
 w: 我
 :::
 
 :::abcc1
-K: Ab style=rhythm
+K: X none style=rhythm
 |"Db" B0 B0 "Eb" B0 B0 |"Fm" B0 B0 B0 B0
 :::
 
 :::abcc1
-K: Ab style=rhythm
+K: X none style=rhythm
 |"Fm" B "Bb" B3/2 B3/2 B3 B/2B/2|-B "Cm" B3/2 B3/2 B3 B0
 :::
 
 :::abcc1
-K: Ab style=rhythm
+K: X none style=rhythm
 |"F" B0 B0 B0 B0 |"F" B0 B0 B0 B0
 :::
 
@@ -117,13 +117,13 @@ K: Ab style=rhythm
 l4: Gt失真节奏
 
 :::abcc1
-K: Ab style=rhythm
+K: X none style=rhythm
 |"Fm" BB B0 "Eb" BB B0 |"Db" BB B0 "Eb" BB B0 
 w: _ _ 仍然 自 由 自我 _ _ 永遠 高 唱 我歌
 :::
 
 :::abcc1
-K: Ab style=rhythm
+K: X none style=rhythm
 |"Fm" BB B0 "Eb" BB B0 |"Ab" B0 B0 "Ab7" B0 B0 
 w: _ _ 走 遍 _ 千  里
 :::
