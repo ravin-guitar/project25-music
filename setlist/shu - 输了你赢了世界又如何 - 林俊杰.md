@@ -43,9 +43,9 @@ c1:       |C#m7     C#m7/B  |A△7 _  E/G#
 l1: 就让它 日日夜夜 刺痛我 _ 胸口   让我
 
 :::abcc1
-K: C none style=rhythm
-|"F#m7" B0 B0 "E/G#" B0 B0 | "A" B0 B0 
-w: 眼神 没有 焦点 泪水 模糊 我的 
+K: X none style=rhythm
+|"F#m7" B0 B0 "E/G#" B0 B0 | "A" B0 B0
+w: 眼神 没有 焦点 泪水 模糊 我的
 :::
 
 c1: |B   ___ |B
@@ -58,7 +58,7 @@ c1: |E _ E/D     |A    -    B  B/A
 l1:  妳      赢了 世界 又如 何 妳曾
 
 :::abcc1
-K: C none style=rhythm
+K: X none style=rhythm
 |"G#m7" B0 B "C#m7" B B0 B0 |"F#m7" B0 B0 "A/B" B0 B0
 w: 渴望  的 梦 _ _ 我想我永远 不会懂 我 失去
 :::
@@ -67,7 +67,7 @@ c1: |E _ E/D     |A    -    B  B/A
 l1:  妳      赢了 一切 却依 然 如此 冷
 
 :::abcc1
-K: c none style=rhythm
+K: X none style=rhythm
 |"G#m7" B0 B "C#m7" B B0 B0 |"F#m7" B0 B0 "A/B" B0 B0
 w: 清 ___ 有 谁又能让 我倾心 _ 除了
 :::
@@ -100,8 +100,8 @@ c1:       |C#m7     C#m7/B    |A△7 _  E/G#
 l1: 我只能 说如今我 已无处可 _ 躲     当我
 
 :::abcc1
-K: C none style=rhythm
-|"F#m7" B0 B0 "E/G#" B0 B0 | "A" B0 B0 
+K: X none style=rhythm
+|"F#m7" B0 B0 "E/G#" B0 B0 | "A" B0 B0
 w: 默默 黯然 回首 当我 看尽 潮起潮
 :::
 
@@ -114,7 +114,7 @@ c1:     |E _ E/D     |A    -    B  B/A
 l1: 输了 妳      赢了 世界 又如 何 妳曾
 
 :::abcc1
-K: C none style=rhythm
+K: X none style=rhythm
 |"G#m7" B0 B "C#m7" B B0 B0 |"F#m7" B0 B0 "A/B" B0 B0
 w: 渴望  的 梦 _ _ 我想我永远 不会懂 我 失去
 :::
@@ -123,7 +123,7 @@ c1: |E _ E/D     |A    -    B  B/A
 l1:  妳      赢了 一切 却依 然 如此 冷
 
 :::abcc1
-K: c none style=rhythm
+K: X none style=rhythm
 |"G#m7" B0 B "C#m7" B B0 B0 |"F#m7" B0 B0 "A/B" B0 B0
 w: 清 ___ 有 谁又能让 我倾心 _ 除了
 :::
@@ -131,13 +131,13 @@ w: 清 ___ 有 谁又能让 我倾心 _ 除了
 ### Solo
 
 :::abcc1
-K: C none style=rhythm
+K: X none style=rhythm
 |[M:7/8]"C" B0 B0 "A" B B B |[M:9/8]"E" B0 B0 B0 B0 B
 w: 妳 _____ 喔呜～
 :::
 
 :::abcc1
-K: C none style=rhythm
+K: X none style=rhythm
 |[M:7/8]"C" B0 B0 "A" B B B |[M:4/4]"E" B0 B0 B0 B0
 w: 喔～ _____ 喔呜～
 :::
@@ -145,12 +145,12 @@ w: 喔～ _____ 喔呜～
 l3: ⬇️Gt Solo
 
 :::abcc1
-K: C none style=rhythm
+K: X none style=rhythm
 |"F#m" B0 B0 B0 B0|[M:9/8] "E/G#" B0 B0 B0 B0 B
 :::
 
 :::abcc1
-K: C none style=rhythm
+K: X none style=rhythm
 |[M:9/8]"C" BBB "A" BBBBBB |[M:7/8] "E" BBBB z3
 :::
 
@@ -168,12 +168,12 @@ l1:  妳      赢了 一切 却依 然 如此 冷
 
 
 :::abcc1
-K: c none style=rhythm
+K: X none style=rhythm
 |"G#m7" B0 B "C#m7" B B0 B0 |"F#m7" B0 B0 "A/B" B0 B0
 w: 清 ___ 有 谁又能让 我倾心 _ 除了
 :::
 
-l3:                                               
+l3:
 
 ### Outro
 

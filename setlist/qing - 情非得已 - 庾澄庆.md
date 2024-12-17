@@ -9,13 +9,13 @@ youTubeId: OedQozXSM2U
 l3: GT / KB
 
 :::abcc1
-K: C none style=rhythm
+K: X none style=rhythm
 |"C" B0 B0 B0 B0 |"G/B" B0 B "Am" B B0 B0 |"F" B0 B "Em" B B0 B0 |"F" B0 B "G" B B0 B0
 :::
 
 :::abcc1
-K: C none style=rhythm
-|"C" B0 B0 B0 B0 |"C" B0 B0 B0 B0 
+K: X none style=rhythm
+|"C" B0 B0 B0 B0 |"C" B0 B0 B0 B0
 :::
 
 ### Verse 1
@@ -37,7 +37,7 @@ l1: 你 的天真 我 想珍惜 看到 你受委屈我會傷 心 ___ 喔~
 c1:       |C         |G/B       |Am          |Em
 l1: 只怕我 自己會愛上 你  _ 不敢 讓自己靠得太 近
 
-c1:     |F           |Em       |F             |G 
+c1:     |F           |Em       |F             |G
 l1: 怕我 沒什麼能夠給 你 _ 愛你 也需要很大的勇 氣
 
 c1:       |C         |G/B      |Am          |Em
@@ -70,7 +70,7 @@ l1: 你 的天真 我 想珍惜 看到 你受委屈我會傷 心 ___ 喔~
 c1:       |C         |G/B       |Am          |Em
 l1: 只怕我 自己會愛上 你  _ 不敢 讓自己靠得太 近
 
-c1:     |F           |Em       |F             |G 
+c1:     |F           |Em       |F             |G
 l1: 怕我 沒什麼能夠給 你 _ 愛你 也需要很大的勇 氣
 
 c1:       |C         |G/B      |Am          |Em
@@ -82,18 +82,18 @@ l1: 想念 只讓自己苦了自 己 _ 愛上 你是我情 非得 已
 ### Solo
 
 :::abcc1
-K: C none style=rhythm
+K: X none style=rhythm
 |"C" B0 B0 B0 B0 |"G/B" B0 B "Am" B B0 B0 |"F" B0 B "Em" B B0 B0 |"F" B0 B "G" B B0 B0
 :::
 
 :::abcc1
-K: C none style=rhythm
+K: X none style=rhythm
 |"C" B0 B0 B0 B0 |"G/B" B0 B "Am" B B0 B0 |"F" B0 B "Em" B B0 B0 |"F" B0 B "G" B B0 B0
 :::
 
 ### Bridge
 
-c1: |Am       |Em          |F        G     |C - C G/B 
+c1: |Am       |Em          |F        G     |C - C G/B
 l1:     什麼原 因   Ya~  我 竟然又會 遇見你
 
 c1: |Am        |Em           |F             |G     |A
@@ -117,7 +117,7 @@ c1:     |G        A   |D
 l1: 愛上 你是我情 非得 已
 
 ### Outro
-            
+
 c1: |D ____ |A _ Bm __ |G _ F#m _ |G _ A __
 l1:  _
 

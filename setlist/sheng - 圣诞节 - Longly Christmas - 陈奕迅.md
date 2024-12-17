@@ -29,7 +29,7 @@ l1:   思念的 旺季  霓虹 掃過喧譁 的街
 
 c1: |Dm7     Fm    |Gadd9
 l1:   把快樂 趕得好 遠
- 
+
 c1: |Cadd9            │F　 _ Fm
 l1:     落單的戀人最怕 過節
 
@@ -53,7 +53,7 @@ c1:     |F△9               |Fm       G
 l1: 想祝 福不知該給誰  愛被 我們打了 死結
 
 c1: |C                 |Em7
-l1:  Lonely Lonely XMas Merry Merry Xmas 
+l1:  Lonely Lonely XMas Merry Merry Xmas
 
 c1:     |F△9               |Fm       G
 l1: 寫了 卡片能寄給誰  心碎 的像街上 的紙
@@ -97,7 +97,7 @@ c1:     |F△9               |Fm       G
 l1: 想祝 福不知該給誰  愛被 我們打了 死結
 
 c1: |C                 |Em7
-l1:  Lonely Lonely XMas Merry Merry Xmas 
+l1:  Lonely Lonely XMas Merry Merry Xmas
 
 c1:     |F△9               |Fm       G
 l1: 寫了 卡片能寄給誰  心碎 的像街上 的紙
@@ -119,7 +119,7 @@ c1: |F          G         |Em           Am
 l1:  的淚  溫熱 凍結  望著 電視裏的無聊 節目 癱在
 
 :::abcc1
-K: C none style=rhythm
+K: X none style=rhythm
 M: 12/8
 |"F" B0 B0 "G" B0 B0 | "C" B3 "C" B2 "C7/E" B "F" B3 "G#" B3
 w: 沙發上 變成 沒知覺 的植 物
@@ -136,7 +136,7 @@ c1:     |Gb△9              |Gbm      Ab
 l1: 想祝 福不知該給誰  愛被 我們打了 死結
 
 c1: |Db                |Fm7
-l1:  Lonely Lonely XMas Merry Merry Xmas 
+l1:  Lonely Lonely XMas Merry Merry Xmas
 
 c1:     |Gb△9              |Gbm      Ab
 l1: 寫了 卡片能寄給誰  心碎 的像街上 的紙
@@ -155,7 +155,7 @@ c1:     |Gb△9              |Gbm      Ab
 l1: 想祝 福不知該給誰  愛被 我們打了 死結
 
 c1: |Db                |Fm7
-l1:  Lonely Lonely XMas Merry Merry Xmas 
+l1:  Lonely Lonely XMas Merry Merry Xmas
 
 c1:     |Gb△9              |Gbm      Ab
 l1: 寫了 卡片能寄給誰  心碎 的像街上 的紙

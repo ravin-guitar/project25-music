@@ -90,7 +90,7 @@ c1: |G    A    |D  A/C# Bm7 A
 l1:  你可 知 誰 甘 心歸 去  ___
 
 :::abcc1
-K: C none style=rhythm
+K: X none style=rhythm
 |"G"B0 B0 "Bb"B0 B0|"Asus4"BBBB"A"B2z2
 w: 你與 我之 間 有 誰   __
 :::
@@ -145,7 +145,7 @@ c1: |D                  |Bm7
 l1:  是緣是情是童真 _ 還 是意外 ____
 
 :::abcc1
-K: C none style=rhythm
+K: X none style=rhythm
 |"Em"B0 B0 B0 B0|"A"B0 B0 B0 z<!>!B
 w: 有淚有罪 有付 出 還 有 忍 耐
 :::
