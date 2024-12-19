@@ -156,8 +156,9 @@ l1:    背棄了理 想 誰人 都 _ 可  _ 以 _
 c1: |Db         Eb        
 l1:    那會怕有 一天只你共
 
-c1: |Eb          |Eb
-l1:  我 (refrain)
+c1: |Gbadd9 ____ |Gbadd9
+l1:  我
+l3:               ⬆️静
 
 ## Chorus 5
 
