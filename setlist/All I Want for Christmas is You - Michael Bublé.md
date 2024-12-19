@@ -184,18 +184,17 @@ l1:    Make my wish come true
 
 c1:               |G#m            Bm
 l1:  You know that all I want for Christmas
+l3:                               ⬆️拖长一小节
 
 c1:    |F#    __ |D#m ____ |G#m ____ |C#
 l1:  Is you...
 
-c1:               |G#m            Bm
-l1:  You know that all I want for Christmas
+c1:    |F#    __ |D#m ____ |G#m ____ |C#
+l1:  Is you...
 
 c1:    |F#    __ |D#m ____ |G#m ____ |C#
 l1:  Is you...
 
-c1:               |G#m            Bm
-l1:  You know that all I want for Christmas
-
-c1:    |F#    __ |D#m ____ |G#m ____ |C#
+c1:    |F#    __ |Bm        |F#
 l1:  Is you...
+l3:               ⬆️拖慢结束
