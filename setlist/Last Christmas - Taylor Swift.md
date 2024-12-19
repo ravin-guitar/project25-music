@@ -101,7 +101,7 @@ l1: And last Christmas
 
 l1: And this year won't be anything like anything like
  
-### Chorus 3
+### Chorus 4
 
 l1: Last Christmas I gave you my heart 
 
