@@ -4,11 +4,30 @@ youTubeId: e5p3i2rRe4k
 
 ## 往日时光 - 廖昌永
 
-
+c1: 1 = F 
 
 ### Intro
 
-c1: |
+:::abcc1
+K: F
+A, DE|"Dm" F3GF2ED|"Gm"F2B,4 {G,B,}DF
+:::
+
+:::abcc1
+K: F
+|"C"E3D C2G,2|"F"B,3C A,A, B,C
+:::
+
+:::abcc1
+K: F
+|"Gm"CDB,3 G, "C7"A,B,|"F△7"B,C A,3F, "Bb△7"G,A,
+:::
+
+:::abcc1
+K: F
+|"Gm"A,B, G,3 "G#dim7" F,2 B,|"A7"A,8
+:::
+
 
 ### Verse
 
