@@ -82,12 +82,12 @@ l1: 想念 只讓自己苦了自 己 _ 愛上 你是我情 非得 已
 ### Solo
 
 :::abcc1
-K: X none style=rhythm
+K: C style=rhythm
 |"C" B0 B0 B0 B0 |"G/B" B0 B "Am" B B0 B0 |"F" B0 B "Em" B B0 B0 |"F" B0 B "G" B B0 B0
 :::
 
 :::abcc1
-K: X none style=rhythm
+K: C style=rhythm
 |"C" B0 B0 B0 B0 |"G/B" B0 B "Am" B B0 B0 |"F" B0 B "Em" B B0 B0 |"F" B0 B "G" B B0 B0
 :::
 
