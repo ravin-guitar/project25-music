@@ -9,12 +9,12 @@ youTubeId: OedQozXSM2U
 l3: GT / KB
 
 :::abcc1
-K: X none style=rhythm
+K: X style=rhythm
 |"C" B0 B0 B0 B0 |"G/B" B0 B "Am" B B0 B0 |"F" B0 B "Em" B B0 B0 |"F" B0 B "G" B B0 B0
 :::
 
 :::abcc1
-K: X none style=rhythm
+K: X style=rhythm
 |"C" B0 B0 B0 B0 |"C" B0 B0 B0 B0
 :::
 
@@ -47,7 +47,7 @@ c1:     |F             |Em       |F        G   |C
 l1: 想念 只讓自己苦了自 己 _ 愛上 你是我情 非得 已
 
 :::abcc1
-K: C none
+K: C
 |"G" [GBd]z {G}Ac {d}eg {e}dc
 :::
 
