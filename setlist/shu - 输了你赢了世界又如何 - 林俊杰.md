@@ -173,8 +173,6 @@ K: X none style=rhythm
 w: 清 ___ 有 谁又能让 我倾心 _ 除了
 :::
 
-l3:
-
 ### Outro
 
 c1: |E  ____ |E/G# _ |D - C#m7  Bsus4 _ |E
