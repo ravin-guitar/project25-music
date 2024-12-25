@@ -6,6 +6,8 @@ youTubeId: qu_FSptjRic
 
 c1: BPM: 76 Key: F
 
+l3: 女生Key F
+
 ## Intro
 
 l3: (Kb only)
