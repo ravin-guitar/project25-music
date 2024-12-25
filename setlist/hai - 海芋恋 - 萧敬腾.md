@@ -4,6 +4,10 @@ youTubeId: i9D_u86AFRk
 
 ## 海芋恋 - 萧敬腾
 
+c1: 1 = E
+
+l3: 女生Key: F
+
 ### Intro
 
 c1: |E ___ |E ___ |E ___ |E7b9
