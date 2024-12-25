@@ -4,6 +4,10 @@ youTubeId: OedQozXSM2U
 
 ## 情非得已 - 庾澄庆
 
+c1: 1 = C
+
+l3: 女生Key F
+
 ### Intro
 
 l3: GT / KB
