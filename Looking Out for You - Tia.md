@@ -13,13 +13,19 @@ l3: 8 bars
 
 l3: 8 bars
 
+6 5 4
+
 ### Chorus 1
 
 l3: 8 bars
 
+1 5 4
+
 ### Post Chorus 1
 
 l3: 8 bars
+
+6 5 4 4m 6 5 4 4
 
 ### Verse 2
 
@@ -40,6 +46,8 @@ l3: 8 bars
 ### Bridge
 
 l3: 9 bars
+
+6 5 b5 4
 
 ### Chorus 3
 
