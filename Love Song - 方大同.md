@@ -26,39 +26,39 @@ l1: 这不是那种 两个人的故事写在 一本小说
 c1:   |Dm               C
 l1: 那 小说里有谁会在花 田里犯了错
  
-c1:     |Am     E      Dm   F
+c1:     |Ab     Eb7    Dm7  G
 l1: 这就 是一首 写给你 听的 一个
  
 ### Chorus
  
-c1: |C         E
+c1: |C         E7
 l1:  Love Song 一直想写一首
  
-c1: |Am        C
-l1:  Love Song 你给了我一首
+c1: |Am   -    Gm7    C
+l1:  Love Song 你给了 我一首
  
-c1: |F            Em
-l1:  Love Song 那 DJ会播放
- 
-c1:   |E               Dm
-l1: 这 也许会上榜 不过 我只想写出一首
- 
-c1: |C         E
+c1: |F            Bb7        |Eb7             Dm     G7
+l1:  Love Song 那 DJ会播放 这 也许会上榜 不过 我只想 写出一首
+
+c1: |C         E7
 l1:  Love Song 一直想写一首
  
-c1: |Am        C
+c1: |Am   -    Gm7    C
 l1:  Love Song 你给了我一首
  
-c1: |F         Dm
+c1: |F         Fm/Ab
 l1:   你就像那 夏天的凉风
  
-c1:     |Em            Dm
+c1:     |Em            Am
 l1: 吹过 我的面孔 心想 飞
  
-c1:     |F             C          E C
-l1: 在我 心底 你就是我 第一       想说爱你
+c1:     |F    Em7      Eb   _ - _ 
+l1: 在我 心底 你就是我 第一            
+
+c1: |0 _ Db     C _ - _ |
+l1:      想说爱 你       (空2拍进verse 2)
  
-### Verse 1
+### Verse 2
 
 c1: |F       Em     |Dm       C
 l1:   我写了 这首歌    是一首 简单的
@@ -80,7 +80,7 @@ l1: 这不是那种 两个人的故事写在 一本小说
 c1:   |Dm               C
 l1: 那 小说里有谁陪她看 流星再降落
  
-c1:     |Am     E      Dm   F
+c1:     |Ab     Eb7    Dm7  G
 l1: 这就 是一首 写给你 听的 一个
 
 ### Chorus 2
