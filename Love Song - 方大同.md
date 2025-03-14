@@ -6,11 +6,8 @@ youTubeId: Shxik4JT_hE
 
 ### Verse 1
 
-c1: |F       Em     |Dm       C
-l1:   我写了 这首歌    是一首 简单的
- 
-c1: |F       Em      |Dm       C
-l1:   不复杂 也不难唱 的那一种 歌
+c1: |F       Em     |Dm       C      |F       Em      |Dm       C
+l1:   我写了 这首歌    是一首 简单的   不复杂 也不难唱 的那一种 歌
  
 ### Pre Chorus
 
@@ -31,32 +28,20 @@ l1: 这就 是一首 写给你 听的 一个
  
 ### Chorus
  
-c1: |C         E7
-l1:  Love Song 一直想写一首
- 
-c1: |Am   -    Gm7    C
-l1:  Love Song 你给了 我一首
+c1: |C         E7           |Am   -    Gm7    C
+l1:  Love Song 一直想写一首  Love Song 你给了 我一首
  
 c1: |F            Bb7        |Eb7             Dm     G7
 l1:  Love Song 那 DJ会播放 这 也许会上榜 不过 我只想 写出一首
 
-c1: |C         E7
-l1:  Love Song 一直想写一首
- 
-c1: |Am   -    Gm7    C
-l1:  Love Song 你给了我一首
- 
-c1: |F         Fm/Ab
-l1:   你就像那 夏天的凉风
- 
-c1:     |Em            Am
-l1: 吹过 我的面孔 心想 飞
- 
-c1:     |F    Em7      Eb   _ - _ 
-l1: 在我 心底 你就是我 第一            
+c1: |C         E7           |Am   -    Gm7    C
+l1:  Love Song 一直想写一首  Love Song 你给了我一首
 
-c1: |0 _ Db     C _ - _ |
-l1:      想说爱 你       (空2拍进verse 2)
+c1: |F         Fm/Ab          |Em            Am
+l1:   你就像那 夏天的凉风 吹过 我的面孔 心想 飞
+
+c1:     |F    Em7      Eb   _ - _ |0 _ Db     C _ - _
+l1: 在我 心底 你就是我 第一            想说爱 你
  
 ### Verse 2
 
