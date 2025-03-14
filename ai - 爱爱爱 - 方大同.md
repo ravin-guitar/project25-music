@@ -10,19 +10,19 @@ c1: 1 = A
 
 l3: EP only
 
-c1: |Amaj7 - Em7 A7 _ |Dmaj7 C#m7 Bm7 Bm7/F#
+c1: |Amaj7 - Em7 A7 _ |Dmaj7 C#m7 Bm7 Bm7/E
 l3:  _
 
-c1: |Amaj7 - Em7 A7 _ |Dmaj7 C#m7 Bm7 Bm7/F#
+c1: |Amaj7 - Em7 A7 _ |Dmaj7 C#m7 Bm7 Bm7/E
 
 ### Verse 1
 
 l3: Drums in
 
-c1: |Amaj7 - Em7      A7 _   |Dmaj7 C#m7 Bm7 Bm7/F#
+c1: |Amaj7 - Em7      A7 _   |Dmaj7 C#m7 Bm7 Bm7/E
 l1:  在      哪裡記載 第一個  桃    花   賊  誰
 
-c1: |Amaj7 - Em7      A7 _   |Dmaj7 C#m7 Bm7 Bm7/F#
+c1: |Amaj7 - Em7      A7 _   |Dmaj7 C#m7 Bm7 Bm7/E
 l1:  在      哪裡典賣 第一支  紫    玉   釵  我
 
 c1: |Fmaj9 G/F         |Em7 - Em7      Ebm7 
@@ -36,7 +36,7 @@ l1:  的海 更想去看海 唱過 人家的愛 更想找 愛
 c1:       |Amaj9     E/G#      |F#m7  -  Em7  A7
 l1: 你哭起 來 我笑起 來  都為了 愛    愛 愛有 一天
 
-c1: |Dmaj7    C#m7     |Bm7           Bm7/F#
+c1: |Dmaj7    C#m7     |Bm7           Bm7/E
 l1:  翻開辭海 找不到愛  花不開 樹不擺 還是更暢快
 
 c1: |Amaj7        E/G#        |Em/G     F#7#5
@@ -53,10 +53,10 @@ K: A
 
 ### Verse 2
 
-c1:     |Amaj7 - Em7      A7 _   |Dmaj7 C#m7 Bm7 Bm7/F#
+c1:     |Amaj7 - Em7      A7 _   |Dmaj7 C#m7 Bm7 Bm7/E
 l1: 找到 愛      幸福的人 肯不肯  躲    起   來  正
 
-c1: |Amaj7 - Em7      A7 _   |Dmaj7 C#m7 Bm7 Bm7/F#
+c1: |Amaj7 - Em7      A7 _   |Dmaj7 C#m7 Bm7 Bm7/E
 l1:  在      寂寞的人 能不能  站    起   來  我
 
 c1: |Fmaj9 G/F         |Em7 - Em7      Ebm7 
@@ -70,7 +70,7 @@ l1:  等待 更習慣等待 唱過 人家的愛 更想找 愛
 c1:       |Amaj9       E/G#      |F#m7  -  Em7  A7
 l1: 你喊出 來   我靜下 來  都為了 愛    愛 愛有 一天
 
-c1: |Dmaj7    C#m7     |Bm7           Bm7/F#
+c1: |Dmaj7    C#m7     |Bm7           Bm7/E
 l1:  翻開辭海 找不到愛  花不開 樹不擺 還是更暢快
 
 c1: |Amaj7        E/G#        |Em/G     F#7#5
@@ -87,7 +87,7 @@ l1:  埃   買不 起滿街 口袋 的品牌你 悶起來
 c1:   |C#m7   F#7        |Bm7
 l1: 我 傻起來 可以愛 會不 會整個時代只有一個告白 誰不
 
-c1: |Bm7/F#  |Bm9/F#
+c1: |Bm7/E  |Bm9/E
 l1:  愛過不存 在
 l3:  2拍
 
@@ -96,7 +96,7 @@ l3:  2拍
 c1:       |Amaj9       E/G#      |F#m7  -  Em7  A7
 l1: 不明不 白   不分好 歹  都為了 愛    愛 愛有 一天
 
-c1: |Dmaj7    C#m7     |Bm7           Bm7/F#
+c1: |Dmaj7    C#m7     |Bm7           Bm7/E
 l1:  翻開辭海 找不到愛  花不開 樹不擺 還是更暢快
 
 c1: |Amaj7        E/G#        |Em/G     F#7#5
