@@ -100,6 +100,11 @@ K: G
 |"G" z2 G/2A/2^A/2B/2 z2 D<^D |"后省略"E 
 :::
 
+c1: |G _ Bm __ |Em - D G _ |C _ Bm __ |Am D G -
+l3:  _
+
+c1: |G _ Am __ |Bm _ Em __ |C _____ |D
+
 ### Bridge
 
 c1: |Em      Am  |D       G
