@@ -56,7 +56,7 @@ l4: Tone: delay chorus maybe filter
 
 :::abcl4
 K: G
-|dg b2 {d'}e'{d'}e' b2 |g'e'bg gdg
+|DG B2 {d}e{d}e B2 |geBG GDG
 :::
 
 ### Verse 2
@@ -91,26 +91,44 @@ l1:   如果愛 可以更簡單  我也不 會有這麼亂
 c1: |G       Em       |Am   Bm   C    D
 l1:   整個世 界在轉 你 或許 可以 說你 愛我嗎
 
-### Solo
+### Solo (8 bars)
+
+l4: Tone: boosted delay maybe filter
 
 :::abcl4
 K: G
-|"G" 
+|"G" z2 G/2A/2^A/2B/2 z2 D<^D |"后省略"E 
 :::
+
+### Bridge
+
+c1: |Em      Am  |D       G
+l1:   如果愛 可以  如果愛 可以
+
+c1: |Em      Am  _ |D   ___    G
+l1:   如果愛 可以
+
+c1: |Em      Am      |D         G
+l1:   如果愛 可以更簡 單 如果愛 可以 
+
+c1: |Am  ___________ |D
 
 ### Chorus 3
 
-l1: 如果愛可以 如果愛可以 如果愛可以
+c1: |G       Em        |Am      D
+l1:   如果愛 沒有那麼煩  我不會 食不下晚飯
 
-l1: 如果愛可以更簡單 如果愛可以 
+c1: |G       Em      |Am   Bm   C      D
+l1:   也不會 多麼的墮 落如 果你 說你愛 我
 
-l1: 如果愛沒有那麼煩 我不會食不下晚飯
+c1: |G       Em        |Am      D
+l1:   如果愛 可以更簡單  我也不 會有這麼亂
 
-l1: 也不會多麼的墮落 如果你說你愛我
-
-l1: 如果愛可以更簡單 我也不會有這麼亂
-
-l1: 整個世界在轉 你或許可以說你愛我嗎
+c1: |G       Em       |Am   Bm   C    D
+l1:   整個世 界在轉 你 或許 可以 說你 愛我嗎
 
 ### Outro
+
+c1: |G      Em  __ |Am __ D ____ |G __ Em ___ |Am __ D ____ 
+l3:  渐弱 _ 即兴
 
