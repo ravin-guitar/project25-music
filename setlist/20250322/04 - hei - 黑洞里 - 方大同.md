@@ -71,8 +71,11 @@ w: 愛你 _ 放 開 你
 
 ### Bridge
 
-c1: |Dm7  Dm7/G Cmaj7 -     |Fmaj7 - C/E Dm7 Cmaj7 - -    -
-l1:  雙手 的武  器    拋棄你 背後    的  歷  史      因為 在
+:::abcc1
+K: c style=rhythm
+|"Dm7" B2 "Dm7/G" B2 "Cmaj7" B2 B2 |"Fmaj7" B2 "C/E" B"Dm7"B "Cmaj7"B2 B B
+w: 雙手 的武 器 拋棄你 背後    的  歷  史      因為 在
+:::
 
 c1:       |Gmaj7         A7         |F/G            D/E
 l1: 我住的 黑洞裡 從來沒 有引力 從來 不懂什麼腳踏實 地
