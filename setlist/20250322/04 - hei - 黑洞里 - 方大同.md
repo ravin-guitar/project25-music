@@ -73,8 +73,8 @@ w: 愛你 _ 放 開 你
 
 :::abcc1
 K: c style=rhythm
-|"Dm7" B2 "Dm7/G" B2 "Cmaj7" B2 B2 |"Fmaj7" B2 "C/E" B"Dm7"B "Cmaj7"B2 B B
-w: 雙手 的武 器 拋棄你 背後    的  歷  史      因為 在
+|"Dm7" B2 "Dm7/G" B2 "Cmaj7" B4 |"Fmaj7" B2 "C/E" B"Dm7"B "Cmaj7"B4
+w: 雙手 的武 器拋棄你 背後    的  歷  史因為 在
 :::
 l3: _
 
