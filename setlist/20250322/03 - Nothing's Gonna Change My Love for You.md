@@ -32,7 +32,6 @@ l1: i might have been in love before
 c1:       |Dm7        -    F/G   _ G
 l1: but it never felt this strong
 
-
 ### Pre Chorus 1
 
 c1:    |Fmaj7                Em7
@@ -56,8 +55,8 @@ l1:  nothing’s gonna change my love  for you
 c1:    |G                -       Em7    E7
 l1: you ought to know by now how much i love you
 
-c1: |Am7 Am7/G#    Fm7b5   -
-l1:  one thing you can  be sure of
+c1: |Am7 _ Am7/G#    Fm7b5   -
+l1:  one   thing you can  be sure of
 
 c1: |Dm7                   F/G
 l1:     i’ll never ask for more than your love
@@ -79,47 +78,96 @@ K: C style=rhythm
 |"C" B2 B2
 w: you
 [K: style=normal]
-A/2G/2F DF/2E/2|"G9" D8
+A/2G/2F G,/2C/2F/2E/2|"G9" D8
 :::
 
-C    G    Am
-l1: if the road ahead is not so easy
-Em      F    C
-l1: our love will lead the way for us ( )
-F      G
-l1: just like a guiding star
-C      G
-l1: i’ll be there for you
-Am
-l1: if you should need me
-Em        F    C
-l1: you don’t have to change a thing ( )
-F        G
-l1: i love you just the way you are
-F        C
-l1: so come with me and share the view
-E    Am
-l1: i’ll help you see forever too
-F
-l1: hold me now
-G
-l1: touch me now
-F      G
-l1: i don’t want to live without you
+### Verse 2
 
-C            F
-nothing’s gonna change my love for you
-G          E
-you ought to know by now how much i love you
-Am      F
-( ) one thing you can be sure of
-Dm        G
-( ) i’ll never ask for more than your love
-C            F
-nothing’s gonna change my love for you
-G          E
-you ought to know by know how much i love you
-Am          F
-the world may change my whole life thru but
-Dm      G      C
-nothing's gonna change my love for you
+c1: |C           G/B            |Am7
+l1:  if the road ahead is not so easy
+
+c1:     G                 |Fmaj7     Em7
+l1: our love will lead the way for us
+
+c1:     |Dm7    -       F/G _ G
+l1: just like a guiding star
+
+c1: |C                 G/B                   |Am7
+l1:  i’ll be there for you if you should need me
+
+c1: G                |Fmaj7         Em7
+l1: you don’t have to change a thing
+
+c1:           |Dm7      -       F/G   _ G
+l1: i love you just the way you are
+
+
+### Pre Chorus 1
+
+c1:   |Fmaj7            Em7
+l1: so come with me and share the view
+
+c1:     |Em7               Am7
+l1: i’ll help you see for- ever too
+
+c1: |Dm7         C/E
+l1:  hold me now touch me now
+
+c1: |Fadd9           F/G             |F/G   G
+l1:  I don’t want to live without you
+l3:                                   ↑小节 两拍
+
+### Chorus 2
+
+c1: |C                         Fmaj7
+l1:  nothing’s gonna change my love  for you
+
+c1:    |G                -       Em7    E7
+l1: you ought to know by now how much i love you
+
+c1: |Am7 _ Am7/G#    Fm7b5   -
+l1:  one   thing you can  be sure of
+
+c1: |Dm7                   F/G
+l1:     i’ll never ask for more than your love
+
+c1: |C                         Fmaj7
+l1:  nothing’s gonna change my love for you
+
+c1:    |G                -       Em7    E7
+l1: you ought to know by now how much i love you
+
+c1: |Am7           Am7/G#    Fm7b5      -
+l1:  the world may change my whole life thru but
+
+c1: |Dm7             F/G
+l1:  nothing's gonna change my love for 
+
+### Chorus 3
+
+c1: |C#                        F#maj7
+l1:  nothing’s gonna change my love  for you
+
+c1:    |G#               -       Fm7    F7
+l1: you ought to know by now how much i love you
+
+c1: |A#m7 _ A#m7/A    F#m7b5   -
+l1:  one    thing you can   be sure of
+
+c1: |D#m7                  F#/G#
+l1:     i’ll never ask for more than your love
+
+c1: |C#                        F#maj7
+l1:  nothing’s gonna change my love for you
+
+c1:    |G#               -       Fm7    F7
+l1: you ought to know by now how much i love you
+
+c1: |A#m7          A#m7/A    F#m7b5      -
+l1:  the world may change my whole  life thru but
+
+c1: |D#m7            F#/G#
+l1:  nothing's gonna change my love for 
+
+c1: |C#
+l1:  you
