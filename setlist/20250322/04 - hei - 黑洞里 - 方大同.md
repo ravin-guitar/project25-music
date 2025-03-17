@@ -64,7 +64,7 @@ l1:  只要放 肆 萬 里以外 更加
 
 :::abcc1
 K: C style=rhythm
-|"Amaj7" B2 B2 "Amaj7"B3/2"Bm7"B/2 -B/2B3/2
+|"Amaj7" B2 B2 "Amaj7"B3/2"Bm7"B/2 -B/2"C#m7"B3/2
 w: 愛你 _ 放 開 你
 :::
 
