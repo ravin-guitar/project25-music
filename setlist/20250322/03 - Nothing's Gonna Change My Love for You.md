@@ -67,7 +67,7 @@ l1:  nothing’s gonna change my love for you
 c1:    |G                -       Em7    E7
 l1: you ought to know by now how much i love you
 
-c1: |Am7           Am7/G#    Fm7b5      -
+c1: |Am7           Am7/G#    F#m7b5     -
 l1:  the world may change my whole life thru but
 
 c1: |Dm7             F/G
@@ -137,7 +137,7 @@ l1:  nothing’s gonna change my love for you
 c1:    |G                -       Em7    E7
 l1: you ought to know by now how much i love you
 
-c1: |Am7           Am7/G#    Fm7b5      -
+c1: |Am7           Am7/G#    F#m7b5     -
 l1:  the world may change my whole life thru but
 
 c1: |Dm7             F/G
@@ -163,7 +163,7 @@ l1:  nothing’s gonna change my love for you
 c1:    |G#               -       Fm7    F7
 l1: you ought to know by now how much i love you
 
-c1: |A#m7          A#m7/A    F#m7b5      -
+c1: |A#m7          A#m7/A    Gm7b5       -
 l1:  the world may change my whole  life thru but
 
 c1: |D#m7            F#/G#
