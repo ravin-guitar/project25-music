@@ -105,6 +105,8 @@ l1: 在廣闊寂寞漩 渦解 脫感謝上 天傑作 管結果
 c1: |Dm                 |Em7       
 l1:   是對是錯 是福是禍   使我對愛 再沒那麼多疑
 
+l3: _ remember syncopations
+
 c1: |A7                      |A7
 l1:  惑 (oh, hard to believe)  oh, hard to believe, baby
 
