@@ -8,6 +8,8 @@ c1: 1 = C
 
 ### Intro
 
+l4: Gt starts with a little lick like
+
 :::abcl4
 |z4 {G}A/2G/2 {E}D/2C/2|
 :::
