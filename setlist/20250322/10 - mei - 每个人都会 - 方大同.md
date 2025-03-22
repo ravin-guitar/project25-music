@@ -12,7 +12,7 @@ l4: Gt starts with a little lick like
 
 :::abcl4
 K: C
-z4 {D}E{E}D G,A,||!^!C2
+z4 {E}DC G,A,||!^!C2
 :::
 
 ### Verse 1
