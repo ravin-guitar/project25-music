@@ -8,6 +8,10 @@ c1: 1 = C
 
 ### Intro
 
+:::abcl4
+|z4 {G}A/2G/2 {E}D/2C/2|
+:::
+
 ### Verse 1
 
 c1:       |C         |E
