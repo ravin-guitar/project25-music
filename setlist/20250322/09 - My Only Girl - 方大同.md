@@ -102,10 +102,17 @@ l1:   不知道該怎麼說 感謝的話這麼多  你就像是救了我
 c1:             |Em7          |A7
 l1: 在廣闊寂寞漩 渦解 脫感謝上 天傑作 管結果
 
-c1: |Dm                 |Em7       
-l1:   是對是錯 是福是禍   使我對愛 再沒那麼多疑
+:::abcc1
+K: C style=rhythm
+|"Dm"(3Bzz (3zzz (3Bzz (3zzz
+w: 是對是錯 是福是禍
+:::
 
-l3: _ remember syncopations
+:::abcc1
+K: C style=rhythm
+|"Em7"(3Bzz (3zzz (3Bzz (3zzz
+w: 使我對愛 再沒那麼多疑
+:::
 
 c1: |A7                      |A7
 l1:  惑 (oh, hard to believe)  oh, hard to believe, baby
