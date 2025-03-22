@@ -41,7 +41,7 @@ l1: I  wrote this for you
 
 c1: |F△7    |F△7    |Bb△7   |Bb△7
 
-c1: |Am7    |Am7    |Gm7    |Eb
+c1: |Am7    |Am7    |Gm7
 
 ## A2
 
