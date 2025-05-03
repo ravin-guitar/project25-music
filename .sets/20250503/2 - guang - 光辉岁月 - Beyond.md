@@ -1,4 +1,4 @@
 ---
 ---
 
-# 2 - guang - 光辉岁月 - Beyond
+# 光辉岁月 - Beyond
