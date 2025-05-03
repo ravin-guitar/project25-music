@@ -36,12 +36,17 @@ l1: ______ 如果没有遇见你
 
 :::abcc1
 K: F style=rhythm
-|"F" B0 B0 "Am" B0 B0 |"Dm" B0 B0 "Am" B0 B0 |"Bb" B0 B0 "F" B0 B0 |
-M: 2/4
-"Dm" B0 B0 |"Gm" B0 B0 "C11" B0 B0
+|"F" B0 B0 "Am" B0 B0 |"Dm" B0 B0 "Am" B0 B0 |"Bb" B0 B0 "F" B0 B0
 :::
 
 l1: ______ 也许认识某一人
+
+:::abcc1
+K: F style=rhythm
+|
+M: 2/4
+"Dm" B0 B0 |"Gm" B0 B0 "C11" B0 B0
+:::
 
 ### Chorus 1
 
@@ -95,12 +100,17 @@ l1: ______ 如果有那么一天
 
 :::abcc1
 K: F style=rhythm
-|"F" B0 B0 "Am" B0 B0 |"Dm" B0 B0 "Am" B0 B0 |"Bb" B0 B0 "F" B0 B0 |
-M: 2/4
-"Dm" B0 B0 |"Gm" B0 B0 "C11" B0 B0
+|"F" B0 B0 "Am" B0 B0 |"Dm" B0 B0 "Am" B0 B0 |"Bb" B0 B0 "F" B0 B0
 :::
 
 l1: ______ 不要什么诺言
+
+:::abcc1
+K: F style=rhythm
+|
+M: 2/4
+"Dm" B0 B0 |"Gm" B0 B0 "C11" B0 B0
+:::
 
 ### Chorus 2
 
