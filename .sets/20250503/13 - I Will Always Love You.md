@@ -3,6 +3,8 @@
 
 ## I Will Always Love You
 
+c1: 1 = C -> D
+
 ### Verse 1
 
 l3: only vocal
