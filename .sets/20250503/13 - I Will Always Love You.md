@@ -5,6 +5,8 @@
 
 c1: 1 = C -> D
 
+l3: Key: A -> B
+
 ### Verse 1
 
 l3: only vocal
