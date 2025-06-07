@@ -5,7 +5,7 @@
 
 c1: Key = C
 
-l3: Capo: 4
+l3: 原key:E Capo: 4
 
 ### Intro
 
