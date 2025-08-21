@@ -25,7 +25,7 @@ l1: He tells me I'm pretty Don't know how to respond
 
 c1: |Fm7 _ _ _ _ |Bb13 _ Bb7#5
 
-I tell him that he's pretty too Can I say that? Don't have a clue
+l1: I tell him that he's pretty too Can I say that? Don't have a clue
 
 ### B
 
@@ -75,7 +75,7 @@ c1: |Fm7 ____ ____ |C7 ____
 
 l1: What if he's the only one I'll ever miss?
 
-c1: |Fm7 ____ ____ |C7 ____ 
+c1: |Gm7 ____ ____ |C7 ____ 
 
 l1: Maybe I should run, I'm only 21
 
