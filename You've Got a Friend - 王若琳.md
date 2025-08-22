@@ -80,6 +80,20 @@ l1: And call my name out loud
 
 l1: Soon I'll be knocking upon your door
 
+c1: |Dm7 _____ |A7 ______ |Dm7 _ A7 __ |Dm7
+l1:  _
+
+c1: |Gm7 _____ |C7sus4 __ |F _________ |F
+l1:  _
+
+c1: |Em7 _____ |A7 ___ __ |Dm7 _ A7 __ |Dm7
+l1:  _
+
+c1: |Gm7 _____ |Am7 _____ |C7sus4 ____ |C7
+l1:  _
+
+### Chorus 3
+
 l1: You just call out my name
 
 l1: And you know wherever I am
@@ -92,6 +106,7 @@ l1: All you have to do is call
 
 l1: And I'll be there, yes I will
 
+### Bridge
 
 l1: Ain't it good to know that you've got a friend
 
@@ -103,6 +118,15 @@ l1: Well, they'll take your soul if you let them
 
 l1: Oh, don't you let them
 
+c1: |Eb ______ |Bb _______ |F _______ |Fmaj7
+l1:  _
+
+c1: |Bb ______ |Eb7 ______ |Dm ______ |G7
+l1:  _
+
+c1: |C7sus4 __ |C7
+### Chorus 3
+
 l1: You just call out my name
 
 l1: And you know wherever I am
@@ -117,8 +141,28 @@ l1: And I'll be there, yes I will
 
 l1: You've got a friend
 
-l1: You've got a friend
+c1: |F _______ |Fmaj7 ____ |Bb ______ |Gm7 _ C7
+l1:  _
+
+c1: |F _______ |Fmaj7 ____ |C7sus4 __ |C7
+l1:  _
+
+c1: |F _______ |Fmaj7 ____ |Bb ______ |Gm7 _ Bb/C
+l1:  _
+
+c1: |Bb _ Am7 __ |Gm7 Bb/C - - 
+l1:  _
 
 l1: You've got a friend
 
 l1: You've got a friend
+
+l1: You've got a friend
+
+c1: |F _______ |Bb/F _____ |F _______ |Bb/F _____ 
+l1:  _
+
+c1: |F _______ |Bb/F _____ |F _______ |Bb/F _____ 
+l1:  _
+
+c1: |F
