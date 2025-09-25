@@ -15,14 +15,20 @@ K: C style=rhythm
 
 :::abcc1
 K: C style=rhythm
-|"C△7" B0 B0 "Em7" B3 "F△7" B|-B4 "Fm6"B4 |"C△7" B0 B0 "Em7" B3 "F△7" B|-B4 "Fadd9" B4
-w: _ 許多回 憶 藏在心 底 _ 總來不 及 都告訴 你
+|"C△7" B2 B2 "Em7" B3 "F△7" B|-B4 "Fm6"B4 |"C△7" B2 B2 "Em7" B3 "F△7" B|-B4 "Fadd9" B4
+w: _ 許多回 憶 藏在心 底 _ _ 總來不 及 都告訴 你
+:::
+
+:::abcc1
+K: C style=rhythm
+|"Dm7" B2 B2 "G7b9" B2 B2|"Em7"B2 B2 "Am7"B4 |"Dm7" B2 B2 B2 B2|"Fm6"B8
+w: _ 和你一 起 爬過山 頂 入過海 裏 _ 難免粗 心 時而大 意
 :::
 
 l1:  
 
-和你一起 爬過山頂 入過海裏
-難免粗心 時而大意
+  
+
 難過開心 你都參與
 笑到抽筋 哭到決堤
 和你一起 想去東京 飛到巴黎
