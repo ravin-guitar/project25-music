@@ -11,7 +11,7 @@ K: C style=rhythm
 |"C△7" B4 "Em7" B3 "F△7" B|-B8 |"C△7" B4 "Em7" B3 "F△7" B|-B4 "Fadd9" B4
 :::
 
-### Verse
+### Verse 1
 
 :::abcc1
 K: C style=rhythm
@@ -22,26 +22,56 @@ w: _ 許多回 憶 藏在心 底 _ _ 總來不 及 都告訴 你
 :::abcc1
 K: C style=rhythm
 |"Dm7" B2 B2 "G7b9" B2 B2|"Em7"B2 B2 "Am7"B4 |"Dm7" B2 B2 B2 B2|"Fm6"B8
-w: _ 和你一 起 爬過山 頂 入過海 裏 _ 難免粗 心 時而大 意
+w: _ 和你一 起 爬過山 頂 入過海 裏 _ 難免粗 心 時而大意
 :::
 
-l1:  
+### Verse 2
 
-  
+:::abcc1
+K: C style=rhythm
+|"C△7" B2 B2 "Em7" B3 "Fadd9" B|-B4 "Fm6"B4 |"C△7" B2 B2 "Em7" B3 "F△7" B|-B4 "Fm6" B4
+w: _ 難過開 心 你都參 與 _ _ 笑到抽 筋 哭到決 堤
+:::
 
-難過開心 你都參與
-笑到抽筋 哭到決堤
-和你一起 想去東京 飛到巴黎
-那些事情 全因為你
-我想和你 賞最美的風景
-看最長的電影 聽動人的旋律
-是因為你
-Oh 我會陪你到下個世紀
-那是多麼的幸運
-可愛的你 愛哭的你 (爱哭的你)
-善良的你 美好的你
-和你一起 聊着過去 說起曾經
-那些畫面都 是你
+:::abcc1
+K: C style=rhythm
+|"Dm7" B2 B2 "G7b9" B2 B2|"Em7"B2 B2 "Am7"B4 |"Dm7" B2 B2 B2 B2|"G7b9"B4
+w: _ 和你一 起 想去東 京 飛到巴 黎 _ 那些事 情 全 因為你
+:::
+
+### Chorus 1
+
+:::abcc1
+K: C style=rhythm
+B4 |"F△7" B2 B2 "E7" B4|"Am7"B2 B2 "Gm7"B2 "C13" B2 |"F△7" B2 B2 "E7" B2 B2|"Am7"B4 "Gm7"B2 "C13" B2 |
+w: 我想和 你 賞 最美的風 景 看 最長 的電 影 聽 動人 的旋 律 是因為 你Oh 
+:::
+
+:::abcc1
+K: C style=rhythm
+|"F△7" B4 "E7" B4|"Am7"B3/2 "Abm7" B3/2 "F#m7b5"B-B4 |"Dm7" B4 "G7b9"B4|"C"B8
+w: 我會 陪你到下 個 世 紀 _ 那是多麼 的幸 運
+:::
+
+### Verse 3
+
+:::abcc1
+K: C style=rhythm
+|"C△7" B2 B2 "Em7" B3 "Fadd9" B|-B8 |"C△7" B2 B2 "Em7" B3 "F△7" B|-B4 "Fm6" B4
+w: _ 可愛的 你 愛哭的 你 _ 善良的 你 美好的 你
+:::
+
+:::abcc1
+K: C style=rhythm
+|"Dm7" B2 B2 "G7b9" B2 B2|"Em7"B2 B2 "Am7"B4 |"Dm7" B4 "G13" B4|"C"B8
+w: _ 和你一 起 聊着過 去 說起曾 經 那些畫面 都是 你
+:::
+
+### Bridge
+
+
+
+
 我想和你 賞最美的風景
 看最長的電影 聽動人的旋律
 是因為你
