@@ -94,6 +94,8 @@ K: C style=rhythm
 w: 我會 陪你到下 個 世 紀 _ 那是多麼 的幸 運 我要和
 :::
 
+### Chorus 3 (安静一个半小节，鼓和贝斯Gm7进)
+
 :::abcc1
 K: C style=rhythm
 |"F△7" B2 B2 "E7" B4|"Am7"B2 B2 "Gm7"B2 "C13" B2 |"F△7" B2 B2 "E7" B2 B2|"Am7"B4 "Gm7"B2 "C13" B2 |
