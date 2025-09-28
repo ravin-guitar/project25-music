@@ -69,17 +69,47 @@ w: _ 和你一 起 聊着過 去 說起曾 經 那些畫面 都是 你
 
 ### Bridge
 
+:::abcc1
+K: C style=rhythm
+|"Fmaj7" B8 |"Em7" B4 B3 "Ebm7"B|"Dm7" B4 "Dm7/G" B4|"Cmaj7"B4"C7"B4
+:::
+
+:::abcc1
+K: C style=rhythm
+|"Fmaj7" B8 |"Em7" B3 "A7"B B4|"Dm7" B4 "Dm7/G" B4|"Cmaj7"B4"C7"B4
+w: _ _ _ _ _ _ _我想和
+:::
+
+### Chorus 2
+
+:::abcc1
+K: C style=rhythm
+|"F△7" B2 B2 "E7" B4|"Am7"B2 B2 "Gm7"B2 "C13" B2 |"F△7" B2 B2 "E7" B2 B2|"Am7"B4 "Gm7"B2 "C13" B2 |
+w:  你 賞 最美的風 景 看 最長 的電 影 聽 動人 的旋 律 是因為 你Oh 
+:::
+
+:::abcc1
+K: C style=rhythm
+|"F△7" B4 "E7" B4|"Am7"B3/2 "Abm7" B3/2 "F#m7b5"B-B4 |"Dm7" B4 "G7b9"B4|"C"B6 B2
+w: 我會 陪你到下 個 世 紀 _ 那是多麼 的幸 運 我要和
+:::
+
+:::abcc1
+K: C style=rhythm
+|"F△7" B2 B2 "E7" B4|"Am7"B2 B2 "Gm7"B2 "C13" B2 |"F△7" B2 B2 "E7" B2 B2|"Am7"B4 "Gm7"B2 "C13" B2 |
+w:  你 賞 最美的風 景 看 最長 的電 影 聽 動人 的旋 律 是因為 你Oh 
+:::
+
+:::abcc1
+K: C style=rhythm
+|"F△7" B4 "E7" B4|"Am7"B3/2 "Abm7" B3/2 "F#m7b5"B-B4 |"Dm7" B4 "G7b9"B4|"C"B4 "A7"B4
+w: 我和 你最珍貴 的 記 憶 _ 那是多麼 的幸 運 (woah)
+:::
+
+:::abcc1
+K: C style=rhythm
+|"Dm7" B4 "G7b9"B4|"C"B8 ||
+w: 我是多麼 的幸 運
+:::
 
 
-
-我想和你 賞最美的風景
-看最長的電影 聽動人的旋律
-是因為你
-Oh 我會陪你到下個世紀
-那是多麼的幸運
-我要和你 賞最美的風景
-看最長的電影 聽動人的旋律
-是因為你
-Oh 我和你最珍貴的記憶
-那是多麼的幸運 (woah woah)
-我是多麼的幸運
