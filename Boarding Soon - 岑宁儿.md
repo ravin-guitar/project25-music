@@ -17,7 +17,7 @@ c1: |Am7 ________ |D9
 
 ### Verse 1
 
-c1: |Am7      C/D     |Gmaj7
+c1: |Am7      C/D     |Gmaj7 _ Em9
 l1:    離別的 步伐有些 緊張
 
 c1: |Am7      C/D     |Gmaj7 _ D/E
@@ -48,61 +48,64 @@ l3: ________________________ (嗯哒~哒~哒~~~~)
 
 ### Chorus 1
 
-c1:   |         |
-l1: 起 飛再降 落 沒有盡 頭
+c1:   |Cmaj7 _ Cm7 __ |Bm7     Em7
+l1: 起 飛再降  落      沒 有盡 頭
 
-c1: |               |
-l1:  總有人 在這裡等 候
+c1: |Am7    C/D     |Gmaj7 _ Em7
+l1:  總有人 在這裡等 候      (加花)
 
-c1:   |               |
-l1: 起 飛再降 落里程有 多少要 走
+c1:   |Cmaj7 _ D7      |Bm7     Em7
+l1: 起 飛再降  落里程有 多 少要 走
 
-c1:   |                   |
-l1: 誰 都有不得 不離開的理 由
+c1:   |Am7      C/D         |Fmaj7 F#maj7 Gmaj9 -
+l1: 誰 都有不得 不離開的理由
 
-c1:       |  |
+l3: ____________________ (嗯哒~哒~哒~~~~)
+
+c1: C/D|% 
+
 l3: 提前拍
 
 ### Verse 3
 
-c1: |                   |
+c1: |Am7        C/D     |Gmaj7 _ Em9
 l1:    穿筆挺的 西裝眼神 慌張
 
-c1: |                |
-l1:   巨大的 壓力難消 化
+c1: |Am7      C/D     |Gmaj7 _ D/E
+l1:    巨大的 壓力難消 化
 
-c1: |                       |
-l1:  早餐在胃裡 翻滾起飛之後 先來一壺熱 茶
+c1: |Am7        C/D         |Bm7  -      E7sus4 E7
+l1:  早餐在胃裡 翻滾起飛之後 先來 一壺熱 茶
 
-c1:       |                   |
-l1: 雙腳飛 在天上卻 踏實得不像 話
+c1:       |Am7      C/D         |Fmaj7 F#maj7 Gmaj9 -
+l1: 雙腳飛 在天上卻 踏實得不像話
 
 ### Chorus 2
 
-c1:   |         |
-l1: 起 飛再降 落 沒有盡 頭
+c1:   |Cmaj7 _ Cm7 __ |Bm7     Em7
+l1: 起 飛再降  落      沒 有盡 頭
 
-c1: |               |
-l1:  總有人 在這裡等 候
+c1: |Am7    C/D     |Gmaj7 _ Em7
+l1:  總有人 在這裡等 候      (加花)
 
-c1:   |               |
-l1: 起 飛再降 落里程有 多少要 走
+c1:   |Cmaj7 _ D7      |Bm7     Em7
+l1: 起 飛再降  落里程有 多 少要 走
 
-c1:   |                   |
-l1: 誰 都有不得 不回來的理 由
+c1:   |Am7      C/D         |Fmaj7 F#maj7 Gmaj9 -
+l1: 誰 都有不得 不回來的理由
 
 ### Bridge
 
-c1: |                     |
-l1:  三號登機口 is closed  九號開始 final call
+c1: |Am7      C/D          |Gmaj7    Em9
+l1:  三號登機 口 is closed  九號開始 final call
 
-c1: |                 |
+c1: |Am7      C/D     |Gmaj7 F#maj7 Fmaj7 E7 - - - -
 l1:  行李箱在 轉盤上昏 頭
 
-c1: |                      |
-l1:  五號顯示 boarding soon 六十三大雪延誤
+c1: |Am7      C/D          |Gmaj7    Em9
+l1:  五號顯示 boarding soon 六十三大 雪延誤
 
-c1: |                 |
+c1: |Am7      C/D     |- Bm7 A#m7 Am7 - C/D - -
 l1:  旅程在這 開始又結 束
 
 c1: (四个小节)
