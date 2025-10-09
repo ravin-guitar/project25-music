@@ -65,10 +65,12 @@ l3: (换6/8拍)
 c1: |Dmaj7 _ C#m7b5 __ |A7 _ F#m7b5
 l1:  _
 
-c1: |Gmaj7 _ A __ |(3/8) Bbmaj7
+l3:                3/8
+c1: |Gmaj7 _ A __ |Bbmaj7
 l1:  _
 
-c1: |(4/4) A7
+l3:  回到4/4
+c1: |A7
 
 ### Pre Chorus 2
 
