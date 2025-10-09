@@ -4,7 +4,7 @@ youTubeId:
 
 ## 那么骄傲 - 金海心
 
-c1: 1 = D
+c1: 1 = D to Eb
 
 ### Intro
 
