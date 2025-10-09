@@ -41,7 +41,7 @@ l1:  少注定 要 受煎 熬
 c1:   |Bm7 -  C#m7 F#7 _ |Bm7 -  -    A7/C#
 l1: 不 好  優 雅都 不見   了  不 安分 的心
 
-c1: |Dmaj7   F#m7      |Gmaj7 - -   A
+c1: |Dmaj7   F#m7      |Gmaj7 - -   G/A
 l1:  跳 全世 界    都聽 到       別 那麼驕傲
 
 ### Chorus 1
@@ -81,7 +81,7 @@ l1:  少注定 要 受煎 熬
 c1:   |Bm7 -  C#m7 F#7 _ |Bm7 -  -    A7/C#
 l1: 不 好  優 雅都 不見   了  不 安分 的心
 
-c1: |Dmaj7   F#m7      |Gmaj7 - -   A
+c1: |Dmaj7   F#m7      |Gmaj7 - -   G/A
 l1:  跳 全世 界    都聽 到       別 那麼驕傲
 
 ### Chorus 2
@@ -100,19 +100,26 @@ l1:  笑   怎麼 你還沒看見 我的好
 
 ### Interlude 2
 
-c1: |Bm7 _ A __ |Gmaj7 - - A7
-l3:  _
-
-c1: |Bm7 _ A __ |Gmaj7 - - Bb7 (升一个调)
-l3:  _
-
-c1: |Cm7 _ Bb __ |Abmaj7 - - Bb7
-l3:  _
+:::abcc1
+K: Eb style=rhythm
+|"Bm7" B0 B0 "A" B0 B0 |"Gmaj7" B0 B0 B0 "A7" B0
+:::
 
 :::abcc1
 K: Eb style=rhythm
-|"Cm7" B0 "Bb" B0 |"Abmaj7" B/2B/2B/2 z2 B/2B/2B/2 B2 B2
-w: _ _ _ _ _ _ _ _ _  別 那麼驕傲
+|"Bm7" B0 B0 "A" B0 B0 |"Gmaj7" B0 B0 B0 "Bb7" B0
+w: _ _ _ _ _ _ _ (升调)
+:::
+
+:::abcc1
+K: Eb style=rhythm
+|"Cm7" B0 B0 "Bb" B0 B0 |"Abmaj7" B0 B0 B0 "Bb7" B0
+:::
+
+:::abcc1
+K: Eb style=rhythm
+|"Cm7" B0 B0 "Bb" B0 B0 |"Abmaj7" B/2B/2B/2 z2 B/2B/2B/2 z2 "Ab/Bb"B2
+w: _ _ _ _ _ _ _ _ _ _ _ 別那麼驕傲
 :::
 
 ### Chorus 3
