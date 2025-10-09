@@ -147,5 +147,5 @@ l3:  (两小节钢琴)
 c1: |Ebmaj7  Bb7      |Abmaj7 -  Abm7 Bb7
 l1:  整晚胡  思亂想夜  色真   好 讓我 睡不
 
-c1: |Ebmaj7      Bb7/D  |Bm7
+c1: |Ebmaj7      Bb7/D  |Cm7
 l1:  著   為何你 總是 想 要逃
