@@ -1,5 +1,5 @@
 ---
-youTubeId: 
+youTubeId: 6BnpFBIJ2XU
 ---
 
 ## 那么骄傲 - 金海心
