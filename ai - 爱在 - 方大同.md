@@ -15,8 +15,8 @@ c1: |C - G/B Em _ |Am7 _ C/G _ |Fmaj7 - Em7 Am7 _ |Dm7 _ Fm/Ab
 c1: |C      G/B         |Am7    G
 l1:  買了菜 她跟他慢慢的 炒著菜 他為她趕回家
 
-c1: |Fmaj7       Em7        |Dm7  Em7  Fmaj7 -  F/G - - -
-l1:  走得快 愛無 處不在 可是 呼   之   卻    不 來
+c1: |Fmaj7       Em7        |_Dm7 _Em7 _Fmaj7 _- F/G -
+l1:  走得快 愛無 處不在 可是 呼   之   卻     不 來
 
 c1: |C      G/B         |Am7    G
 l1:  小陽台 她拿走死掉的 小盆栽 他對著啤酒杯
