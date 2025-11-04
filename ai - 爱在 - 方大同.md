@@ -15,14 +15,14 @@ c1: |C - G/B Em _ |Am7 _ C/G _ |Fmaj7 - Em7 Am7 _ |Dm7 _ Fm/Ab
 c1: |C      G/B         |Am7    G
 l1:  買了菜 她跟他慢慢的 炒著菜 他為她趕回家
 
-c1: |Fmaj7       Em7        |Dm7  Em7  Fmaj7 -  F/G - - -
-l1:  走得快 愛無 處不在 可是 呼   之   卻    不 來
+c1: |Fmaj7       Em7        |_Dm7 _Em7 Fmaj7 F/G -
+l1:  走得快 愛無 處不在 可是 呼   之   卻不  來
 
 c1: |C      G/B         |Am7    G
 l1:  小陽台 她拿走死掉的 小盆栽 他對著啤酒杯
 
-c1: |Fmaj7       Em7        |Dm7  Em7  Fmaj7 -  F/G - - -
-l1:  等下載 愛無 處不在 可是 到   處   有    悲 哀
+c1: |Fmaj7       Em7        |_Dm7  _Em7  Fmaj7  F/G -
+l1:  等下載 愛無 處不在 可是 到    處    有悲   哀
 
 ### Pre Chorus 1
 
@@ -48,14 +48,14 @@ l1: 愛無處 不在
 c1: |C      G/B         |Am7    G
 l1:  那是愛 到頭來也發現 這是愛 流淚的微笑的
 
-c1: |Fmaj7       Em7        |Dm7  Em7  Fmaj7 -  F/G - - -
-l1:  都是愛 管它 好與壞 總是 呼   之   卻    不 來
+c1: |Fmaj7       Em7        |_Dm7  _Em7  Fmaj7  F/G -
+l1:  都是愛 管它 好與壞 總是 呼    之    卻不   來
 
 c1: |C      G/B         |Am7    G
 l1:  雪花白 永遠都渴望看 桃花開 梁山伯辜負了
 
-c1: |Fmaj7       Em7        |Dm7  Em7  Fmaj7 -  F/G - - -
-l1:  祝英台 在何 年何代 總是 到   處   有    悲 哀
+c1: |Fmaj7       Em7        |_Dm7 _Em7 Fmaj7 F/G -
+l1:  祝英台 在何 年何代 總是 到   處   有悲  哀
 
 ### Pre Chorus 2
 
