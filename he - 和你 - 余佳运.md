@@ -8,7 +8,7 @@ youTubeId: 6mUIMQafE8c
 
 :::abcc1
 K: C style=rhythm
-|"C△7" B4 "Em7" B3 "F△7" B|-B8 |"C△7" B4 "Em7" B3 "F△7" B|-B4 "Fadd9" B4
+|"C△7" B2 B2 "Em7" B2 -B "F△7" B|-B2 B2 B2 B2 |"C△7" B2 B2 "Em7" B2 -B "F△7" B|-B2 B2 "Fadd9" B2 B2
 :::
 
 ### Verse 1
@@ -16,8 +16,9 @@ K: C style=rhythm
 :::abcc1
 K: C style=rhythm
 |"C△7" B2 B2 "Em7" B3 "F△7" B|-B4 "Fm6"B4 |"C△7" B2 B2 "Em7" B3 "F△7" B|-B4 "Fadd9" B4
-w: _ 許多回 憶 藏在心 底 _ _ 總來不 及 都告訴 你
 :::
+
+l1: 許多回 憶 藏在心 底 _ _ 總來不 及 都告訴 你
 
 :::abcc1
 K: C style=rhythm
