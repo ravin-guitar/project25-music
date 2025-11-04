@@ -15,16 +15,18 @@ K: C style=rhythm
 
 :::abcc1
 K: C style=rhythm
-|"C△7" B2 B2 "Em7" B3 "F△7" B|-B4 "Fm6"B4 |"C△7" B2 B2 "Em7" B3 "F△7" B|-B4 "Fadd9" B4
+|"C△7" B2 B2 "Em7" B2 -B "F△7" B|-B2 B2 "Fm6" B2 B2 |"C△7" B2 B2 "Em7" B2 -B "F△7" B|-B2 B2 "Fadd9" B2 B2
 :::
 
 l1: 許多回 憶 藏在心 底 _ _ 總來不 及 都告訴 你
 
 :::abcc1
 K: C style=rhythm
-|"Dm7" B2 B2 "G7b9" B4|"Em7"B4 "Am7"B4 |"Dm7" B2 B2 B2 B2|"Fm6"B8
-w: _ 和你一 起爬過山 頂入過海 裏 _ 難免粗 心 時而大意
+|"Dm7" B2 B2 "G7b9" B2 B2|"Em7"B2 B2 "Am7"B2 B2 |"Dm7" B2 B2 B2 B2|"Fm6"B2 B2 B2 B2
+
 :::
+
+l1: 和你一 起爬過山 頂入過海 裏 _ 難免粗 心 時而大意
 
 ### Verse 2
 
