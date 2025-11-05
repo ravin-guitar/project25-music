@@ -89,11 +89,9 @@ l1:  我即使離開 你的天空 裡 Woo
 c1: |G    A    |D  A/C# Bm7 A
 l1:  你可 知 誰 甘 心歸 去  ___
 
-:::abcc1
-K: X none style=rhythm
-|"G"B0 B0 "Bb"B0 B0|"Asus4"BBBB"A"B2z2
-w: 你與 我之 間 有 誰   __
-:::
+
+c1: |G        Bb    |_Asus4 _% _% _% A 0
+l1:  你與我之 間 有  誰
 
 ## Chorus 2
 
@@ -135,20 +133,20 @@ K: D
 c1: |G         A     |D     A/C# Bm7  A
 l1:   多少春秋 風雨改  多少 崎嶇 不變 愛
 
-c1: |G         Bb      |A     |A
-l1:   多少唏噓 的你在人 海 ___
+c1: |G         Bb      |A  ____   
+l1:   多少唏噓 的你在人 海        
 
+c1: |A
+l1:  (海)
 
 ## Chorus 3
 
 c1: |D                  |Bm7
 l1:  是緣是情是童真 _ 還 是意外 ____
 
-:::abcc1
-K: X none style=rhythm
-|"Em"B0 B0 B0 B0|"A"B0 B0 B0 z<!>!B
-w: 有淚有罪 有付 出 還 有 忍 耐
-:::
+
+c1: |Em                |A  -  - __0 _A*
+l1:  有淚有罪有 付出 還 有 忍 耐
 
 c1: |D                  |Bm7
 l1:  是人是牆是寒冬 _ 藏 在眼內 ____
