@@ -26,11 +26,25 @@ l1:     Or do you need more?
 c1: |C                              |G*        _D    - _ -
 l1:   Is there something else you're searchin' for?
 
+c1: |Em  -   D.  _G   |% _______
+l1:  I'm     fa -lling
 
+c1: |C                        |G*     _D    -  -
+l1:   In all the good times, I find myself     longin'
 
-I'm falling
-In all the good times, I find myself longin' for change
-And in the bad times, I fear myself
+c1: |Em -  D*  _G   |% _______
+l1:        for change
+
+c1: |C                       |G*     _D    -  -
+l1:   And in the bad times, I fear myself
+
+c1: |Em -  D*  _G   |% _______
+l1:  _
+
+c1: |Em -  D*  _G   |% _______
+l1:  _
+
+### Verse 2
 
 Tell me something, boy
 Aren't you tired trying to fill that void?
