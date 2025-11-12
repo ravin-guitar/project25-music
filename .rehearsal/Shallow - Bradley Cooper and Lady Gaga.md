@@ -6,6 +6,8 @@ youTubeId: bo_efYhYU2A
 
 ### Intro
 
+l3: 木吉他分解
+
 c1: |Em - D* _G |% _______
 
 c1: |C ________ |G* _D - -
@@ -13,6 +15,8 @@ c1: |C ________ |G* _D - -
 c1: |Em - D* _G |% _______ 
 
 ### Verse 1
+
+l3: 木吉他分解
 
 c1: |Em -       D*         _G  |% _______
 l1:     Tell me something, girl
@@ -26,6 +30,54 @@ l1:     Or do you need more?
 c1: |C                              |G*        _D    - _ -
 l1:   Is there something else you're searchin' for?
 
+### Refrain 1
+
+l3: 木吉他分解
+
+c1: |Em  -   D.  _G   |% _______
+l1:  I'm     fa- lling
+
+c1: |C                        |G*     _D    -  -
+l1:   In all the good times, I find myself     longin'
+
+c1: |Em -  D*  _G   |% _______
+l1:        for change
+
+c1: |C                       |G*     _D    -  -
+l1:   And in the bad times, I fear myself
+
+
+### Interlude 1
+
+l3: 木吉他分解
+
+c1: |Em -  D*  _G   |% _______
+
+c1: |Em -  D*  _G   |% _______
+
+### Verse 2
+
+l3: 木吉他分解
+
+c1: |Em -       D*         _G  |% _______
+l1:     Tell me something, boy
+
+c1: |C                          |G*        _D    - _ -
+l1:   Aren't you tired trying to fill that void?
+
+
+l3: 弦乐进
+
+c1: |Em -         D*   _G   |% _______
+l1:     Or do you need more?
+
+c1: |C                        |G*     _D    - _ -
+l1:   Ain't it hard keeping it so hardcore?
+
+### Refrain 2
+
+l3: 木吉他/钢琴柱式/弦乐/贝斯
+
 c1: |Em  -   D.  _G   |% _______
 l1:  I'm     fa -lling
 
@@ -38,43 +90,87 @@ l1:        for change
 c1: |C                       |G*     _D    -  -
 l1:   And in the bad times, I fear myself
 
-c1: |Em -  D*  _G   |% _______
-l1:  _
+### Chorus 1
 
-c1: |Em -  D*  _G   |% _______
-l1:  _
+l3: 木吉他/钢琴分解/弦乐/贝斯
 
-### Verse 2
+c1: |Am                   |D
+l1:  I'm off the deep end, watch as I dive in
 
-Tell me something, boy
-Aren't you tired trying to fill that void?
-Or do you need more?
-Ain't it hard keeping it so hardcore?
+c1: |G          D       |Em
+l1:  I'll never meet the ground
 
-I'm falling
-In all the good times, I find myself longing for change
-And in the bad times, I fear myself
+c1: |Am                        |D
+l1:  Crash through the surface, where they can't hurt us
 
-I'm off the deep end, watch as I dive in
-I'll never meet the ground
-Crash through the surface, where they can't hurt us
-We're far from the shallow now
+c1:      |G            D      |Em
+l1: We're far from the shallow now
 
-In the sha-, shallow
-In the sha-ha-sha-la-la-la-llow
-In the sha-ha, sha-ha-llow
-We're far from the shallow now
+### Post Chorus 1
 
-Oh, ha-ah-ah
-Ah, ha-ah-ah, oh, ah
-Ha-ah-ah-ah
+l3: 木吉他/钢琴分解/弦乐/贝斯
 
-I'm off the deep end, watch as I dive in
-I'll never meet the ground
-Crash through the surface, where they can't hurt us
-We're far from the shallow now
+c1: |Am            |D
+l1:    In the sha-, shallow
 
-In the sha-ha, sha-ha-llow
-In the sha-ha-sha-la-la-la-llow
-In the sha-ha, sha-ha-llow
-We're far from the shallow now
+c1: |G       D          |Em
+l1:   In the sha-ha-sha- la-la-la-llow
+
+c1: |Am              |D
+l1:    In the sha-ha, sha-ha-llow
+
+c1:       |G            D      |Em
+l1:  We're far from the shallow now
+
+### Bridge
+
+c1: |Em ______ 
+
+l3: 电吉他/钢琴分解/弦乐/贝斯/鼓
+
+c1: |Bm        |D
+l1:  Oh, ha-ah- ah
+
+c1: |A         |Em
+l1:  Ah, ha-ah- ah, oh, ah
+
+c1: |Bm       |D
+l1:  Ha-ah-ah- ah
+
+c1: |D
+l3:  _
+
+### Chorus 2
+
+l3: 电吉他/钢琴分解/弦乐/贝斯/鼓
+
+c1: |Am                   |D
+l1:  I'm off the deep end, watch as I dive in
+
+c1: |G          D       |Em
+l1:  I'll never meet the ground
+
+c1: |Am                        |D
+l1:  Crash through the surface, where they can't hurt us
+
+c1:      |G            D      |Em
+l1: We're far from the shallow now
+
+### Post Chorus 2
+
+l3: 电吉他/钢琴分解/弦乐/贝斯/鼓
+
+c1: |Am            |D
+l1:    In the sha-, shallow
+
+c1: |G       D          |Em
+l1:   In the sha-ha-sha- la-la-la-llow
+
+c1: |Am              |D
+l1:    In the sha-ha, sha-ha-llow
+
+c1:       |G            D      |Em
+l1:  We're far from the shallow now
+
+l3:  第一拍结束
+c1: |Em
