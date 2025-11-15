@@ -5,6 +5,8 @@
 
 ### Intro
 
+c1: |A ______ |Dm _____ |A ______ |Dm 
+
 ### Verse
 
 c1: |A          |D   Dm
