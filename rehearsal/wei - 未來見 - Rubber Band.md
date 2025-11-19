@@ -8,11 +8,21 @@ c1: Key: D
 
 ## Intro
 
-c1: |D      |A/C#   |Bm    |Bb aug
+c1: |D _____ |A/C# ____ |Bm ____ |Bbaug
+
+:::abcl4
+K: D
+|:[de]3/2[df]/2 -[df]/2[de]/2[df] -[df]2 [fa]2|[ce]3/2[cf]/2 -[cf]/2[ce]/2[cf] -[cf]2 [ea]2|
+:::
+
+:::abcl4
+K: D
+|[Ac]3/2[Ad]/2 -[Ad]/2[Ac]/2[Ad] -[Ad]2 [df]2|[_Bdf]4 [_Bde]4:|
+:::
+
 l1:  _______ _______ ______
 
-c1: |D      |A/C#   |Bm    |Bb aug
-l1:  _______ _______ ______
+c1: |D _____ |A/C# ____ |Bm ____ |Bbaug
 
 ## Verse
 
@@ -128,16 +138,16 @@ l1: 無憾 的 _ 可做
 
 ## Outro
 
-c1: |D      |A/C#   |Bm    |Bb aug
+c1: |D      |A/C#   |Bm    |Bbaug
 l1:  我 ____ _______ ______
 
-c1: |D      |A/C#   |Bm    |Bb aug
+c1: |D      |A/C#   |Bm    |Bbaug
 l1:  _______ _______ ______
 
-c1: |D      |A/C#   |Bm    |Bb aug
+c1: |D      |A/C#   |Bm    |Bbaug
 l1:  _______ _______ ______
 
-c1: |D      |A/C#   |Bm    |Bb aug
+c1: |D      |A/C#   |Bm    |Bbaug
 l1:  _______ _______ ______
 
 c1: |D
