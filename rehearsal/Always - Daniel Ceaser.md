@@ -57,6 +57,10 @@ Losing my head over you
 
 ### Chorus 2
 
+c1: |A E/G# |Em7 F#7 D Dm C#m D/E
+
+c1: |A E/G# |Em7 F#7 D Dm C#m Dm C#m D E
+
 And I'll be here, 'cause we both know how it goes
 I don't want things to change, I pray they stay the same always
 And I don't care if you're with somebody else
@@ -66,6 +70,14 @@ Always, ways, ways
 I'm always, ways, ways
 
 ### Outro
+
+c1: |G D A F#m
+
+c1: |G D A F#m
+
+c1: |G D A F#m
+
+c1: |G D A E/G# F#m7 D D/E
 
 Always, you can count on it, sure as the stars in the sky
 Always, you can count on it, sure as the sun will rise
