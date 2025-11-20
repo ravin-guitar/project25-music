@@ -4,6 +4,8 @@ youTubeId: VgJcvrVjhZk
 
 ## shu - Soufflé - 許光漢
 
+c1: 1 = Ab
+
 ### Intro
 
 ### Verse 1
