@@ -51,6 +51,12 @@ l1: 能 否都珍 惜一世
 
 ## Chorus
 
+:::abcl4
+K: D style=rhythm
+|B0 | B2 B2
+[K: style=normal] E/2F/2A/2B/2 d/4e/4d/2B
+:::
+
 c1: |D    A     |Bm   F#m
 l1:    幾 張臉略 過 _ 未留
 
