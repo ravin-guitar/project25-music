@@ -14,17 +14,34 @@ c1: |C#m _____ |Emaj7 _____ |C#/E# _____ |F#m7 G#m7
 
 l3:                                         ⬇ Dr + Bs
 c1: |Amaj7 _____ |G#m7 ____ |C#m7 _____ |%
-l1:  _
 
+:::abcl4
+K: E
+|:zC/2C/2 B,/2C/2C/2C/2 {E}F2 Ez:|G2FB2A3||
+:::
+
+l1:  _
 c1: |C#m _____ |C#m _____ |F#m7 ____ |G#7
-l1:  _
 
+:::abcl4
+K: E
+|:zC/2C/2 B,/2C/2C/2C/2 {E}F2 Ez:|BAEG2F3/2||
+:::
+
+l1:  _
 c1: |C#m _____ |C#m _____ |F#m7 ____ |G#m7
 
 ### Verse
 
 c1: |C#m  B   |Amaj7 |F#m  B   |E
 l1:  爱恋 没经 验   _ 今天 初发 现
+
+:::abcl4
+K: E
+|z8|z8|z4F=G^G2|-G4{G}D4
+:::
+
+l1:  _
 
 c1: |F#m7    |G#m7    |F#m7        |G#7
 l1:  遥遥共他 见一面 _ 那份快乐太新 鲜
