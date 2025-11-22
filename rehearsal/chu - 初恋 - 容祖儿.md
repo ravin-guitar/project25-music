@@ -40,7 +40,7 @@ c1: |G#7
 
 ## Pre Chorus
 
-c1: |C#m7      |D#           |A     |G#m
+c1: |C#m7      |B            |A     |G#m
 l1:  默默望著是  默默望著那目 光似 _ 电
 
 c1: |A         |A        |G#7  |G#7
@@ -99,7 +99,7 @@ c1: |G#7
 
 ## Pre Chorus 2
 
-c1: |C#m7      |D#           |A     |G#m
+c1: |C#m7      |B            |A     |G#m
 l1:  默默望著是  默默望著那目 光似 _ 电
 
 c1: |A         |A        |G#7  |G#7
