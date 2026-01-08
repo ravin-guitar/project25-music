@@ -5,6 +5,8 @@
 
 c1: 1 = G
 
+l3: Key to F
+
 ### Intro
 
 ### Verse 1
