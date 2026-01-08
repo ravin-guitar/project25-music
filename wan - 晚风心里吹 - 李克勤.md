@@ -7,6 +7,8 @@ c1: 1 = G
 
 l3: Key to F
 
+l3: 先过Chorus的后8个小节再前奏
+
 ### Intro
 
 ### Verse 1
