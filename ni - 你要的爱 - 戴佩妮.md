@@ -4,7 +4,7 @@ youTubeId: oV5wT-ps9DI
 
 # 你要的爱 - 戴佩妮
 
-c1: Key: C
+c1: Key: F
 
 ## Intro
 
