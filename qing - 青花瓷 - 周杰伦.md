@@ -6,6 +6,8 @@ youTubeId: _sDTqCXmiro
 
 ### Intro
 
+
+
 ### Verse 1 (Bass)
 
 l3: Bass
