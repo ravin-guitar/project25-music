@@ -4,7 +4,7 @@ youTubeId: _sDTqCXmiro
 
 ## 青花瓷 - 周杰伦
 
-c1: 1 = Db
+c1: 1 = Db -> D
 
 ### Intro
 
