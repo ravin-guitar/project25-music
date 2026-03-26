@@ -4,7 +4,15 @@ youTube: iLYtKwqRNOY
 
 ## 海市蜃楼 - Play Cover
 
+c1: 1 = Db
+
 ### Intro
+
+l4: 63363225-55-33362222136
+
+c1: |Bbm __ |Db __ |Ab __ |Bbm
+
+c1: |Bbm __ |Gb __ |Db __ |Ab
 
 ### Verse 1
 
