@@ -13,7 +13,7 @@ l3: 女生key: G
 c1: Fadd9     Em7b5  A7     Dm7b5 Dbm7b5 Cm7b5
 l1: _________ ______ _______
 
-c1: |Fo7     Bb  Am7 Gm9    C7sus4   |C7
+c1: |Fdim7     Bb  Am7 Gm9    C7sus4   |C7
 l1:  _______ ___ ___ ______ _________
 
 ### A
