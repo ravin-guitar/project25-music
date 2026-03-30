@@ -8,11 +8,13 @@ c1: 1 = E
 
 ### Intro (Edge of breakup Guitar)
 
-l4: 36712
+l4: Boosted Edge Clean, 36712 starts then B.C
 
 c1: |Amaj7 _ B7 __ |C#m7 ______ |Amaj7 _ B7 __ |C#m7
 
 ### Verse
+
+l4: Edge Clean / B.C
 
 c1:     |Amaj7 _ B       |C#m9
 l1: 烽煙 起尋    愛似浪淘 沙
@@ -28,6 +30,8 @@ l1: 夢中 我痴    痴牽 掛
 
 ### Pre-Chorus
 
+l4: Syncopations
+
 c1:       |C#m    -        -       E
 l1: 顧不顧 將相王 侯管不管 萬世千秋
 
@@ -41,6 +45,8 @@ c1: |G#m
 l1:  誰在乎誰主春秋
 
 ### Chorus 1
+
+l4: Edge Clean / Strumming
 
 c1:         |Amaj7    B        |G#m7   -  C#m9 _- _B
 l1: 一生有愛 何懼風飛 沙 悲白髮 留不住 芳 華
@@ -56,7 +62,11 @@ l1:  她袖  手天 下
 
 ### Interlude + Solo
 
+l3: Boosted OD (671)
+
 c1: |C#m ___ |C#m ___ |C#m ___ |C#m ___
+
+l3: Solo Lead
 
 c1: |Amaj7 _  B __ |C#m7
 
