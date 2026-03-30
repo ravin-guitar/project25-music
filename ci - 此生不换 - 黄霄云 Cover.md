@@ -7,7 +7,7 @@ c1: 1 = Db
 
 ### Intro
 
-c1: |Db __ |Db __ |Db __ |Gb
+c1: |Db __ |Gb __ |Db __ |Gb
 
 ### Verse 1
 
