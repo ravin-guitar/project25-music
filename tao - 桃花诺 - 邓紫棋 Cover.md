@@ -10,11 +10,16 @@ l3: 原调 C
 
 ### Intro
 
-l4: 6 5 3 5 |
+l4: 0 0 6 5 3 5 |
 
-c1: |Ebmaj7 _ Dm7 __ |Gm7 _____ |Ebmaj7 _ Dm7 __ |Gm7 
+l3:  全部乐器 轻柔
+c1: |Ebmaj7   Dm7 __ |Gm7 
+
+c1: |Ebmaj7 _ Dm7 __ |Gm7 
 
 ### Verse 1
+
+l3: Gt Chords
 
 c1:       |Ebmaj7 _ Dm7 __ |Gm7
 l1: 初见若 缱绻     誓言    风吹云舒卷
@@ -54,10 +59,11 @@ l1: 忘前 路    忘旧 物 忘心 忘你忘最 初
 c1:     |Cm7   Dm7   |Gm7
 l1: 花斑 斑 留 在爱你 的路
 
+l4:  1弦6品 1621 and so on
 l3:  Gt
 c1: |N.C.
 
-### Verse 2
+### Verse 2 (All)
 
 c1:       |Ebmaj7 _ Dm7 __ |Gm7
 l1: 这一世 牵绊     纠结    触动了心弦
@@ -73,9 +79,13 @@ l1: 眉目 间 还 有我的 思念
 
 ### Solo
 
-c1: |Ebmaj7 _ Dm7 __ |Gm7 _____ |Cm7 _ F __ |Bbmaj9
+c1: |Ebmaj7 _ Dm7 __ |Gm7 
 
-c1: |Ebmaj7 _ Dm7 __ |Gm7 _ Eø __ |Cm7   Dm7   |Gm7
+c1: |Cm7 _ F ___ |Bbmaj9
+
+c1: |Ebmaj7 _ Dm7 __ |Gm7 _ Eø 
+
+c1: |Cm7 _  Dm7 __ |Gm7
 
 ### Chorus 2
 
@@ -105,10 +115,12 @@ l1: 聽雨書 望天     湖 人間 寥寥情難 訴
 c1:     |Cm7  ___ |Dm7
 l1: 回憶 斑斑         留在愛你的
 
-c1: |Gm7 ____ |Gm7
+l3:  安静
+c1: |Gm7 _______ |Gm7
 l1:  路 
 
 ### Outro
 
+l3:  全部
 c1: |Ebmaj7 _ Dm7 __ |Gm7 _____ |Ebmaj7 _ Dm7 __ |Gm9
 
