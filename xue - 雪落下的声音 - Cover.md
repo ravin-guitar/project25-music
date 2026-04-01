@@ -6,30 +6,33 @@ youTubeId: rwUsxIRVO60
 
 c1: 1 = Db
 
-### Intro (Gt)
+### Intro (Gt only)
 
-c1: |Dbmaj7 #11 _ |Dbmaj7 #11 _ |Fm11 ___ |Fm11
+l3:  只有Gt
+c1: |Dbmaj7   Fm11 __ |Fm11 ___ |Ebm13 ___ |Ebm13 ___ 
 
-c1: |Ebm13 ___ |Ebm13 ___ |Ab13 ____ |Ab13
+l4: 0561 7
+c1:       _ |Ebm13 ______|Ab13 _______ |Ab13
 
-### Verse 1
+### Verse 1 (Bass Drums Gt)
 
-l4: 
-
-l3:              停一小节                   注意属七
+l3:    轻        停一小节                   注意属七
 c1:   |Dbmaj7 _ |Dbmaj9          |Gbmaj7 _ |Gb7
 l1: 轻 轻                落在我掌 心
 
-c1:   |Ebm7 _ |Ebm7        |Ab __ |Ab
+l4:                              512 375
+c1:   |Ebm7 _ |Ebm7        |Ab _    |Ab
 l1: 静 静          在掌中结 冰
 
+l4:                               6     631
 c1:   |Dbmaj7 _ |Dbmaj9    |Gbmaj7 _ |Gbmaj7
 l1: 相 逢          是前世注 定
 
+l4:                                  5613531- 
 c1:   |Ebm7 _ |Ab       |Dbmaj7 _ |Dbmaj7
 l1: 痛 并       把快乐尝 尽
 
-### Chorus
+### Chorus (全部)
 
 c1: |Dbmaj7           |Fm7
 l1:  我慢慢地听 雪落下 的声音
@@ -53,15 +56,18 @@ l1:  仿佛是你贴着我叫 卿卿
 c1:     |Gbmaj7 _ |Fm7      Bbm7
 l1: 睁开 了眼睛    漫天的雪 无情
 
+l4:   461463-
+c1: |Ebm7      |Ab7
+l1:              谁来赔这一生
 
-c1: |Ebm7    |Ab7
-l1:       __   谁来赔这一生
 
+l4:             - - 0561 3561
 c1: |%       _ |%
 l1:   好光景
 
 ### Solo
 
+l4:  33--
 c1: |Dbmaj7 _ |Dbmaj7 _ |Gbmaj7 _ |Gbmaj7 - - Fm
 
 c1: |Ebm7 _ |Ebm7 _ |Ab7 _ |Ab7
@@ -118,8 +124,7 @@ l3:  拖长
 c1: |Ab
 l1:  谁来赔这一生 好光景
 
-l3:  Gt
-
-c1: |Dbmaj7 - Gbmaj7 Fm7 | Ebm7 _ Dm7
+l3:  只有吉他
+c1: |Dbmaj7   Gbmaj7 Fm7 | Ebm7 _ Dm7
 
 c1: |Dbmaj7 ______ | Dbmaj9
