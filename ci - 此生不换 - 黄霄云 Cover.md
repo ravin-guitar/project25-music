@@ -7,7 +7,8 @@ c1: 1 = Db
 
 ### Intro
 
-c1: |Db __ |Gb __ |Db __ |Gb
+l4:            515253~5~
+c1: |Db __ |Gb __       |Db __ |Gb
 
 ### Verse 1
 
@@ -45,6 +46,9 @@ l1: 回头 看 不 曾 走 远 依 依 目 光 此 生不换
 c1:   |Gb       Fm   |Gb       Bbm  |Ebm  Ab     |Db
 l1: 要 分散不习 惯 怎 么算都太 难 分 开之 后 更勇 敢
 
+l4:            515253~5~
+c1: |Gb
+
 ### Verse 3
 
 c1: |Db                  |Gb
@@ -74,11 +78,11 @@ c1: |Gb __ |Bbm __ |Gb __ |Db __
 
 c1: |Ebm __ |Bbm __ |Ebm __ |Ab
 
-### Chorus 3 (Kb+清唱)
+### Chorus 3
 
-l3:                                      加花，All in
-c1:     |Gb   |Fm   Bbm  |Ebm  Ab  |Db   Db7
-l1: 别害 怕 风 轻云 淡 回 头 看  此 生不 换
+l3:      Kb+清唱                        加花 All in
+c1:     |Gb       |Fm   Bbm  |Ebm  Ab  |Db   Db7
+l1: 别害 怕     风 轻云 淡 回 头 看  此 生不 换
 
 c1:   |Gb       Fm   |Gb       Bbm  |Ebm  Ab     |Db
 l1: 要 分散不习 惯 怎 么算都太 难 分 开之 后 更勇 敢
@@ -93,9 +97,9 @@ l3: 清唱                             加花，All in
 c1:     |G    |F#m  Bm   |Em  A     |D
 l1: 回头 看 不 曾走 远 依 依目 光 此 生不换
 
+l3:                                                安静
 c1:   |G        F#m   |G        Bm   |Em   A      |D
 l1: 要 分散不习 惯  怎 么算都太 难 分 开之 后 更勇 敢
-
 
 c1:      |G     A   |Bm
 l1:  愿这 爱 世 代相 传
