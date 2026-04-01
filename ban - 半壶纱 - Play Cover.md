@@ -7,7 +7,8 @@ c1: 1 = C
 
 ### Intro
 
-c1: |Am7 __ |Am7 __ |Am7 __ 
+l4: 3232356532353
+c1: Am7          |Am7 __ |Am7 __ 
 
 ### Verse 1
 
@@ -51,7 +52,9 @@ l1: 怎知那 浮生一片 草     歲月催人 老
 c1: |Dm       Em      |Am
 l1:  風月花鳥 一笑塵緣 了
 
-### Interlude
+### Solo
+
+l3: Gt Solo
 
 c1: |F _ G __ |Em _ Am __ |F _ G __ |Am
 
@@ -111,7 +114,7 @@ l1: 怎知那 浮生一片 草     歲月催人 老
 c1: |Dm       Em      |Am
 l1:  風月花鳥 一笑塵緣 了
 
-l3: Gt ending
+l3: Vocal 哼唱
 
 c1: |Am __ |F ___ |G ___ |Am
 

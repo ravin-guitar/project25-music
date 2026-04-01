@@ -7,7 +7,8 @@ c1: 1 = Db
 
 ### Intro
 
-c1: |Db __ |Db __ |Db __ |Gb
+l4:            515253~5~
+c1: |Db __ |Gb __       |Db __ |Gb
 
 ### Verse 1
 
@@ -39,11 +40,20 @@ l1: 承 诺在水天 之 间
 
 ### Chorus 1
 
-c1:     |Gb   |Fm    Bbm  |Ebm   Ab   |Db    Db7
-l1: 回头 看 不 曾 走 远 依 依 目 光 此 生不换
+c1:     |Gb   |Fm    Bbm  
+l1: 回头 看 不 曾 走 远 
 
-c1:   |Gb       Fm   |Gb       Bbm  |Ebm  Ab     |Db
-l1: 要 分散不习 惯 怎 么算都太 难 分 开之 后 更勇 敢
+c1:   |Ebm   Ab   |Db    Db7
+l1: 依 依 目 光 此 生不换
+
+c1:   |Gb       Fm   |Gb       Bbm
+l1: 要 分散不习 惯 怎 么算都太 难 
+
+c1:   |Ebm  Ab     |Db
+l1: 分 开之 后 更勇 敢
+
+l4:            515253~5~
+c1: |Gb
 
 ### Verse 3
 
@@ -61,11 +71,17 @@ l1: 错 过惊世的依 恋
 
 ### Chorus 2
 
-c1:     |Gb   |Fm    Bbm  |Ebm  Ab   |Db    Db7
-l1: 回头 看 不 曾 走 远 眷 恋一 人 流 连忘返
+c1:     |Gb   |Fm    Bbm
+l1: 回头 看 不 曾 走 远
 
-c1:   |Gb        Fm   |Gb        Bbm  |Ebm  Ab    |Db
-l1: 多 少汗 够温 暖 你 哭喊 我呼 唤 听 清耳 边的呢 喃
+c1:   |Ebm  Ab   |Db    Db7
+l1: 眷 恋一 人 流 连忘返
+
+c1:   |Gb        Fm   |Gb        Bbm
+l1: 多 少汗 够温 暖 你 哭喊 我呼 唤
+
+c1:   |Ebm  Ab    |Db
+l1: 听 清耳 边的呢 喃
 
 
 ### Solo (Guitar)
@@ -74,14 +90,21 @@ c1: |Gb __ |Bbm __ |Gb __ |Db __
 
 c1: |Ebm __ |Bbm __ |Ebm __ |Ab
 
-### Chorus 3 (Kb+清唱)
+### Chorus 3
 
-l3:                                      加花，All in
-c1:     |Gb   |Fm   Bbm  |Ebm  Ab  |Db   Db7
-l1: 别害 怕 风 轻云 淡 回 头 看  此 生不 换
+l3:      Kb+清唱
+c1:     |Gb       |Fm   Bbm
+l1: 别害 怕     风 轻云 淡
 
-c1:   |Gb       Fm   |Gb       Bbm  |Ebm  Ab     |Db
-l1: 要 分散不习 惯 怎 么算都太 难 分 开之 后 更勇 敢
+l3:              加花 All in
+c1:   |Ebm  Ab  |Db   Db7
+l1: 回 头 看  此 生不 换
+
+c1:   |Gb       Fm   |Gb       Bbm
+l1: 要 分散不习 惯 怎 么算都太 难
+
+c1:   |Ebm  Ab     |Db
+l1: 分 开之 后 更勇 敢
 
 l3: 升1key
 c1:       |Bm    A   |Esus4 __ |E
@@ -89,13 +112,20 @@ l1:   愿这 爱 世 代相 传
 
 ### Chorus 4
 
-l3: 清唱                             加花，All in
-c1:     |G    |F#m  Bm   |Em  A     |D
-l1: 回头 看 不 曾走 远 依 依目 光 此 生不换
+l3: 清唱                             
+c1:     |G    |F#m  Bm
+l1: 回头 看 不 曾走 远
 
-c1:   |G        F#m   |G        Bm   |Em   A      |D
-l1: 要 分散不习 惯  怎 么算都太 难 分 开之 后 更勇 敢
+l3:               加花，All in
+c1:   |Em  A     |D
+l1: 依 依目 光 此 生不换
 
+c1:   |G        F#m   |G        Bm
+l1: 要 分散不习 惯  怎 么算都太 难
+
+l3:                 安静
+c1:   |Em   A      |D
+l1: 分 开之 后 更勇 敢
 
 c1:      |G     A   |Bm
 l1:  愿这 爱 世 代相 传
