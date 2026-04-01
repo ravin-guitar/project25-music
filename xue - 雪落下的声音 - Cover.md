@@ -14,8 +14,11 @@ c1: |Ebm13 ___ |Ebm13 ___ |Ab13 ____ |Ab13
 
 ### Verse 1
 
-c1:   |Dbmaj7 _ |Dbmaj9      |Gbmaj7 _ |Gb7
-l1: 轻 轻            落在我掌 心
+l4: 
+
+l3:              停一小节                   注意属七
+c1:   |Dbmaj7 _ |Dbmaj9          |Gbmaj7 _ |Gb7
+l1: 轻 轻                落在我掌 心
 
 c1:   |Ebm7 _ |Ebm7        |Ab __ |Ab
 l1: 静 静          在掌中结 冰
