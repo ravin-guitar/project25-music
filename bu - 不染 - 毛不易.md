@@ -4,6 +4,40 @@ youTubeId: v=89LfxhV_fQ8
 
 ## 不染 - 毛不易
 
+=nmn=c1: - - 4maj - - -
+=nmn=v1: 1 2 | 3 4 5 6
+=nmn=l1: do re mi fa so la
+
+=nmn=c1: 4maj - - -
+=nmn=v1: | 3 4 5 6
+=nmn=l1: do re mi fa
+
+=nmn=c1: 4maj - - -
+=nmn=v1: | 3 4 5 6
+=nmn=l1: do re mi fa
+
+=nmn=c1: 4maj - - -
+=nmn=v1: | 3 4 5 6
+=nmn=l1: do re mi fa
+
+=nmn=c1: 4maj - - -
+=nmn=v1: | 3 4 5 6
+=nmn=l1: do re mi fa
+
+=nmn=c1: 4maj - - -
+=nmn=v1: | 3 4 5 6
+=nmn=l1: do re mi fa
+
+=nmn=c1: 4maj - - -
+=nmn=v1: | 3 4 5 6
+=nmn=l1: do re mi fa
+
+=nmn=c1: 4maj - - -
+=nmn=v1: | 3 4 5 6
+=nmn=l1: do re mi fa
+
+=nmn=br
+
 c1: 1 = A
 
 ### Intro
