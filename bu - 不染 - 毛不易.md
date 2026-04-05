@@ -28,14 +28,6 @@ youTubeId: v=89LfxhV_fQ8
 =nmn=v1: | 3 4 5 6
 =nmn=l1: do re mi fa
 
-=nmn=c1: 4maj - - -
-=nmn=v1: | 3 4 5 6
-=nmn=l1: do re mi fa
-
-=nmn=c1: 4maj - - -
-=nmn=v1: | 3 4 5 6
-=nmn=l1: do re mi fa
-
 =nmn=br
 
 c1: 1 = A
