@@ -4,43 +4,17 @@ youTubeId: v=89LfxhV_fQ8
 
 ## 不染 - 毛不易
 
-=nmn=c1: - - 4maj - - -
-=nmn=v1: 1 2 | 3 4 5 6
-=nmn=l1: do re mi fa so la
-
-=nmn=c1: 4maj - - -
-=nmn=v1: | 3 4 5 6
-=nmn=l1: do re mi fa
-
-=nmn=c1: 4maj - - -
-=nmn=v1: | 3 4 5 6
-=nmn=l1: do re mi fa
-
-=nmn=c1: 4maj - - -
-=nmn=v1: | 3 4 5 6
-=nmn=l1: do re mi fa
-
-=nmn=c1: 4maj - - -
-=nmn=v1: | 3 4 5 6
-=nmn=l1: do re mi fa
-
-=nmn=c1: 4maj - - -
-=nmn=v1: | 3 4 5 6
-=nmn=l1: do re mi fa
-
-=nmn=c1: 4maj - - -
-=nmn=v1: | 3 4 5 6
-=nmn=l1: do re mi fa
-
-=nmn=c1: 4maj - - -
-=nmn=v1: | 3 4 5 6
-=nmn=l1: do re mi fa
-
-=nmn=c1: 4maj - - -
-=nmn=v1: | 3 4 5 6
-=nmn=l1: do re mi fa
+=nmn=c1: C - - - F - - -  G - - - C - - -
+=nmn=v1: 1 2 3 4 | 5 6 7 1' | 1' 7 6 5 | 4 3 2 1
+=nmn=l1: do re mi fa sol la ti do do ti la sol fa mi re do
+=nmn=g1: 1_ 2_ 3_ 4_ 5_ 6_ 7_ 1'_  1'_ 7_ 6_ 5_ 4_ 3_ 2_ 1_  1_ 1_ 2_ 2_ 3_ 3_ 4_ 4_  5_ 5_ 6_ 6_ 7_ 7_ 1'_ 1'_
+=nmn=b1: 1 - - - 4 - - -  5 - - - 1 - - -
 
 =nmn=br
+
+=nmn=v1: 1 2 3 4 | 5 6 7 1' | 1' 7 6 5 | 4 3 2 1
+=nmn=l1: do re mi fa sol la ti do do ti la sol fa mi re do
+=nmn=g1: 1_ 2_ 3_ 4_ 5_ 6_ 7_ 1'_ 1'_ 7_ 6_ 5_ 4_ 3_ 2_ 1_ 1_ 2_ 3_ 4_ 5_ 6_ 7_ 1'_ 1'_ 7_ 6_ 5_ 4_ 3_ 2_ 1_
 
 c1: 1 = A
 
