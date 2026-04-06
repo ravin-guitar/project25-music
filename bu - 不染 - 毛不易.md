@@ -4,17 +4,23 @@ youTubeId: v=89LfxhV_fQ8
 
 ## 不染 - 毛不易
 
-=nmn=c1: C - - - F - - -  G - - - C - - -
-=nmn=g1: 1_ 2_ 3_ 4_ 5_ 6_ 7_ 1'_  1'_ 7_ 1_ 5_ 4_ 3_ 2_ 1__ 1__  1_ 1_ 2_ 2_ 3_ 3_ 4_ 4_  5_ 5_ 6_ 6_ 7_ 7_ 0
-=nmn=v1: 1 2 3 4 | _ _ _ _ | 1' 7 6 5 | 4 1 0__ 1_. 0
-=nmn=l1: do re mi fa sol la ti do do ti la sol fa mi re do
-=nmn=b1: 1 - - - 4 - - -  5 - - - 0 - - -
+=nmn=c1: C - - - F - - -  
+=nmn=g1: 1_ 2_ 3_ 4_ 5_ 6_ 7_ 1'_  1'_ 7_ 1_ 5_ 4_ 3_ 2_ 1__ 1__ 
+=nmn=v1: 1 2 3 4 | _ _ _ _ 
+=nmn=l1: do re mi fa sol la ti do 
+=nmn=b1: 1 - - - 4 - - -
 
-=nmn=c1: 
-=nmn=g1: 
-=nmn=v1: 1 2 3 4 | 5 6 7 1' | 1' 7 6 5 | 4 3 2 1
-=nmn=l1: do re mi fa sol la ti do do ti la sol fa mi re do
-=nmn=g1: 1_ 2_ 3_ 4_ 5_ 6_ 7_ 1'_ 1'_ 7_ 6_ 5_ 4_ 3_ 2_ 1_ 1_ 2_ 3_ 4_ 5_ 6_ 7_ 1'_ 1'_ 7_ 6_ 5_ 4_ 3_ 2_ 1_
+=nmn=c1: C - - - F - - -  
+=nmn=g1: 1_ 2_ 3_ 4_ 5_ 6_ 7_ 1'_  1'_ 7_ 1_ 5_ 4_ 3_ 2_ 1__ 1__ 
+=nmn=v1: | 1 2 3 4 | _ _ _ _ 
+=nmn=l1: do re mi fa sol la ti do 
+=nmn=b1: 1 - - - 4 - - -
+
+=nmn=c1: C - - - F - - -  
+=nmn=g1: 1_ 2_ 3_ 4_ 5_ 6_ 7_ 1'_  1'_ 7_ 1_ 5_ 4_ 3_ 2_ 1__ 1__ 
+=nmn=v1: | 1 2 3 4 | _ _ _ _ 
+=nmn=l1: do re mi fa sol la ti do 
+=nmn=b1: 1 - - - 4 - - -
 
 c1: 1 = A
 
