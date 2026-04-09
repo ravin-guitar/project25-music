@@ -4,7 +4,7 @@ youTubeId: v=89LfxhV_fQ8
 
 ## 不染 - 毛不易
 
-c1= C F
+c1= C F G
 
 c1: 1 = A
 
