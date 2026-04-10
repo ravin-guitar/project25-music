@@ -4,11 +4,13 @@ youTubeId: v=89LfxhV_fQ8
 
 ## 不染 - 毛不易
 
+c1= C G
+
 c1: 1 = A
 
 ### Intro
 
-c1: |Dmaj7 _ E ___ |F#m7 ______ |Dmaj7 _ E ___ |F#m7
+c1: |Dmaj7 _ E __ |F#m7 ___ |Dmaj7 _ E __ |F#m7
 
 c1: |Dmaj7 _ _ ___ |A ______ |G _ _ ___ |C#7
 
