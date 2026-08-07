@@ -3,21 +3,23 @@
 
 ## Chords
 
-Intro / A / B
+### Intro / A / B
 
-c: |Ebm7    |Ebm7    |Ebm7    |Ebm7    
-l:  ________ ________ ________
+c1= Ebm7 _ _ _ Ebm7 _ _ _ Ebm7 _ _ _ Ebm7    
+v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
 
-c: |Ebm7    |Ebm7    |Ebm7    |Ebm7    
-l:  ________ ________ ________
+br=
 
-C
+c1= Ebm7 _ _ _ Ebm7 _ _ _ Ebm7 _ _ _ Ebm7    
+v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
 
-c: |Bb7  B7  |Bb7  A7b5 |Ab7     |Bb7#5
-l:  ____ ____ ____ _____ ________
+### C
 
-Interlude
+c1= Bb7 _ B7 _ Bb7 _ A7b5 _ Ab7 _ _ _ Bb7#5
+v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
 
-c: |Ebm7    |Ebm7    |Ebm7    |Ebm7    
-l:  ________ ________ ________
+### Interlude
+
+c1= Ebm7 _ _ _ Ebm7 _ _ _ Ebm7 _ _ _ Ebm7    
+v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
 
