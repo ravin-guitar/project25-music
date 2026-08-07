@@ -1,10 +1,12 @@
 
-# Starsbourg / St. Denis - Roy Hargrove
+## Starsbourg / St. Denis - Roy Hargrove
 
-## Chords
+### Chords
 
-c: | Bbm7  Cm7   | Db△7        | Bbm7  Cm7   | Db△7        
-l:   _____ ______  _____ ______  _____ ______  _____ ______
+c1= Bbm7 _ Cm7 _ Db△7 _ _ _ Bbm7 _ Cm7 _ Db△7
+v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
 
-c: | Bbm7  Cm7   | Db△7  Ebsus | Ab△7        | F7b9
-l:   _____ ______  _____ ______  _____ ______  _____ ______
+_
+
+c1= Bbm7 _ Cm7 _ Db△7 _ Ebsus _ Ab△7 _ _ _ F7b9
+v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
