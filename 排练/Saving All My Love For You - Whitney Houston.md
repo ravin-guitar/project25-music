@@ -111,20 +111,49 @@ v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
 
 We'll be making love the whole night through
 
-c1= Dmaj7 _ C#m7 _ Bm7 _ Dmaj7 _ C#m7 _ Bm7 _
+c1= Dmaj7 _ C#m7 _ Bm7 _ _ _ Dmaj7 _ C#m7 _ Bm7 _
 v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
 
 So I'm saving all my love Yes, I'm saving all my love
 
-c1= Dmaj7 _ C#m7 _ Bm7 _ E11 _ Amaj7 _ _ _ %
-v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
+c1= Dmaj7 _ C#m7 _ Bm7 _ E11 _ Amaj7 _ _ _ % _ _ _ % _ _ _ %
+v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
 
 Yes, I'm saving all my love for you
+
+### Interlude 2
+
+c1= Amaj7 _ _ _ F#m7 _ _ _ Bm7 _ _ _ E11
+v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
+
 No other woman is gonna love you more
+
+c1= F#m7 _ _ _ B7 _ _ _ F#m7 _ _ _ B7
+v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
+
 'Cause tonight is the night that I'm feeling alright
+
+c1= A _ E#/G _ F#m7 _ A/E _ G#m7 _ _ _ C#7
+v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
+
 We'll be making love the whole night through
-So I'm saving all my love
-Yeah, I'm saving all my lovin'
+
+c1= Dmaj7 _ C#m7 _ Bm7 _ _ _ Dmaj7 _ C#m7 _ Bm7 _
+v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
+
+So I'm saving all my love Yeah, I'm saving all my love
+
+c1= Dmaj7 _ C#m7 _ Bm7 _ E11 _ 
+v1= _ _ _ _ | _ _ _ _ |
+
 Yes, I'm saving all my love for you
+
+c1= Amaj7 _ _ _ F#m7 _ _ _ Bm7 _ _ _ E11
+v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
+
 For you
+
+c1= Amaj7 _ _ _ F#m7 _ _ _ Bm7 _ _ _ E11
+v1= _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ |
+
 For you
